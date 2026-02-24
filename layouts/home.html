@@ -1,0 +1,24 @@
+{{ define "main" }}
+    <div class="welcome-card">
+        <h2 class="welcome-title">{{ T "welcome_title" }}</h2>
+        <p class="welcome-text">{{ T "welcome_text_1" }}</p>
+        <p class="welcome-text">{{ T "welcome_text_2" }}</p>
+        <a href="{{ .Site.LanguagePrefix }}/page/about/" class="welcome-link">{{ T "welcome_read_more" }}</a>
+    </div>
+
+    <section class="article-list">
+        {{ range first 3 (where .Site.RegularPages "Section" "posts") }}
+            {{ partial "article-list/default" . }}
+        {{ end }}
+    </section>
+
+    <div style="text-align: right; padding: 0.5rem 1rem 1rem;">
+        <a href="{{ .Site.LanguagePrefix }}/posts/" class="welcome-link">{{ T "see_more_posts" }}</a>
+    </div>
+
+    {{- partial "footer/footer" . -}}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}

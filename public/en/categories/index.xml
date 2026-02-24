@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Marta&#39;s BG Corner</title>
+        <link>http://localhost:1313/en/categories/</link>
+        <description>Recent content in Categories on Marta&#39;s BG Corner</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Board Games</title>
+            <link>http://localhost:1313/en/categories/board-games/</link>
+            <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/categories/board-games/</guid>
+            <description></description>
+        </item><item>
+            <title>Monthly Play</title>
+            <link>http://localhost:1313/en/categories/monthly-play/</link>
+            <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/categories/monthly-play/</guid>
+            <description></description>
+        </item><item>
+            <title>Reviews</title>
+            <link>http://localhost:1313/en/categories/reviews/</link>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/categories/reviews/</guid>
+            <description></description>
+        </item><item>
+            <title>Yearly Plays</title>
+            <link>http://localhost:1313/en/categories/yearly-plays/</link>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/categories/yearly-plays/</guid>
+            <description></description>
+        </item><item>
+            <title>Conventions</title>
+            <link>http://localhost:1313/en/categories/conventions/</link>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/categories/conventions/</guid>
+            <description></description>
+        </item></channel>
+</rss>

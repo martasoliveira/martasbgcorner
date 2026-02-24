@@ -1,0 +1,8 @@
+<figure>
+    <div style="display: flex; gap: 1rem; align-items: flex-start; justify-content: center; width: 100%; padding-right: 6rem; padding-left: 6rem;">
+        {{ .Inner }}
+    </div>
+    {{ with .Get "caption" }}
+    <figcaption style="text-align: center;">{{ . }}</figcaption>
+    {{ end }}
+</figure>

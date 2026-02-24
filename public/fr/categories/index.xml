@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Marta&#39;s BG Corner</title>
+        <link>http://localhost:1313/fr/categories/</link>
+        <description>Recent content in Categories on Marta&#39;s BG Corner</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr-FR</language>
+        <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Jeux De Société</title>
+            <link>http://localhost:1313/fr/categories/jeux-de-soci%C3%A9t%C3%A9/</link>
+            <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/categories/jeux-de-soci%C3%A9t%C3%A9/</guid>
+            <description></description>
+        </item><item>
+            <title>Parties Du Mois</title>
+            <link>http://localhost:1313/fr/categories/parties-du-mois/</link>
+            <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/categories/parties-du-mois/</guid>
+            <description></description>
+        </item><item>
+            <title>Critiques</title>
+            <link>http://localhost:1313/fr/categories/critiques/</link>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/categories/critiques/</guid>
+            <description></description>
+        </item><item>
+            <title>Parties De L&#39;Année</title>
+            <link>http://localhost:1313/fr/categories/parties-de-lann%C3%A9e/</link>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/categories/parties-de-lann%C3%A9e/</guid>
+            <description></description>
+        </item><item>
+            <title>Conventions</title>
+            <link>http://localhost:1313/fr/categories/conventions/</link>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/categories/conventions/</guid>
+            <description></description>
+        </item></channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Publishers on Marta&#39;s BG Corner</title>
+        <link>http://localhost:1313/en/publishers/</link>
+        <description>Recent content in Publishers on Marta&#39;s BG Corner</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/publishers/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Blue Cocker Games</title>
+            <link>http://localhost:1313/en/publishers/blue-cocker-games/</link>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/publishers/blue-cocker-games/</guid>
+            <description></description>
+        </item><item>
+            <title>Kayenta Games</title>
+            <link>http://localhost:1313/en/publishers/kayenta-games/</link>
+            <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/publishers/kayenta-games/</guid>
+            <description></description>
+        </item><item>
+            <title>Pearl Games</title>
+            <link>http://localhost:1313/en/publishers/pearl-games/</link>
+            <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/publishers/pearl-games/</guid>
+            <description></description>
+        </item><item>
+            <title>InPatience</title>
+            <link>http://localhost:1313/en/publishers/inpatience/</link>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/publishers/inpatience/</guid>
+            <description></description>
+        </item><item>
+            <title>KYF Edition</title>
+            <link>http://localhost:1313/en/publishers/kyf-edition/</link>
+            <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/publishers/kyf-edition/</guid>
+            <description></description>
+        </item><item>
+            <title>Delicious Games</title>
+            <link>http://localhost:1313/en/publishers/delicious-games/</link>
+            <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/publishers/delicious-games/</guid>
+            <description></description>
+        </item><item>
+            <title>Fantasia Games</title>
+            <link>http://localhost:1313/en/publishers/fantasia-games/</link>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/publishers/fantasia-games/</guid>
+            <description></description>
+        </item></channel>
+</rss>

@@ -1,0 +1,16 @@
+{{ $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources) }}
+<article class="{{ if $image }}has-image{{ end }}">
+    <div class="article-header-content">
+        <header class="article-header">
+            {{ partialCached "article/components/details" . .RelPermalink }}
+        </header>
+        {{ if $image }}
+        <div class="article-image article-image-thumbnail">
+            <a href="{{ .RelPermalink }}">
+                <img src="{{ $image.Permalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" loading="lazy"
+                    alt="Featured image of post {{ .Title }}" />
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</article>

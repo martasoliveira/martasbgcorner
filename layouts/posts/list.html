@@ -1,0 +1,75 @@
+{{ define "main" }}
+    <div class="article-list">
+        <h1 style="padding: 0 1rem 1rem;">{{ .Title }}</h1>
+
+        <div class="post-filter">
+            <button class="filter-year active" onclick="clearFilter(this)">{{ T "filter_all" }}</button>
+            {{ range (.Pages.GroupByDate "2006") }}
+                <div class="filter-year-group">
+                    <button class="filter-year" onclick="toggleYear(this, '{{ .Key }}')">{{ .Key }}</button>
+                    <div class="filter-months" id="months-{{ .Key }}" style="display:none;">
+                        {{ range (.Pages.GroupByDate "January 2006") }}
+                        <button class="filter-month" 
+                            data-month="{{ (index .Pages 0).Date.Format "2006-01" }}" 
+                            onclick="filterByMonth(this, '{{ (index .Pages 0).Date.Format "2006-01" }}')">
+                            {{ .Key }}
+                        </button>
+                        {{ end }}
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+
+        {{ $paginator := partial "helper/paginator.html" . }}
+        {{ with $paginator }}
+            <section class="article-list">
+                {{ range .Pages }}
+                    <div class="post-item" data-date="{{ .Date.Format "2006-01" }}">
+                        {{ partial "article-list/default" . }}
+                    </div>
+                {{ end }}
+            </section>
+        {{ end }}
+
+        {{- partial "pagination.html" . -}}
+    </div>
+
+    <script>
+    function clearFilter(btn) {
+        document.querySelectorAll('.post-item').forEach(i => i.style.display = '');
+        document.querySelectorAll('.filter-year, .filter-month').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.filter-months').forEach(m => m.style.display = 'none');
+        btn.classList.add('active');
+    }
+
+    function toggleYear(btn, year) {
+        const months = document.getElementById('months-' + year);
+        const isOpen = months.style.display !== 'none';
+        document.querySelectorAll('.filter-months').forEach(m => m.style.display = 'none');
+        document.querySelectorAll('.filter-year').forEach(b => b.classList.remove('active'));
+        if (!isOpen) {
+            months.style.display = 'flex';
+            btn.classList.add('active');
+            document.querySelectorAll('.post-item').forEach(item => {
+                item.style.display = item.getAttribute('data-date').startsWith(year) ? '' : 'none';
+            });
+        } else {
+            document.querySelectorAll('.post-item').forEach(i => i.style.display = '');
+        }
+    }
+
+    function filterByMonth(btn, month) {
+        document.querySelectorAll('.filter-month').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        document.querySelectorAll('.post-item').forEach(item => {
+            item.style.display = item.getAttribute('data-date') === month ? '' : 'none';
+        });
+    }
+    </script>
+
+    {{ partialCached "footer/footer" . }}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}

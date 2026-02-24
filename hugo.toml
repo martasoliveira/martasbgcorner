@@ -1,0 +1,106 @@
+baseURL = 'https://martasbgcorner.com/'
+DefaultContentLanguage = 'en'
+DefaultContentLanguageInSubdir = true
+theme = 'Stack'
+
+[taxonomies]
+  category  = "categories"
+  tag       = "tags"
+  designer  = "designers"
+  publisher = "publishers"
+  game = "games"
+
+[params.sidebar]
+    emoji = ""
+    avatar = "logos/logo_martasbgcorner.png"
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageCode = 'en-us'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = "Marta's BG Corner"
+    weight = 1
+    
+    [languages.en.params]
+        mainSections = ["posts"]
+        description = "My personal blog"
+
+        [[languages.en.menu.main]]
+            name = "About"
+            url = "/en/page/about"
+            weight = 1
+        [[languages.en.menu.main]]
+            name = "Posts"
+            url = "/en/posts"
+            weight = 2
+        [[languages.en.menu.main]]
+            name = "Categories"
+            url = "/en/categories"
+            weight = 3
+        [[languages.en.menu.main]]
+            name = "Games"
+            url = "/en/games"
+            weight = 4
+        [[languages.en.menu.main]]
+            name = "Designers"
+            url = "/en/designers"
+            weight = 5
+        [[languages.en.menu.main]]
+            name = "Publishers"
+            url = "/en/publishers"
+            weight = 6
+        [[languages.en.menu.main]]
+            name = "Tags"
+            url = "/en/tags"
+            weight = 7
+    
+    [languages.en.params.sidebar]
+        emoji = ""
+        subtitle = ""
+  
+  [languages.fr]
+    contentDir = 'content/fr'
+    languageCode = 'fr-FR'
+    languageDirection = 'ltr'
+    languageName = 'Français'
+    title = "Marta's BG Corner"
+    weight = 2
+    
+    [languages.fr.params]
+        mainSections = ["posts"]
+        description = "Mon blog personnel"
+        
+        [[languages.fr.menu.main]]
+            name = "À Propos"
+            url = "/fr/page/about"
+            weight = 1
+        [[languages.fr.menu.main]]
+            name = "Posts"
+            url = "/fr/posts"
+            weight = 2
+        [[languages.fr.menu.main]]
+            name = "Catégories"
+            url = "/fr/categories"
+            weight = 3
+        [[languages.fr.menu.main]]
+            name = "Jeux"
+            url = "/fr/games"
+            weight = 4
+        [[languages.fr.menu.main]]
+            name = "Designers"
+            url = "/fr/designers"
+            weight = 5
+        [[languages.fr.menu.main]]
+            name = "Éditeurs"
+            url = "/fr/publishers"
+            weight = 6
+        [[languages.fr.menu.main]]
+            name = "Tags"
+            url = "/fr/tags"
+            weight = 7
+    
+    [languages.fr.params.sidebar]
+        emoji = ""
+        subtitle = ""

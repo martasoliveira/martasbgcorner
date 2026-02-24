@@ -1,0 +1,292 @@
+/* ============================================
+   POST LIST — Article header with thumbnail
+   Styles the list page cards with image on right
+   ============================================ */
+.article-header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 1rem;
+}
+
+/* Thumbnail container — fixed size, crops overflow */
+.article-header-content .article-image {
+    width: 300px;
+    max-height: 210px;
+    flex-shrink: 0;       /* prevents image from shrinking */
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+/* Thumbnail image — fills container and crops from center */
+.article-header-content .article-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+/* ============================================
+   SINGLE POST — Banner image at top of post
+   Limits banner height and crops from center
+   ============================================ */
+.main-article .article-image img {
+    max-height: 300px !important;
+    width: 100% !important;
+    object-fit: cover !important;
+    object-position: center center !important;
+}
+
+/* ============================================
+   TAXONOMY PAGES — Shared title color
+   Ensures h1 titles adapt to dark/light mode
+   ============================================ */
+.article-list h1 {
+    color: var(--card-text-color-main);
+}
+
+/* ============================================
+   ABOUT PAGE — Header card (avatar + title)
+   ============================================ */
+.about-header {
+    background: var(--card-background);
+    border-radius: 12px;
+    padding: 1.5rem !important;
+    box-shadow: var(--shadow-l1);
+}
+
+/* ============================================
+   ABOUT PAGE — Content card (body text)
+   ============================================ */
+.about-content {
+    background: var(--card-background);
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: var(--shadow-l1);
+    margin-top: 1.5rem;
+}
+
+/* Ensures all text in the content card adapts to dark/light mode */
+.about-content,
+.about-content h2,
+.about-content p {
+    color: var(--card-text-color-main);
+}
+
+/* ============================================
+   HOMEPAGE — Welcome card
+   ============================================ */
+.welcome-card {
+    background: var(--card-background);
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: var(--shadow-l1);
+    margin-bottom: 2rem;
+}
+
+.welcome-title {
+    color: var(--card-text-color-main);
+    margin-top: 0;
+}
+
+/* Secondary color for subtitle text */
+.welcome-text {
+    color: var(--card-text-color-secondary);
+    font-size: 1.5rem;
+    margin-bottom: 0;
+}
+
+/* "Read about me" link */
+.welcome-link {
+    display: inline-block;
+    margin-top: 1rem;
+    color: var(--accent-color);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.welcome-link:hover {
+    text-decoration: underline;
+}
+
+/* ============================================
+   POSTS PAGE — Year/month filter bar
+   ============================================ */
+
+/* Main filter container */
+.post-filter {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 0.5rem;
+    padding: 0 1rem 1.5rem;
+}
+
+/* Year group — stacks year button above month pills */
+.filter-year-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+/* Month pills container */
+.filter-months {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding-left: 0.2rem;
+}
+
+/* Base style for all filter buttons (year and month) */
+.filter-year, .filter-month {
+    padding: 0.3rem 0.9rem;
+    border-radius: 20px;
+    border: 1px solid var(--card-separator-color);
+    background: var(--card-background);
+    color: var(--card-text-color-main);
+    cursor: pointer;
+    font-size: 1.3rem;
+    transition: all 0.2s ease;
+}
+
+/* Active state — filled with accent color */
+.filter-year.active, .filter-month.active {
+    background: var(--accent-color);
+    border-color: var(--accent-color);
+    color: #fff;
+}
+
+/* Hover state — accent color border and text */
+.filter-year:hover, .filter-month:hover {
+    border-color: var(--accent-color);
+    color: var(--accent-color);
+}
+
+/* ============================================
+   TAXONOMY SEARCH — Games, Designers, Publishers
+   Search input box shared across all three pages
+   ============================================ */
+#game-search, #designer-search, #publisher-search, #tag-search {
+    width: calc(100% - 2rem);
+    margin: 0 1rem 1.5rem;
+    padding: 0.75rem;
+    border-radius: 8px;
+    border: 1px solid var(--card-separator-color);
+    background: var(--card-background);
+    color: var(--card-text-color-main);
+    font-size: 1.5rem;
+    display: block;
+}
+
+/* List containers — removes default bullet styling */
+#game-list, #designer-list, #publisher-list, #tag-list, #taxonomy-list {
+    list-style: none;
+    padding: 0 1rem;
+    margin: 0;
+}
+
+/* Individual list items — adds separator line */
+#game-list .game-item,
+#designer-list .designer-item,
+#publisher-list .publisher-item, 
+#tag-list .tag-item,
+#taxonomy-list .taxonomy-item {
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--card-separator-color);
+}
+
+/* List item links */
+#game-list a, #designer-list a, #publisher-list a, #tag-list a, #taxonomy-list a {
+    font-size: 1.5rem;
+    color: var(--card-text-color-main);
+    text-decoration: none;
+}
+
+/* Hover state for list links */
+#game-list a:hover, #designer-list a:hover, #publisher-list a:hover, #tag-list a:hover, #taxonomy-list a:hover {
+    color: var(--accent-color);
+}
+
+/* Post count badge — muted color, smaller font */
+#game-list .game-count,
+#designer-list .game-count,
+#publisher-list .game-count,
+#tag-list .game-count,
+#taxonomy-list .game-count {
+    color: var(--card-text-color-tertiary);
+    font-size: 1.2rem;
+}
+
+/* "No results" message — bold, secondary color */
+#game-not-found, #designer-not-found, #publisher-not-found, #tag-not-found {
+    color: var(--card-text-color-secondary);
+    font-weight: bold;
+}
+
+/* ============================================
+   RESPONSIVE — Mobile adjustments
+   ============================================ */
+@media (max-width: 600px) {
+    /* Stack thumbnail below content on small screens */
+    .article-header-content {
+        flex-direction: column;
+    }
+
+    .article-header-content .article-image {
+        width: 100%;
+        max-height: 200px;
+    }
+
+    /* Stack avatar above text on About page for small screens */
+    .about-header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}
+
+/* ============================================
+   SINGLE POST — Previous / Next navigation
+   ============================================ */
+.post-navigation {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 2rem;
+    margin: 2rem 1rem 1rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--card-separator-color);
+}
+
+.post-nav-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    padding: 1rem;
+    background: var(--card-background);
+    border-radius: 12px;
+    box-shadow: var(--shadow-l1);
+    text-decoration: none;
+    max-width: 48%;
+    transition: box-shadow 0.2s ease;
+}
+
+.post-nav-item:hover {
+    box-shadow: var(--shadow-l2);
+}
+
+.post-nav-next {
+    margin-left: auto;
+    text-align: right;
+}
+
+.post-nav-label {
+    font-size: 0.85rem;
+    color: var(--card-text-color-tertiary);
+}
+
+.post-nav-title {
+    font-size: 1rem;
+    font-weight: bold;
+    color: var(--card-text-color-main);
+}

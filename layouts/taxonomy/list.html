@@ -1,0 +1,99 @@
+{{ define "main" }}
+    {{ if or (eq .Data.Plural "games") (eq .Data.Plural "designers") (eq .Data.Plural "publishers") (eq .Data.Plural "tags") }}
+        
+        {{ $titleKey := "games_title" }}
+        {{ $searchKey := "games_search" }}
+        {{ $notFoundKey := "games_not_found" }}
+        {{ $idPrefix := "game" }}
+
+        {{ if eq .Data.Plural "designers" }}
+            {{ $titleKey = "designers_title" }}
+            {{ $searchKey = "designers_search" }}
+            {{ $notFoundKey = "designers_not_found" }}
+            {{ $idPrefix = "designer" }}
+        {{ else if eq .Data.Plural "publishers" }}
+            {{ $titleKey = "publishers_title" }}
+            {{ $searchKey = "publishers_search" }}
+            {{ $notFoundKey = "publishers_not_found" }}
+            {{ $idPrefix = "publisher" }}
+        {{ else if eq .Data.Plural "tags" }}
+            {{ $titleKey = "tags_title" }}
+            {{ $searchKey = "tags_search" }}
+            {{ $notFoundKey = "tags_not_found" }}
+            {{ $idPrefix = "tag" }}
+        {{ end }}
+
+        <div class="article-list">
+            <h1 style="padding: 0 1rem 1rem;">{{ T $titleKey }}</h1>
+
+            <input 
+                type="text" 
+                id="{{ $idPrefix }}-search"
+                placeholder="{{ T $searchKey }}"
+                onkeyup="filterItems('{{ $idPrefix }}')"
+            />
+
+            <ul id="{{ $idPrefix }}-list">
+                {{ range .Data.Terms.Alphabetical }}
+                <li class="{{ $idPrefix }}-item">
+                    <a href="{{ .Page.RelPermalink }}">
+                        {{ .Page.Title }} 
+                        <span class="game-count">({{ .Count }})</span>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+
+            <p id="{{ $idPrefix }}-not-found" style="display:none; padding: 0 1rem;">{{ T $notFoundKey }}</p>
+        </div>
+
+        <script>
+        function filterItems(prefix) {
+            const input = document.getElementById(prefix + '-search').value.toLowerCase();
+            const items = document.querySelectorAll('.' + prefix + '-item');
+            let visibleCount = 0;
+            items.forEach(item => {
+                const text = item.textContent.toLowerCase();
+                if (text.includes(input)) {
+                    item.style.display = '';
+                    visibleCount++;
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+            document.getElementById(prefix + '-not-found').style.display = visibleCount === 0 ? '' : 'none';
+        }
+        </script>
+
+    {{ else }}
+        {{- $pages := partial "helper/pages.html" . -}}
+        {{- $subsections := .Sections -}}
+        
+        {{- if and (eq (len $pages) (len $subsections)) (eq $pages $subsections) -}}
+            {{- $subsections = slice -}}
+        {{- end -}}
+
+        <div class="article-list">
+            <h1 style="padding: 0 1rem 1rem;">{{ T (printf "%s_title" .Data.Plural) }}</h1>
+
+            <ul id="taxonomy-list">
+                {{ range .Data.Terms.Alphabetical }}
+                <li class="taxonomy-item">
+                    <a href="{{ .Page.RelPermalink }}">
+                        {{ .Page.Title }}
+                        <span class="game-count">({{ .Count }})</span>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+
+        {{- partial "pagination.html" . -}}
+    {{ end }}
+
+    {{ partialCached "footer/footer" . }}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}

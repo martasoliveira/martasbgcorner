@@ -1,0 +1,27 @@
+{{ define "main" }}
+<article class="main-article">
+    <div class="about-header" style="display: flex; align-items: flex-start; gap: 2rem; padding-bottom: 2rem; margin-bottom: 2rem; border-bottom: 1px solid var(--card-separator-color);">
+        <img 
+            src="{{ .Site.BaseURL }}logos/logo_martasbgcorner.png" 
+            alt="Marta's avatar"
+            style="width: 150px; height: 150px; border-radius: 50%; flex-shrink: 0; object-fit: cover;"
+        />
+        <div>
+            <h1 style="margin-top: 0; color: var(--card-text-color-main);">{{ .Title }}</h1>
+            {{ with .Params.description }}
+            <p style="color: var(--card-text-color-secondary); font-style: italic;">{{ . }}</p>
+            {{ end }}
+        </div>
+    </div>
+
+    <div class="about-content article-content">
+        {{ .Content }}
+    </div>
+
+    {{ partialCached "footer/footer" . }}
+</article>
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "page") }}
+{{ end }}
