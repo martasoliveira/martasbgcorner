@@ -290,3 +290,67 @@
     font-weight: bold;
     color: var(--card-text-color-main);
 }
+
+/* ============================================
+   PAGINATION — Compact centered navigation
+   ============================================ */
+nav.pagination {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 0.4rem !important;
+    margin: 2rem 0 !important;
+    padding: 0 !important;
+    grid-template-columns: unset !important;
+}
+
+nav.pagination .page-link {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 36px !important;
+    height: 36px !important;
+    min-width: unset !important;
+    max-width: 36px !important;
+    flex: 0 0 36px !important;
+    border-radius: 6px !important;
+    font-size: 1.3rem !important;
+    text-decoration: none !important;
+    color: var(--card-text-color-main) !important;
+    background: var(--card-background) !important;
+    border: 1px solid var(--card-separator-color) !important;
+    transition: all 0.2s ease !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+}
+
+nav.pagination .page-link:hover {
+    border-color: var(--accent-color) !important;
+    color: var(--accent-color) !important;
+    background: var(--card-background) !important;
+}
+
+nav.pagination .page-link.current {
+    background: var(--accent-color) !important;
+    border-color: var(--accent-color) !important;
+    color: #fff !important;
+    font-weight: bold !important;
+}
+
+nav.pagination .page-link.disabled {
+    opacity: 0.3 !important;
+    cursor: not-allowed !important;
+    pointer-events: none !important;
+}
+
+/* Remove the background container */
+nav.pagination {
+    background: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+/* Hide disabled arrows instead of fading them */
+nav.pagination .page-link.disabled {
+    display: none !important;
+}
