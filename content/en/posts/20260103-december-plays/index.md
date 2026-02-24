@@ -61,22 +61,14 @@ Both **Obsession and Underwater Cities** feature hand management with puzzle ele
 
 **Endless Winter (8.5/10)** made a return this month, a game I enjoyed a lot last month. On this second play, I tested the mini-expansions Ceremonial Grounds and Canine Familiars. Ceremonial Grounds adds a new mechanic at the end of eclipse phases: you can select one of the rituals that gives you immediate points based on criteria like food and materials you have. Once selected, you can no longer bury cards, but it's a great point boost. As for Canine Familiars, I didn't use the cards during the play, probably I missed how it could improve the game.
 
-**Troyes Dice (8/10)** is a Roll & Write that continued to challenge me. The transparent dice mechanic and medieval city-building theme create satisfying strategic depth, and I'm still improving my scores with each play.
-
-**R.A.V.E.L. (8/10)** is a quick logic puzzle where you solve enigmas by moving dice to meet specific card conditions. Perfect for filling short gaming sessions.
-
-**M.A.R.I.** has you guide a robot on Mars through a series of enigmas based on movement mechanics.
-
-**SmartGames: IQ Six Pro** reminded me why puzzle games are perfect travel companions. It's always a pleasure to come back to these clever, portable challenges.
-
-{{< sidebyside >}}
-
 {{< figure
   src="endless-winter-player-board.jpg"
   alt="Endless Winter player board"
   width="400"
   caption="Endless Winter"
 >}}
+
+**Troyes Dice (8/10)** is a Roll & Write that continued to challenge me. The transparent dice mechanic and medieval city-building theme create satisfying strategic depth, and I'm still improving my scores with each play.
 
 {{< figure
   src="end-game.jpg"
@@ -85,9 +77,7 @@ Both **Obsession and Underwater Cities** feature hand management with puzzle ele
   caption="Troyes Dice"
 >}}
 
-{{< /sidebyside >}}
-
-{{< sidebyside >}}
+**R.A.V.E.L. (8/10)** is a quick logic puzzle where you solve enigmas by moving dice to meet specific card conditions. Perfect for filling short gaming sessions.
 
 {{< figure
   src="view.jpg"
@@ -96,6 +86,7 @@ Both **Obsession and Underwater Cities** feature hand management with puzzle ele
   caption="R.A.V.E.L."
 >}}
 
+**M.A.R.I.** has you guide a robot on Mars through a series of enigmas based on movement mechanics.
 
 {{< figure
   src="game-mari.jpg"
@@ -104,14 +95,14 @@ Both **Obsession and Underwater Cities** feature hand management with puzzle ele
   caption="M.A.R.I."
 >}}
 
+**SmartGames: IQ Six Pro** reminded me why puzzle games are perfect travel companions. It's always a pleasure to come back to these clever, portable challenges.
+
 {{< figure
   src="iq6pro.jpg"
   alt="SmartGames: IQ Six Pro"
   width="300"
   caption="IQ Six Pro"
 >}}
-
-{{< /sidebyside >}}
 
 #### Looking Forward to 2026
 

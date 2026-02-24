@@ -11,23 +11,20 @@ tags = ['Jeu en Solo', 'VianaCon', 'Placement de Dés', 'Push your luck']
 
 Novembre a été un excellent mois ludique ! J'ai réussi à faire 16 parties sur 13 jeux différents.
 
-{{< sidebyside >}}
+{{< figure 
+    src="november2025-stats.jpg" 
+    alt="November-2025-Stats" 
+    width="350"
+    caption="November 2025 Stats" 
+>}}
 
-    {{< figure 
-        src="november2025-stats.jpg" 
-        alt="November-2025-Stats" 
-        width="350"
-        caption="Statistiques de Novembre 2025" 
-    >}}
 
-    {{< figure 
-        src="november2025-plays.png" 
-        alt="November-2025-Plays" 
-        width="460"
-        caption="Parties de Novembre 2025"
-    >}}
-
-{{< /sidebyside >}}
+{{< figure 
+    src="november2025-plays.png" 
+    alt="November-2025-Plays" 
+    width="350"
+    caption="November 2025 Plays"
+>}}
 
 Parmi ces jeux, 5 ont été joués à **VianaCon* * et ne font pas partie de ma collection (je vous parlerai de cet événement dans un article séparé). Le reste a été joué à la maison.
 

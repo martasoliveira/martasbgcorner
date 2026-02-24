@@ -77,7 +77,7 @@ The black die represents attacks on the Plaza where it's placed, making that Pla
 {{< figure
   src="wheel-and-destroyed-plaza.jpg"
   alt="Black die effect on the wheel and a destroyed Plaza"
-  width="40 0"
+  width="400"
   caption="Black die effect"
 >}}
 

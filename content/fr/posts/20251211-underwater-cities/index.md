@@ -45,26 +45,23 @@ La qualité des composants est décevante comparée à la qualité du gameplay. 
 {{< figure
     src="ressources.jpg"
     alt="Underwater Cities resources"
-    width="500"
+    width="400"
     caption="Ressources"
 >}}
 
-{{< sidebyside >}}
-    {{< figure
-        src="player-board.jpg"
-        alt="Underwater Cities player board"
-        width="400"
-        caption="Plateau Joueur"
-    >}}
+{{< figure
+    src="player-board.jpg"
+    alt="Underwater Cities player board"
+    width="400"
+    caption="Player Board"
+>}}
 
-    {{< figure
-        src="player-aid.jpg"
-        alt="Underwater Cities player aid"
-        width="400"
-        caption="Aide de Jeu"
-    >}}
-
-{{< /sidebyside >}}
+{{< figure
+    src="player-aid.jpg"
+    alt="Underwater Cities player aid"
+    width="400"
+    caption="Player Aid"
+>}}
 
 ### Mécanique de Jeu
 
@@ -86,23 +83,19 @@ Il existe 5 types de cartes différents : les cartes à effet immédiat, les car
 
 De plus, il existe des cartes spéciales qui peuvent inclure n'importe lequel des types ci-dessus, mais qui ont un coût et offrent des effets plus puissants.
 
-{{< sidebyside >}}
+{{< figure
+    src="action-cards-zoom.jpg"
+    alt="Different types of action cards"
+    width="350"
+    caption="Different types of cards"
+>}}
 
-    {{< figure
-        src="action-cards-zoom.jpg"
-        alt="Different types of action cards"
-        width="400"
-        caption="Différents types de cartes"
-    >}}
-
-    {{< figure
-        src="special-cards.jpg"
-        alt="Special cards with card back and cost"
-        width="325"
-        caption="Cartes spéciales avec dos et coût"
-    >}}
-
-{{< /sidebyside >}}
+{{< figure
+    src="special-cards.jpg"
+    alt="Special cards with card back and cost"
+    width="350"
+    caption="Special cards with card back and cost"
+>}}
 
 Tout au long des manches, vous développerez vos villes en créant des cités symbiotiques (dômes) et des installations rattachées à ces dômes. Les cités ne deviennent productives et ne comptent dans votre réseau qu'une fois les tunnels de connexion construits.
 
@@ -121,8 +114,8 @@ J'ai joué deux fois jusqu'à présent, et je peux déjà dire que le jeu est fr
 {{< figure
     src="play.jpg"
     alt="Main board and card tableau from a player"
-    width="600"
-    caption="Plateau principal et tableau de cartes d'un joueur"
+    width="500"
+    caption="Main board and card tableau from a player"
 >}}
 
 ### Comparaison de Mes Deux Parties

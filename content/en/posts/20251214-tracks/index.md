@@ -68,23 +68,19 @@ However, you can only have 4 security cameras active at the same time. If you ne
 
 At the end of the first listening, you'll answer a question, usually "Where can we find the suspects?" You then select locations on the app's map to send police units. If you're correct, you solve the case or unlock additional questions. If wrong, you can make additional attempts. You can listen to the track as many times as needed before giving your answer.
 
-{{< sidebyside >}}
+{{< figure
+    src="example.jpg"
+    alt="Security cameras during case resolution"
+    width="400"
+    caption="Security cameras during case resolution"
+>}}
 
-    {{< figure
-        src="example.jpg"
-        alt="Security cameras during case resolution"
-        width="400"
-        caption="Security cameras during case resolution"
-    >}}
-
-    {{< figure
-        src="app.jpg"
-        alt="App audio system"
-        width="400"
-        caption="App audio system"
-    >}}
-
-{{< /sidebyside >}}
+{{< figure
+    src="app.jpg"
+    alt="App audio system"
+    width="400"
+    caption="App audio system"
+>}}
 
 ### My Experience
 

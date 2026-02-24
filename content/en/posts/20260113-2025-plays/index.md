@@ -60,20 +60,19 @@ My passion for playing, but even more for sharing my enthusiasm, encouraged me t
 
 **Galactic Cruise** – I backed this game because I loved the graphics, story, and mechanics, and it became my #3 game of the year. Designed by T.K. King, Dennis Northcott, and Koltin Thompson, illustrated by Ian O'Toole, and published by Kingson Key Games as their first game. I heard someone say after its release, "It should be prohibited to have such a good game as your first." I completely agree. You're managing a luxury space cruise ship, balancing passenger satisfaction, ship upgrades, and navigation through a beautifully illustrated galaxy. The game is simply perfect, fun, gorgeously illustrated (you'll feel a Vital Lacerda vibe since Ian O'Toole frequently works with Vital), and the mechanics are logical and intuitive. Every decision matters, but it never feels overwhelming. My discovery of 2025.
 
-{{< sidebyside >}}
 {{< figure
   src="galactic-cruise-2.jpg"
   alt="Galactic Cruise"
   width="500"
   caption="Galactic Cruise"
 >}}
+
 {{< figure
   src="galactic-cruise.jpg"
   alt="Galactic Cruise"
-  width="280"
+  width="400"
   caption="Galactic Cruise"
 >}}
-{{< /sidebyside >}}
 
 **[Obsession]({{< relref "20251227-obsession" >}})** – My #4 game of 2025. An elegant hand management game set in Victorian England where you manage a fallen aristocratic family trying to improve their social standing through marriage. The servant rotation system creates interesting tactical decisions, and reputation management is crucial, you must carefully balance building your reputation with acquiring the cards and improvements you need. The courtship mechanic, where you compete to impress the Fairchild orphans, adds wonderful narrative tension. Each of the four families plays distinctly different due to their unique starting advantages. The Downton Abbey aesthetic is beautiful, and solo games run smoothly in about 45 minutes. It's thematic without being heavy, strategic without being punishing.
 
@@ -101,20 +100,19 @@ My passion for playing, but even more for sharing my enthusiasm, encouraged me t
 
 All Mindclash games share common DNA: they're typically heavy with substantial rules, but the themes are so present that mechanisms make intuitive sense. Set aside at least 3 hours for setup and gameplay, embrace the complexity, and you'll be rewarded with deeply satisfying experiences.
 
-{{< sidebyside >}}
 {{< figure
   src="cerebria.jpg"
   alt="Cerebria"
   width="400"
   caption="Cerebria"
 >}}
+
 {{< figure
   src="perseverance.jpg"
   alt="Perseverance: Episode 1"
   width="400"
   caption="Perseverance: Episode 1"
 >}}
-{{< /sidebyside >}}
 
 #### Solo Gaming Gems
 
@@ -133,39 +131,37 @@ In **Nautilion**, you race to reach the Lighthouse in the Oceanic Depths before 
 
 All **Oniverse** games share a dreamy aesthetic and are designed specifically for solo play (though they support two players). I haven't tested multiplayer because they're simply perfect as solo experiences, compact, quick, and deeply satisfying.
 
-{{< sidebyside >}}
 {{< figure
   src="onirim.jpg"
   alt="Onirim"
-  width="500"
+  width="400"
   caption="Onirim"
 >}}
+
 {{< figure
   src="nautilion-2.jpg"
   alt="Nautilion"
-  width="280"
+  width="400"
   caption="Nautilion"
 >}}
-{{< /sidebyside >}}
 
 **Legacy of Yu** – A solo campaign game that's story-driven with a clever deck-building mechanism. You play through the story of Yu the Great, the legendary Chinese emperor who controlled the floods. The campaign evolves as you make decisions, and the deck-building creates a satisfying sense of progression. Each scenario builds on the last, and your choices have consequences that ripple through the campaign. Engaging storytelling combined with solid mechanics.
 
 **[R.A.V.E.L.]({{< relref "20251218-ravel" >}})** – A compact dice puzzle game perfect for short sessions or travel. You manipulate dice on a grid to solve Cog cards with specific requirements. It's pure puzzle satisfaction in a tiny package, 10 minutes of clever spatial reasoning and resource management. The adjustable difficulty means it scales from casual to genuinely challenging. One of my favorite "lunch break" games.
 
-{{< sidebyside >}}
 {{< figure
   src="legacy-of-yu.jpg"
   alt="Legacy of Yu"
-  width="500"
+  width="400"
   caption="Legacy of Yu"
 >}}
+
 {{< figure
   src="view.jpg"
   alt="R.A.V.E.L."
-  width="280"
+  width="350"
   caption="R.A.V.E.L."
 >}}
-{{< /sidebyside >}}
 
 #### Challenging Strategy Games
 
@@ -213,20 +209,19 @@ All **Oniverse** games share a dreamy aesthetic and are designed specifically fo
 
 **Verdant** – A game about houseplant care that's more engaging than it sounds. You arrange plants and furniture to create the most aesthetically pleasing and thriving indoor garden. The spatial puzzle of plant placement, considering light requirements, pot matching, and room aesthetics, is genuinely satisfying. Quick to play (30-45 minutes), relaxing in theme, but with enough decisions to stay interesting. Perfect for a calm evening of gaming.
 
-{{< sidebyside >}}
 {{< figure
   src="meadow.jpg"
   alt="Meadow"
   width="500"
   caption="Meadow"
 >}}
+
 {{< figure
   src="verdant.jpg"
   alt="Verdant"
-  width="280"
+  width="400"
   caption="Verdant"
 >}}
-{{< /sidebyside >}}
 
 #### Creature Collection Games
 
@@ -234,20 +229,19 @@ All **Oniverse** games share a dreamy aesthetic and are designed specifically fo
 
 **Wondrous Creatures** – A 2025 release that achieved well-deserved success. Like Dragon Eclipse, it features creature collection with Pokémon-style appeal, but without the scenario structure, this is pure collection and tableau building. The illustrations are stunning, and the gameplay stays fresh through variable card effects and strategic depth. Each creature feels special, and building your collection is consistently satisfying. For anyone who loves beautiful creatures and light-to-medium strategy, this is excellent.
 
-{{< sidebyside >}}
 {{< figure
   src="dragon-eclispe.jpg"
   alt="Dragon Eclipse"
-  width="280"
+  width="400"
   caption="Dragon Eclipse"
 >}}
+
 {{< figure
   src="wondrous-creatures.jpg"
   alt="Wondrous Creatures"
-  width="500"
+  width="450"
   caption="Wondrous Creatures"
 >}}
-{{< /sidebyside >}}
 
 #### Looking Ahead to 2026
 

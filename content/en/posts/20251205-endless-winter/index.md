@@ -78,42 +78,33 @@ The theme came through beautifully and the actions made sense. Boosting your act
 
 After completing actions, you prepare for the Eclipse phase. Thematically, this makes perfect sense — people of that era believed eclipses were magical phenomena with mystical force that could be harnessed.
 
-{{< sidebyside >}}
+{{< figure
+    src="endless-winter.jpg"
+    alt="Boards of Endless Winter"
+    width="400"
+    caption="Boards of Endeless Winter"
+>}}
 
-    {{< figure
-        src="endless-winter.jpg"
-        alt="Boards of Endless Winter"
-        width="400"
-        caption="Boards of Endeless Winter"
-    >}}
+{{< figure
+    src="endless-winter-main-board.jpg"
+    alt="Main Board with actions visible"
+    width="350"
+    caption="Main Board with actions visible"
+>}}
 
-    {{< figure
-        src="endless-winter-main-board.jpg"
-        alt="Main Board with actions visible"
-        width="350"
-        caption="Main Board with actions visible"
-    >}}
+{{< figure
+    src="endless-winter-player-board.jpg"
+    alt="Player Boards - AI player above and human player below"
+    width="400"
+    caption="Player Boards - AI player above and human player below"
+>}}
 
-{{< /sidebyside >}}
-
-{{< sidebyside >}}
-
-    {{< figure
-        src="endless-winter-player-board.jpg"
-        alt="Player Boards - AI player above and human player below"
-        width="400"
-        caption="Player Boards - AI player above and human player below"
-    >}}
-
-    {{< figure
-        src="endless-winter-map.jpg"
-        alt="Map Board"
-        width="400"
-        caption="Map Board"
-    >}}
-
-{{< /sidebyside >}}
-
+{{< figure
+    src="endless-winter-map.jpg"
+    alt="Map Board"
+    width="400"
+    caption="Map Board"
+>}}
 
 ### Action Variety
 

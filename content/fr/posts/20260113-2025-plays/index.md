@@ -60,20 +60,19 @@ Ma passion pour jouer, mais encore plus pour partager mon enthousiasme, m'a fina
 
 **Galactic Cruise** – J'ai soutenu ce jeu parce que j'adorais les graphismes, l'histoire et les mécaniques, et il est devenu mon jeu n°3 de l'année. Conçu par T.K. King, Dennis Northcott et Koltin Thompson, illustré par Ian O'Toole, et publié par Kingson Key Games comme leur premier jeu. J'ai entendu quelqu'un dire après sa sortie : "Il devrait être interdit d'avoir un aussi bon jeu comme premier titre." Je suis entièrement d'accord. Vous gérez un luxueux paquebot spatial, équilibrant la satisfaction des passagers, les améliorations du vaisseau et la navigation dans une galaxie magnifiquement illustrée. Le jeu est tout simplement parfait, amusant, magnifiquement illustré (vous ressentirez une vibe Vital Lacerda puisqu'Ian O'Toole travaille fréquemment avec lui), et les mécaniques sont logiques et intuitives. Chaque décision compte, mais sans jamais être écrasant. Ma découverte de 2025.
 
-{{< sidebyside >}}
 {{< figure
   src="galactic-cruise-2.jpg"
   alt="Galactic Cruise"
   width="500"
   caption="Galactic Cruise"
 >}}
+
 {{< figure
   src="galactic-cruise.jpg"
   alt="Galactic Cruise"
-  width="280"
+  width="400"
   caption="Galactic Cruise"
 >}}
-{{< /sidebyside >}}
 
 **[Obsession]({{< relref "20251227-obsession" >}})** – Mon jeu n°4 de 2025. Un élégant jeu de gestion de main dans l'Angleterre victorienne où vous gérez une famille aristocratique déchue qui tente d'améliorer sa position sociale par le mariage. Le système de rotation des domestiques crée des décisions tactiques intéressantes, et la gestion de la réputation est cruciale, vous devez soigneusement équilibrer la construction de votre réputation avec l'acquisition des cartes et améliorations dont vous avez besoin. La mécanique de cour, où vous rivalisez pour impressionner les orphelins Fairchild, ajoute une merveilleuse tension narrative. Chacune des quatre familles joue de façon distincte grâce à ses avantages de départ uniques. L'esthétique Downton Abbey est magnifique, et les parties solo se déroulent fluidement en environ 45 minutes. C'est thématique sans être lourd, stratégique sans être punitif.
 
@@ -101,20 +100,19 @@ Ma passion pour jouer, mais encore plus pour partager mon enthousiasme, m'a fina
 
 Tous les jeux Mindclash partagent un ADN commun : ils sont généralement lourds avec des règles conséquentes, mais les thèmes sont tellement présents que les mécanismes deviennent intuitifs. Prévoyez au moins 3 heures pour l'installation et le jeu, embrassez la complexité, et vous serez récompensé par des expériences profondément satisfaisantes.
 
-{{< sidebyside >}}
 {{< figure
   src="cerebria.jpg"
   alt="Cerebria"
   width="400"
   caption="Cerebria"
 >}}
+
 {{< figure
   src="perseverance.jpg"
   alt="Perseverance: Episode 1"
   width="400"
   caption="Perseverance: Episode 1"
 >}}
-{{< /sidebyside >}}
 
 #### Pépites Solo
 
@@ -133,39 +131,37 @@ Dans **Nautilion**, vous tentez d'atteindre le Phare dans les Profondeurs Océan
 
 Tous les jeux **Oniverse** partagent une esthétique onirique et sont conçus spécifiquement pour le jeu solo (bien qu'ils supportent deux joueurs). Je n'ai pas testé le multijoueur car ils sont tout simplement parfaits en solo, compacts, rapides et profondément satisfaisants.
 
-{{< sidebyside >}}
 {{< figure
   src="onirim.jpg"
   alt="Onirim"
-  width="500"
+  width="400"
   caption="Onirim"
 >}}
+
 {{< figure
   src="nautilion-2.jpg"
   alt="Nautilion"
-  width="280"
+  width="400"
   caption="Nautilion"
 >}}
-{{< /sidebyside >}}
 
 **Legacy of Yu** – Un jeu de campagne solo narratif avec une mécanique de Deck Building astucieuse. Vous suivez l'histoire de Yu le Grand, le légendaire empereur chinois qui maîtrisa les crues. La campagne évolue au fil de vos décisions, et le Deck Building crée une agréable sensation de progression. Chaque scénario s'appuie sur le précédent, et vos choix ont des conséquences qui se répercutent tout au long de la campagne. Une narration engageante combinée à des mécaniques solides.
 
 **[R.A.V.E.L.]({{< relref "20251218-ravel" >}})** – Un compact puzzle de dés parfait pour de courtes sessions ou les voyages. Vous manipulez des dés sur une grille pour résoudre des cartes Engrenage aux exigences spécifiques. C'est la satisfaction du puzzle à l'état pur dans un tout petit format, 10 minutes de raisonnement spatial et de gestion des ressources. La difficulté ajustable le rend accessible aussi bien en mode détendu que vraiment challengeant. L'un de mes jeux préférés pour la pause déjeuner.
 
-{{< sidebyside >}}
 {{< figure
   src="legacy-of-yu.jpg"
   alt="Legacy of Yu"
-  width="500"
+  width="400"
   caption="Legacy of Yu"
 >}}
+
 {{< figure
   src="view.jpg"
   alt="R.A.V.E.L."
-  width="280"
+  width="350"
   caption="R.A.V.E.L."
 >}}
-{{< /sidebyside >}}
 
 #### Jeux de Stratégie Exigeants
 
@@ -213,20 +209,19 @@ Tous les jeux **Oniverse** partagent une esthétique onirique et sont conçus sp
 
 **Verdant** – Un jeu sur les plantes d'intérieur plus engageant qu'il n'y paraît. Vous arrangez plantes et meubles pour créer le jardin intérieur le plus esthétique et florissant. Le puzzle spatial du placement des plantes, en tenant compte des besoins en lumière, de l'assortiment des pots et de l'esthétique des pièces, est vraiment satisfaisant. Rapide à jouer (30-45 minutes), relaxant par son thème, mais avec suffisamment de décisions pour rester intéressant. Parfait pour une soirée de jeu calme.
 
-{{< sidebyside >}}
 {{< figure
   src="meadow.jpg"
   alt="Meadow"
-  width="500"
+  width="400"
   caption="Meadow"
 >}}
+
 {{< figure
   src="verdant.jpg"
   alt="Verdant"
-  width="280"
+  width="400"
   caption="Verdant"
 >}}
-{{< /sidebyside >}}
 
 #### Jeux de Collection de Créatures
 
@@ -234,20 +229,19 @@ Tous les jeux **Oniverse** partagent une esthétique onirique et sont conçus sp
 
 **Wondrous Creatures** – Une sortie 2025 qui a connu un succès bien mérité. Comme Dragon Eclipse, il propose une collection de créatures à la Pokémon, mais sans structure scénarisée,S c'est de la collection et du Tableau Building pur. Les illustrations sont époustouflantes et le gameplay reste frais grâce aux effets variables des cartes et à la profondeur stratégique. Chaque créature se sent spéciale, et construire sa collection est constamment satisfaisant. Pour quiconque aime les belles créatures et la stratégie légère à moyenne, c'est excellent.
 
-{{< sidebyside >}}
 {{< figure
   src="dragon-eclispe.jpg"
   alt="Dragon Eclipse"
-  width="280"
+  width="400"
   caption="Dragon Eclipse"
 >}}
+
 {{< figure
   src="wondrous-creatures.jpg"
   alt="Wondrous Creatures"
-  width="500"
+  width="450"
   caption="Wondrous Creatures"
 >}}
-{{< /sidebyside >}}
 
 #### Perspectives pour 2026
 

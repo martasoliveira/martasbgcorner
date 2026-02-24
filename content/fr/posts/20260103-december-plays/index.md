@@ -61,33 +61,23 @@ Ce jeu de gestion de main à l'ère victorienne m'a complètement conquise et a 
 
 **Endless Winter (8,5/10)** est revenu ce mois-ci, un jeu que j'avais beaucoup apprécié le mois dernier. Lors de cette deuxième partie, j'ai testé les mini-extensions Ceremonial Grounds et Canine Familiars. Ceremonial Grounds ajoute une nouvelle mécanique en fin de phase d'éclipse : vous pouvez sélectionner l'un des rituels qui vous rapporte des points immédiats en fonction de critères comme la nourriture et les matériaux que vous possédez. Une fois sélectionné, vous ne pouvez plus enterrer de cartes, mais c'est un excellent boost de points. Quant à Canine Familiars, je n'ai pas utilisé les cartes pendant la partie, j'ai probablement raté comment elles pouvaient améliorer le jeu.
 
-**Troyes Dice (8/10)** est un Roll & Write qui a continué à me challenger. La mécanique des dés transparents et le thème de construction de ville médiévale offrent une profondeur stratégique satisfaisante, et j'améliore encore mes scores à chaque partie.
-
-**R.A.V.E.L. (8/10)** est un puzzle logique rapide où vous résolvez des énigmes en déplaçant des dés pour satisfaire les conditions des cartes. Parfait pour remplir de courtes sessions de jeu.
-
-**M.A.R.I.** vous fait guider un robot sur Mars à travers une série d'énigmes basées sur des mécaniques de déplacement.
-
-**SmartGames : IQ Six Pro** m'a rappelé pourquoi les jeux de puzzle sont des compagnons de voyage parfaits. C'est toujours un plaisir de revenir à ces défis malins et portables.
-
-{{< sidebyside >}}
-
 {{< figure
   src="endless-winter-player-board.jpg"
-  alt="Plateau joueur d'Endless Winter"
+  alt="Endless Winter player board"
   width="400"
   caption="Endless Winter"
 >}}
 
+**Troyes Dice (8/10)** est un Roll & Write qui a continué à me challenger. La mécanique des dés transparents et le thème de construction de ville médiévale offrent une profondeur stratégique satisfaisante, et j'améliore encore mes scores à chaque partie.
+
 {{< figure
   src="end-game.jpg"
-  alt="Fin de partie de Troyes Dice"
+  alt="Troyes Dice end game"
   width="300"
   caption="Troyes Dice"
 >}}
 
-{{< /sidebyside >}}
-
-{{< sidebyside >}}
+**R.A.V.E.L. (8/10)** est un puzzle logique rapide où vous résolvez des énigmes en déplaçant des dés pour satisfaire les conditions des cartes. Parfait pour remplir de courtes sessions de jeu.
 
 {{< figure
   src="view.jpg"
@@ -96,6 +86,8 @@ Ce jeu de gestion de main à l'ère victorienne m'a complètement conquise et a 
   caption="R.A.V.E.L."
 >}}
 
+**M.A.R.I.** vous fait guider un robot sur Mars à travers une série d'énigmes basées sur des mécaniques de déplacement.
+
 {{< figure
   src="game-mari.jpg"
   alt="M.A.R.I."
@@ -103,14 +95,14 @@ Ce jeu de gestion de main à l'ère victorienne m'a complètement conquise et a 
   caption="M.A.R.I."
 >}}
 
+**SmartGames : IQ Six Pro** m'a rappelé pourquoi les jeux de puzzle sont des compagnons de voyage parfaits. C'est toujours un plaisir de revenir à ces défis malins et portables.
+
 {{< figure
   src="iq6pro.jpg"
-  alt="SmartGames : IQ Six Pro"
+  alt="SmartGames: IQ Six Pro"
   width="300"
   caption="IQ Six Pro"
 >}}
-
-{{< /sidebyside >}}
 
 #### Perspectives pour 2026
 

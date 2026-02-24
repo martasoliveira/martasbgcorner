@@ -11,23 +11,20 @@ tags = ['Solo Gaming', 'VianaCon', 'Dice Placement', 'Push your luck']
 
 November was a great gaming month! I managed to complete 16 plays across 13 different games.
 
-{{< sidebyside >}}
+{{< figure 
+    src="november2025-stats.jpg" 
+    alt="November-2025-Stats" 
+    width="350"
+    caption="November 2025 Stats" 
+>}}
 
-    {{< figure 
-        src="november2025-stats.jpg" 
-        alt="November-2025-Stats" 
-        width="350"
-        caption="November 2025 Stats" 
-    >}}
 
-    {{< figure 
-        src="november2025-plays.png" 
-        alt="November-2025-Plays" 
-        width="460"
-        caption="November 2025 Plays"
-    >}}
-
-{{< /sidebyside >}}
+{{< figure 
+    src="november2025-plays.png" 
+    alt="November-2025-Plays" 
+    width="350"
+    caption="November 2025 Plays"
+>}}
 
 Of these games, 5 were played at **VianaCon** and aren't part of my collection (I'll share more about that event in a separate post). The rest were home plays.
 

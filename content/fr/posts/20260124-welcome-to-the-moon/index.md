@@ -63,21 +63,19 @@ Le jeu comprend 24 feuilles recto-verso (6 feuilles avec 2 scénarios chacune), 
 
 Un gros point positif : au lieu de blocs de papier, le jeu utilise des feuilles réutilisables compatibles avec les marqueurs effaçables à sec. Cela garde la boîte compacte et permet des parties infinies. Les inserts sont fantastiques et maintiennent tout bien rangé.
 
-{{< sidebyside >}}
 {{< figure
   src="sheets.jpg"
   alt="Feuilles effaçables"
-  width="600"
+  width="400"
   caption="Feuilles Effaçables"
 >}}
 
 {{< figure
   src="organizers.jpg"
   alt="Organisateurs de la boîte"
-  width="300"
+  width="350"
   caption="Organisateurs"
 >}}
-{{< /sidebyside >}}
 
 ### Mécanique de Jeu
 
@@ -137,7 +135,6 @@ Je suis actuellement en train de parcourir la campagne et je viens de terminer l
 
 Jusqu'ici, je n'ai perdu qu'une seule fois contre l'IA et gagné 3 fois. C'est un vrai plaisir de progresser à travers les différentes aventures et de lire l'histoire. Les aventures ont une progression logique qui fait sens thématiquement et me donne envie du prochain défi.
 
-{{< sidebyside >}}
 {{< figure
   src="end-of-adventure-2.jpg"
   alt="Fin de l'Aventure 2"
@@ -150,7 +147,6 @@ Jusqu'ici, je n'ai perdu qu'une seule fois contre l'IA et gagné 3 fois. C'est u
   width="350"
   caption="Aventure 4"
 >}}
-{{< /sidebyside >}}
 
 ### Pour et Contre
 

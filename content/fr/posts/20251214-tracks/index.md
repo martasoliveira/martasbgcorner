@@ -68,23 +68,19 @@ Cependant, vous ne pouvez avoir que 4 caméras de sécurité actives en même te
 
 À la fin de la première écoute, vous répondrez à une question, généralement « Où pouvons-nous trouver les suspects ? » Vous sélectionnez ensuite des emplacements sur la carte de l'application pour envoyer des unités de police. Si vous avez raison, vous résolvez l'affaire ou débloquez des questions supplémentaires. En cas d'erreur, vous pouvez faire d'autres tentatives. Vous pouvez écouter la piste autant de fois que nécessaire avant de donner votre réponse.
 
-{{< sidebyside >}}
+{{< figure
+    src="example.jpg"
+    alt="Security cameras during case resolution"
+    width="400"
+    caption="Security cameras during case resolution"
+>}}
 
-    {{< figure
-        src="example.jpg"
-        alt="Security cameras during case resolution"
-        width="400"
-        caption="Caméras de sécurité lors de la résolution d'une affaire"
-    >}}
-
-    {{< figure
-        src="app.jpg"
-        alt="App audio system"
-        width="400"
-        caption="Système audio de l'application"
-    >}}
-
-{{< /sidebyside >}}
+{{< figure
+    src="app.jpg"
+    alt="App audio system"
+    width="400"
+    caption="App audio system"
+>}}
 
 ### Mon Expérience
 

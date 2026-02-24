@@ -78,35 +78,33 @@ Le thème transparaît magnifiquement et les actions ont du sens. Renforcer son 
 
 Après avoir effectué les actions, on se prépare pour la phase d'Éclipse. D'un point de vue thématique, c'est tout à fait logique, les peuples de cette époque croyaient que les éclipses étaient des phénomènes magiques dotés d'une force mystique pouvant être exploitée.
 
-{{< sidebyside >}}
-    {{< figure
-        src="endless-winter.jpg"
-        alt="Plateaux d'Endless Winter"
-        width="400"
-        caption="Plateaux d'Endless Winter"
-    >}}
-    {{< figure
-        src="endless-winter-main-board.jpg"
-        alt="Plateau principal avec les actions visibles"
-        width="350"
-        caption="Plateau principal avec les actions visibles"
-    >}}
-{{< /sidebyside >}}
+{{< figure
+    src="endless-winter.jpg"
+    alt="Boards of Endless Winter"
+    width="400"
+    caption="Boards of Endeless Winter"
+>}}
 
-{{< sidebyside >}}
-    {{< figure
-        src="endless-winter-player-board.jpg"
-        alt="Plateaux joueurs - IA au-dessus et joueur humain en-dessous"
-        width="400"
-        caption="Plateaux joueurs - IA au-dessus et joueur humain en-dessous"
-    >}}
-    {{< figure
-        src="endless-winter-map.jpg"
-        alt="Plateau de carte"
-        width="400"
-        caption="Plateau de carte"
-    >}}
-{{< /sidebyside >}}
+{{< figure
+    src="endless-winter-main-board.jpg"
+    alt="Main Board with actions visible"
+    width="350"
+    caption="Main Board with actions visible"
+>}}
+
+{{< figure
+    src="endless-winter-player-board.jpg"
+    alt="Player Boards - AI player above and human player below"
+    width="400"
+    caption="Player Boards - AI player above and human player below"
+>}}
+
+{{< figure
+    src="endless-winter-map.jpg"
+    alt="Map Board"
+    width="400"
+    caption="Map Board"
+>}}
 
 ### Variété des Actions
 

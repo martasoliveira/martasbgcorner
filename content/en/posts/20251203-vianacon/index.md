@@ -48,24 +48,19 @@ I'll admit I felt a bit lost at first, but the atmosphere was so warm and welcom
 
 The first activity we did was the Peddy Paper. Since we were only 2 people, we joined another pair to form a team. It was fantastic, we had so much fun! It was a great way to explore the city while meeting new people who share the same passion. Unfortunately, our team came in second place... so close!
 
-{{< sidebyside >}}
+{{< figure 
+    src="peddy-paper-viana.jpg" 
+    alt="peddy-paper-viana" 
+    width="350"
+    caption="Viana do Castelo Sunset" 
+>}}
 
-    {{< figure 
-        src="peddy-paper-viana.jpg" 
-        alt="peddy-paper-viana" 
-        width="280"
-        caption="Viana do Castelo Sunset" 
-    >}}
-
-    {{< figure 
-        src="peddy-paper-viana-2.jpg" 
-        alt="peddy-paper-viana-2" 
-        width="600"
-        caption="Wall in Viana do Castelo"
-    >}}
-
-{{< /sidebyside >}}
-
+{{< figure 
+    src="peddy-paper-viana-2.jpg" 
+    alt="peddy-paper-viana-2" 
+    width="400"
+    caption="Wall in Viana do Castelo"
+>}}
 
 ### A Special Conversation with Carolina Semrau
 
@@ -73,22 +68,19 @@ We had a wonderful one-on-one conversation with Carolina Semrau, co-designer of 
 
 Carolina was incredibly enthusiastic and generous with her time, speaking with just the two of us. We discussed the game in depth and talked about broader environmental issues. Unfortunately, time constraints prevented us from testing the game, but our conversation definitely sparked my curiosity to try it.
 
+{{< figure 
+    src="travel-trashers-cover.jpg" 
+    alt="travel-trashers-cover" 
+    width="300"
+    caption="The Travel Trashers - Images via BoardGameGeek"
+>}}
 
-{{< sidebyside caption="The Travel Trashers - Images via BoardGameGeek" >}}
-
-    {{< figure 
-        src="travel-trashers-cover.jpg" 
-        alt="travel-trashers-cover" 
-        width="280"
-    >}}
-
-    {{< figure 
-        src="travel-trashers-board.jpg" 
-        alt="travel-trashers-board" 
-        width="900"
-    >}}
-
-{{< /sidebyside >}}
+{{< figure 
+    src="travel-trashers-board.jpg" 
+    alt="travel-trashers-board" 
+    width="450"
+    caption="The Travel Trashers - Images via BoardGameGeek"
+>}}
 
 ### My Favorites
 

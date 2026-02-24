@@ -47,26 +47,23 @@ The material quality is disappointing compared to the gameplay quality. The toke
 {{< figure
     src="ressources.jpg"
     alt="Underwater Cities resources"
-    width="500"
+    width="400"
     caption="Resources"
 >}}
 
-{{< sidebyside >}}
-    {{< figure
-        src="player-board.jpg"
-        alt="Underwater Cities player board"
-        width="400"
-        caption="Player Board"
-    >}}
+{{< figure
+    src="player-board.jpg"
+    alt="Underwater Cities player board"
+    width="400"
+    caption="Player Board"
+>}}
 
-    {{< figure
-        src="player-aid.jpg"
-        alt="Underwater Cities player aid"
-        width="400"
-        caption="Player Aid"
-    >}}
-
-{{< /sidebyside >}}
+{{< figure
+    src="player-aid.jpg"
+    alt="Underwater Cities player aid"
+    width="400"
+    caption="Player Aid"
+>}}
 
 ### Gameplay
 
@@ -88,23 +85,19 @@ There are 5 different card types: immediate effect cards, permanent effect cards
 
 Additionally, there are special cards that can include any of the above types but have a cost to play and offer more powerful effects.
 
-{{< sidebyside >}}
+{{< figure
+    src="action-cards-zoom.jpg"
+    alt="Different types of action cards"
+    width="350"
+    caption="Different types of cards"
+>}}
 
-    {{< figure
-        src="action-cards-zoom.jpg"
-        alt="Different types of action cards"
-        width="400"
-        caption="Different types of cards"
-    >}}
-
-    {{< figure
-        src="special-cards.jpg"
-        alt="Special cards with card back and cost"
-        width="325"
-        caption="Special cards with card back and cost"
-    >}}
-
-{{< /sidebyside >}}
+{{< figure
+    src="special-cards.jpg"
+    alt="Special cards with card back and cost"
+    width="350"
+    caption="Special cards with card back and cost"
+>}}
 
 Throughout the rounds, you'll develop your cities by creating symbiotic cities (domes) and plants attached to those domes. Cities only become productive and count toward your network once connecting tunnels are built.
 
@@ -123,7 +116,7 @@ I've played twice so far, and I can already say the game is frustrating in the b
 {{< figure
     src="play.jpg"
     alt="Main board and card tableau from a player"
-    width="600"
+    width="500"
     caption="Main board and card tableau from a player"
 >}}
 

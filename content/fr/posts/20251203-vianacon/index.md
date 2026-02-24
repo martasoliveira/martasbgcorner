@@ -48,23 +48,19 @@ Je l'avoue, je me suis sentie un peu perdue au début, mais l'ambiance était te
 
 La première activité à laquelle nous avons participé était le Peddy Paper. Comme nous n'étions que 2, nous avons rejoint une autre paire pour former une équipe. C'était fantastique, on s'est tellement amusées ! C'était une super façon de découvrir la ville tout en rencontrant de nouvelles personnes qui partagent la même passion. Malheureusement, notre équipe a terminé en deuxième place... si près du but !
 
-{{< sidebyside >}}
+{{< figure 
+    src="peddy-paper-viana.jpg" 
+    alt="peddy-paper-viana" 
+    width="350"
+    caption="Viana do Castelo Sunset" 
+>}}
 
-    {{< figure 
-        src="peddy-paper-viana.jpg" 
-        alt="peddy-paper-viana" 
-        width="280"
-        caption="Coucher de soleil à Viana do Castelo" 
-    >}}
-
-    {{< figure 
-        src="peddy-paper-viana-2.jpg" 
-        alt="peddy-paper-viana-2" 
-        width="600"
-        caption="Mur à Viana do Castelo"
-    >}}
-
-{{< /sidebyside >}}
+{{< figure 
+    src="peddy-paper-viana-2.jpg" 
+    alt="peddy-paper-viana-2" 
+    width="400"
+    caption="Wall in Viana do Castelo"
+>}}
 
 ### Une Conversation Spéciale avec Carolina Semrau
 
@@ -72,21 +68,19 @@ Nous avons eu une merveilleuse conversation en tête-à-tête avec Carolina Semr
 
 Carolina était incroyablement enthousiaste et généreuse de son temps, s'entretenant avec nous seules. Nous avons discuté du jeu en profondeur et abordé des questions environnementales plus larges. Malheureusement, le manque de temps ne nous a pas permis de tester le jeu, mais notre conversation a définitivement éveillé ma curiosité pour l'essayer.
 
-{{< sidebyside caption="The Travel Trashers - Images via BoardGameGeek" >}}
+{{< figure 
+    src="travel-trashers-cover.jpg" 
+    alt="travel-trashers-cover" 
+    width="300"
+    caption="The Travel Trashers - Images via BoardGameGeek"
+>}}
 
-    {{< figure 
-        src="travel-trashers-cover.jpg" 
-        alt="travel-trashers-cover" 
-        width="280"
-    >}}
-
-    {{< figure 
-        src="travel-trashers-board.jpg" 
-        alt="travel-trashers-board" 
-        width="900"
-    >}}
-
-{{< /sidebyside >}}
+{{< figure 
+    src="travel-trashers-board.jpg" 
+    alt="travel-trashers-board" 
+    width="450"
+    caption="The Travel Trashers - Images via BoardGameGeek"
+>}}
 
 ### Mes Coups de Cœur
 

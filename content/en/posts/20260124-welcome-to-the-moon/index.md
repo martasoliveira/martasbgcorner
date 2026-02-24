@@ -63,21 +63,19 @@ The game includes 24 double-sided sheets (6 sheets with 2 scenarios each), 6 dry
 
 A major plus: instead of paper pads, the game uses reusable sheets compatible with dry-erase markers. This keeps the box compact and allows unlimited replays. The internal organizers are fantastic, keeping everything well organized.
 
-{{< sidebyside >}}
 {{< figure
   src="sheets.jpg"
   alt="Erasable sheets"
-  width="600"
+  width="400"
   caption="Erasable Sheets"
 >}}
 
 {{< figure
   src="organizers.jpg"
   alt="Box organizers"
-  width="300"
+  width="350"
   caption="Organizers"
 >}}
-{{< /sidebyside >}}
 
 ### How It Plays
 
@@ -137,20 +135,19 @@ I'm currently playing through the campaign and just finished mission 4, mission 
 
 So far, I've lost only once to the AI and won 3 times. It's been a real pleasure moving through the different adventures and reading the story. The adventures have a logical progression that makes thematic sense and keeps me eager for the next challenge.
 
-{{< sidebyside >}}
 {{< figure
   src="end-of-adventure-2.jpg"
   alt="End of Adventure 2"
   width="350"
   caption="Adventure 2"
 >}}
+
 {{< figure
   src="end-of-adventure-4.jpg"
   alt="End of Adventure 4"
   width="350"
   caption="Adventure 4"
 >}}
-{{< /sidebyside >}}
 
 ### Pros and Cons
 
