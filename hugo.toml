@@ -1,4 +1,4 @@
-baseURL = 'https://martasbgcorner.com/'
+baseURL = 'https://www.martasbgcorner.com/'
 DefaultContentLanguage = 'en'
 DefaultContentLanguageInSubdir = true
 theme = 'Stack'
