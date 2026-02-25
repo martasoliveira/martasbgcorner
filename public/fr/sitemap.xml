@@ -1186,5 +1186,17 @@
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/page/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/subscribe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/subscribe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/subscribe/"
+                />
   </url>
 </urlset>

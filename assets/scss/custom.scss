@@ -354,3 +354,25 @@ nav.pagination {
 nav.pagination .page-link.disabled {
     display: none !important;
 }
+
+/* Subscribe nudge */
+.subscribe-nudge {
+    padding: 1.5rem 2rem;
+    margin: 2rem 0;
+    background: var(--card-background);
+    border-radius: 12px;
+    box-shadow: var(--shadow-l1);
+    text-align: center;
+    border: 1px solid var(--card-separator-color);
+    
+    p {
+        margin: 0;
+        font-size: 1.4rem;
+        color: var(--card-text-color-main);
+    }
+}
+
+/* Hide date on subscribe page */
+.subscribe-page .article-header .article-details {
+    display: none;
+}

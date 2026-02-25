@@ -55,6 +55,11 @@ theme = 'Stack'
             name = "Tags"
             url = "/en/tags"
             weight = 7
+        [[languages.en.menu.main]]
+            identifier = "subscribe"
+            name = "Subscribe"
+            url = "/en/subscribe"
+            weight = 99
     
     [languages.en.params.sidebar]
         emoji = ""
@@ -100,6 +105,11 @@ theme = 'Stack'
             name = "Tags"
             url = "/fr/tags"
             weight = 7
+        [[languages.fr.menu.main]]
+            identifier = "subscribe"
+            name = "S'abonner"
+            url = "/fr/subscribe"
+            weight = 99
     
     [languages.fr.params.sidebar]
         emoji = ""
