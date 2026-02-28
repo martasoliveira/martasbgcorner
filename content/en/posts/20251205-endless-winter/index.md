@@ -124,7 +124,7 @@ Overall, I'm excited to play more games and test all the expansions. I'll probab
 
 ### Your Turn
 
-Have you tested this game? What was your experience, and at what player count did you play?
+Have you tested this game? What was your experience, and at what player count did you play? Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/115667563209386445)**.
 
 ---
 

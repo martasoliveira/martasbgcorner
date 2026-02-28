@@ -35,4 +35,5 @@ Depuis, j'ai exploré d'innombrables jeux avec différentes mécaniques. Mes pr�
 
 Dernièrement, mes sessions de jeu sont un peu différentes. J'adore prendre mon temps pour installer un jeu, plonger dans les règles et vraiment apprendre les mécaniques avant de jouer. Je n'ai aucun problème à diviser une partie sur plusieurs sessions, je n'ai que rarement un bloc de 2 heures de toute façon ! Actuellement, j'ai deux jeux installés sur deux tables différentes : Endless Winter et Underwater Cities. Oui, deux tables ! Chacune attendant que je continue mon aventure.
 
-Voilà un peu sur moi et mon parcours dans les jeux de société. *Quel a été le jeu qui VOUS a accroché à ce hobby ? J'aimerais beaucoup entendre vos histoires !*
+Voilà un peu sur moi et mon parcours dans les jeux de société. Quel a été le jeu qui VOUS a accroché à ce hobby ? J'aimerais beaucoup entendre vos histoires ! 
+Venez en discuter sur **[Mastodon](https://mastodon.social/@martasbgcorner/115646593928364296)**.

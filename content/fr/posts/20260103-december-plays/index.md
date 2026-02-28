@@ -110,4 +110,4 @@ Je suis impatiente de continuer à explorer ces jeux dans la nouvelle année. J'
 
 #### Et Vous ?
 
-Quels ont été vos jeux préférés en décembre ? Certains d'entre vous ont-ils essayé Obsession ou Underwater Cities ? Y a-t-il eu de nouvelles découvertes qui vous ont surpris ? J'adorerais lire vos commentaires !
+Quels ont été vos jeux préférés en décembre ? Certains d'entre vous ont-ils essayé Obsession ou Underwater Cities ? Y a-t-il eu de nouvelles découvertes qui vous ont surpris ? Venez en discuter sur **[Mastodon](https://mastodon.social/@martasbgcorner/115828420641588617)**

@@ -132,7 +132,7 @@ I'd recommend Tracks: Siren Bay to people who enjoy solving mysteries, want to t
 
 ### Your Turn
 
-Have you played Tracks: Siren Bay? What did you think of the sound-based mechanics? How many cases have you solved?
+Have you played Tracks: Siren Bay? What did you think of the sound-based mechanics? How many cases have you solved? Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/115720328471508565)**.
 
 ---
 

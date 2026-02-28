@@ -45,3 +45,4 @@ J'ai vraiment apprécié **Dans les Pas de Darwin** comme jeu accessible et fami
 ## Et Vous ?
 
 Comment s'est passé votre novembre ? Quel jeu vous a le plus plu, ou le moins plu ?
+Venez en discuter sur **[Mastodon](https://mastodon.social/@martasbgcorner/115652604413665748)**.

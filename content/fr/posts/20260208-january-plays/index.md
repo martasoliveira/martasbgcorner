@@ -132,3 +132,5 @@ Dans mon [bilan ludique 2025]({{< relref "20260113-2025-plays" >}}), j'avais men
 Je me suis vraiment amusée avec ces jeux et je vais certainement y rejouer bientôt.
 
 Quels ont été vos jeux les plus joués en janvier ? Explorez-vous des jeux en profondeur ou en essayez-vous beaucoup de nouveaux ?
+
+Venez en discuter sur **[Mastodon](https://mastodon.social/@martasbgcorner/116037385672733929)** — parlons jeux de société !

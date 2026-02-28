@@ -109,7 +109,7 @@ R.A.V.E.L. est un puzzle de poche parfait : rapide à installer, rapide à jouer
 
 ### À Vous de Jouer
 
-Avez-vous joué à R.A.V.E.L. ? Quel niveau de difficulté avez-vous essayé ? Avez-vous réussi à vaincre le niveau le plus difficile ?
+Avez-vous joué à R.A.V.E.L. ? Quel niveau de difficulté avez-vous essayé ? Avez-vous réussi à vaincre le niveau le plus difficile ? Venez en discuter sur **[Mastodon](https://mastodon.social/@martasbgcorner/115743159848995577)**.
 
 ### Liens Utiles
 

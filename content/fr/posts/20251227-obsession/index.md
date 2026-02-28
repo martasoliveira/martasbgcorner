@@ -213,7 +213,7 @@ Si vous aimez les jeux thématiques avec des mécaniques élégantes, la gestion
 
 ### À Vous de Jouer
 
-Avez-vous joué à Obsession ? Quelle famille avez-vous choisie ? Comment se sont passés vos événements de cour ? Avez-vous essayé les extensions ?
+Avez-vous joué à Obsession ? Quelle famille avez-vous choisie ? Comment se sont passés vos événements de cour ? Avez-vous essayé les extensions ? Venez en discuter sur **[Mastodon](https://mastodon.social/@martasbgcorner/115788773425688561)**.
 
 ---
 

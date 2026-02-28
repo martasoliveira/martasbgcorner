@@ -172,7 +172,7 @@ If you enjoy Roll & Write games with meaningful decisions and don't mind a bit o
 
 ### Your Turn
 
-Have you played Troyes Dice? How many plays did it take you to feel comfortable with the strategy? Have you tried the expansion? What's your highest score?
+Have you played Troyes Dice? How many plays did it take you to feel comfortable with the strategy? Have you tried the expansion? What's your highest score? Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/115768575004577118)**.
 
 ---
 

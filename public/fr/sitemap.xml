@@ -1187,6 +1187,74 @@
                 href="http://localhost:1313/fr/page/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/games/harmonies/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/games/harmonies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/games/harmonies/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/20260227-harmonies/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/20260227-harmonies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/posts/20260227-harmonies/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/designers/johan-benvenuto/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/designers/johan-benvenuto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/designers/johan-benvenuto/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/publishers/libellud/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publishers/libellud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/publishers/libellud/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/multiplayer/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/multiplayer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/multiplayer/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/pose-de-tuiles/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/subscribe/</loc>
     <xhtml:link
                 rel="alternate"

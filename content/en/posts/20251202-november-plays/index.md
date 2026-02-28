@@ -44,4 +44,4 @@ Finspan left me slightly disappointed, especially when compared to its predecess
 
 ## What About You?
 
-How was your November? Which game did you most enjoy, or least enjoy, playing?
+How was your November? Which game did you most enjoy, or least enjoy, playing? Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/115652604413665748)**.

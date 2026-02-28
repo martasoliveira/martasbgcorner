@@ -179,7 +179,7 @@ If you enjoy flip-and-writes and want one with excellent replayability, a compel
 
 ### Your Turn
 
-Have you played Welcome to the Moon? Which adventure is your favorite? How far have you gotten in the campaign? I'd love to hear your experiences!
+Have you played Welcome to the Moon? Which adventure is your favorite? How far have you gotten in the campaign? I'd love to hear your experiences! Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/115952801917712065)**.
 
 ---
 

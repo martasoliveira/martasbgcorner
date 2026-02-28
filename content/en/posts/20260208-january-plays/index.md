@@ -133,3 +133,6 @@ In my [December 2025 year-in-review]({{< relref "20260113-2025-plays" >}}), I me
 I had a lot of fun with these games and will certainly play them again soon.
 
 What were your most-played games in January? Are you exploring games deeply or trying lots of new ones?
+
+Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/116037385672733929)** - let's talk board games!
+

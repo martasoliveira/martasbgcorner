@@ -249,4 +249,4 @@ For 2026, I'm taking on the **Alphabet Challenge** that consists in playing at l
 
 I'm particularly excited to explore games that don't get as much attention in the mainstream board gaming community. If you have recommendations for hidden gems, I'd love to hear them!
 
-What were your standout games from 2025? Are you taking on any gaming challenges this year? Let me know in the comments!
+What were your standout games from 2025? Are you taking on any gaming challenges this year? Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/115887487978395969)**.

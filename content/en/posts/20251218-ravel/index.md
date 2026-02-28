@@ -109,7 +109,7 @@ R.A.V.E.L. is a perfect pocket puzzle game: quick to set up, quick to play, and 
 
 ### Your Turn
 
-Have you played R.A.V.E.L.? What difficulty level have you tried? Have you managed to beat the highest difficulty?
+Have you played R.A.V.E.L.? What difficulty level have you tried? Have you managed to beat the highest difficulty? Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/115743159848995577)**.
 
 ### Related Links
 

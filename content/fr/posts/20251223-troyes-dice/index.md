@@ -172,7 +172,7 @@ Si vous aimez les Roll & Writes avec des décisions significatives et que vous n
 
 ### À Vous de Jouer
 
-Avez-vous joué à Troyes Dice ? Combien de parties vous a-t-il fallu pour vous sentir à l'aise avec la stratégie ? Avez-vous essayé l'extension ? Quel est votre meilleur score ?
+Avez-vous joué à Troyes Dice ? Combien de parties vous a-t-il fallu pour vous sentir à l'aise avec la stratégie ? Avez-vous essayé l'extension ? Quel est votre meilleur score ? Venez en discuter sur **[Mastodon](https://mastodon.social/@martasbgcorner/115768575004577118)**.
 
 ---
 

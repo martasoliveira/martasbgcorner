@@ -124,7 +124,7 @@ Dans l'ensemble, j'ai hâte de faire d'autres parties et de tester toutes les ex
 
 ### À Vous de Jouer
 
-Avez-vous testé ce jeu ? Quelle a été votre expérience, et à combien de joueurs avez-vous joué ?
+Avez-vous testé ce jeu ? Quelle a été votre expérience, et à combien de joueurs avez-vous joué ? Venez en discuter sur **[Mastodon](https://mastodon.social/@martasbgcorner/115667563209386445)**.
 
 ---
 

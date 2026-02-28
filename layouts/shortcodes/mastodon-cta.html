@@ -1,0 +1,7 @@
+{{ $icon := resources.Get "icons/mastodon.svg" }}
+<div class="mastodon-cta">
+    {{ if $icon }}
+        <img src="{{ $icon.RelPermalink }}" alt="Mastodon" class="mastodon-icon" />
+    {{ end }}
+    <span>{{ .Inner }}</span>
+</div>

@@ -152,7 +152,7 @@ J'étais réticente à l'essayer au départ en raison de son apparence peu attra
 
 ### À Vous de Jouer
 
-Avez-vous joué à Underwater Cities ? Quelle est votre expérience ? Possédez-vous les extensions ?
+Avez-vous joué à Underwater Cities ? Quelle est votre expérience ? Possédez-vous les extensions ? Venez en discuter sur **[Mastodon](https://mastodon.social/@martasbgcorner/115701160754831355)**.
 
 ---
 

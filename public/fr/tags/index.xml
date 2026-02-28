@@ -131,5 +131,17 @@
             <pubDate>Tue, 02 Dec 2025 09:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/introduction/</guid>
             <description></description>
+        </item><item>
+            <title>Multiplayer</title>
+            <link>http://localhost:1313/fr/tags/multiplayer/</link>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/multiplayer/</guid>
+            <description></description>
+        </item><item>
+            <title>Pose De Tuiles</title>
+            <link>http://localhost:1313/fr/tags/pose-de-tuiles/</link>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/pose-de-tuiles/</guid>
+            <description></description>
         </item></channel>
 </rss>

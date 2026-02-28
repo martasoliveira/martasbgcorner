@@ -131,5 +131,17 @@
             <pubDate>Tue, 02 Dec 2025 09:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/tags/introduction/</guid>
             <description></description>
+        </item><item>
+            <title>Multiplayer</title>
+            <link>http://localhost:1313/en/tags/multiplayer/</link>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/multiplayer/</guid>
+            <description></description>
+        </item><item>
+            <title>Tile Placement</title>
+            <link>http://localhost:1313/en/tags/tile-placement/</link>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/tile-placement/</guid>
+            <description></description>
         </item></channel>
 </rss>

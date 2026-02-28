@@ -233,5 +233,11 @@
             <pubDate>Tue, 02 Dec 2025 10:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/games/wingspan/</guid>
             <description></description>
+        </item><item>
+            <title>Harmonies</title>
+            <link>http://localhost:1313/fr/games/harmonies/</link>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/harmonies/</guid>
+            <description></description>
         </item></channel>
 </rss>

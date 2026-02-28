@@ -154,7 +154,7 @@ I was reluctant to try it at first due to its not-so-appealing appearance, but I
 
 ### Your Turn
 
-Have you played Underwater Cities? What's your experience with it? Do you own the expansions?
+Have you played Underwater Cities? What's your experience with it? Do you own the expansions? Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/115701160754831355)**.
 
 ---
 

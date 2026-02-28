@@ -132,7 +132,7 @@ Je recommande Tracks: Siren Bay aux personnes qui aiment résoudre des mystères
 
 ### À Vous de Jouer
 
-Avez-vous joué à Tracks: Siren Bay ? Qu'avez-vous pensé des mécaniques basées sur le son ? Combien d'affaires avez-vous résolues ?
+Avez-vous joué à Tracks: Siren Bay ? Qu'avez-vous pensé des mécaniques basées sur le son ? Combien d'affaires avez-vous résolues ? Venez en discuter sur **[Mastodon](https://mastodon.social/@martasbgcorner/115720328471508565)**.
 
 ---
 

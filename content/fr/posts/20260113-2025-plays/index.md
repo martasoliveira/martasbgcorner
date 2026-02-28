@@ -249,4 +249,4 @@ Pour 2026, je relève le **Défi de l'Alphabet** qui consiste à jouer à au moi
 
 Je suis particulièrement enthousiaste à l'idée d'explorer des jeux qui ne bénéficient pas d'autant d'attention dans la communauté ludique grand public. Si vous avez des recommandations de jeux méconnus, j'adorerais les entendre !
 
-Quels ont été vos jeux marquants de 2025 ? Relevez-vous des défis ludiques cette année ? Dites-le moi en commentaires !
+Quels ont été vos jeux marquants de 2025 ? Relevez-vous des défis ludiques cette année ? Venez en discuter sur **[Mastodon](https://mastodon.social/@martasbgcorner/115887487978395969)**.

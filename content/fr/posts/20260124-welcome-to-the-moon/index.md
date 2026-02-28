@@ -178,7 +178,7 @@ Si vous aimez les flip & write et en cherchez un avec une excellente rejouabilit
 
 ### À Vous de Jouer
 
-Avez-vous joué à Welcome to the Moon ? Quelle est votre aventure préférée ? Jusqu'où êtes-vous arrivé dans la campagne ? J'adorerais entendre vos expériences !
+Avez-vous joué à Welcome to the Moon ? Quelle est votre aventure préférée ? Jusqu'où êtes-vous arrivé dans la campagne ? J'adorerais entendre vos expériences ! Venez en discuter sur **[Mastodon](https://mastodon.social/@martasbgcorner/115952801917712065)**
 
 ---
 

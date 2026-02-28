@@ -26,4 +26,6 @@ Si vous partagez la même passion pour les jeux de société, j'espère que vous
 
 ---
 
-Vous pouvez aussi me retrouver sur Mastodon : [@martasbgcorner@mastodon.social](https://mastodon.social/@martasbgcorner)
+{{< mastodon-cta >}}
+Vous pouvez aussi me retrouver sur <a href="https://mastodon.social/@martasbgcorner@mastodon.social">Mastodon</a>
+{{< /mastodon-cta >}}

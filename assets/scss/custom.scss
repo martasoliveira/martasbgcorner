@@ -376,3 +376,39 @@ nav.pagination .page-link.disabled {
 .subscribe-page .article-header .article-details {
     display: none;
 }
+
+/* ============================================
+   MASTODON CTA — End of post call-to-action
+   ============================================ */
+.mastodon-cta {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-top: 1rem;
+    padding: 1rem 1.25rem;
+    background: var(--card-background);
+    border-radius: 12px;
+    box-shadow: var(--shadow-l1);
+    border-left: 4px solid #6364ff;
+}
+
+.mastodon-icon {
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+}
+
+.mastodon-cta span {
+    color: var(--card-text-color-main);
+    font-size: 1.5rem;
+}
+
+.mastodon-cta a {
+    color: #6364ff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.mastodon-cta a:hover {
+    text-decoration: underline;
+}

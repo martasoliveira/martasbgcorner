@@ -35,4 +35,4 @@ Since then, I've explored countless games across different mechanics. My favorit
 
 Lately, my gaming sessions look a bit different. I love taking my time to set up a game, dive deep into the rules, and really learn the mechanics before playing. I have no problem splitting a game across multiple sessions, I rarely have a full 2-hour block anyway! Currently, I have two games set up on two different tables: Endless Winter and Underwater Cities. Yes, two tables! Each one waiting for me to continue my adventure.
 
-So that's a bit about me and my board gaming journey. *What was the game that got YOU hooked on the hobby? I'd love to hear your stories!*
+So that's a bit about me and my board gaming journey. What was the game that got YOU hooked on the hobby? I'd love to hear your stories! Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/115646593928364296)**.

@@ -213,7 +213,8 @@ If you enjoy thematic games with elegant mechanics, hand management, and appreci
 
 ### Your Turn
 
-Have you played Obsession? Which family did you play? How did your courtship events go? Have you tried the expansions?
+Have you played Obsession? Which family did you play? How did your courtship events go? Have you tried the expansions? Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/115788773425688561)**.
+
 
 ---
 

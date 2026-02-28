@@ -110,4 +110,4 @@ I'm excited to continue exploring these games in the new year. I'm particularly 
 
 #### What About You?
 
-What were your favorite games from December? Did any of you try Obsession or Underwater Cities? Any new discoveries that surprised you? I'd love to hear your thoughts!
+What were your favorite games from December? Did any of you try Obsession or Underwater Cities? Any new discoveries that surprised you? I'd love to hear your thoughts! Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/115828420641588617)**.
