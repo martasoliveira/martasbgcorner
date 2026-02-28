@@ -27,5 +27,5 @@ If you share the same passion for board games, I hope you'll feel right at home 
 ---
 
 {{< mastodon-cta >}}
-You can also find me on <a href="https://mastodon.social/@martasbgcorner@mastodon.social">Mastodon</a>
+You can also find me on <a rel="me" href="https://mastodon.social/@martasbgcorner@mastodon.social">Mastodon</a>
 {{< /mastodon-cta >}}
