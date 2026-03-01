@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fr/games/8-qui-croque/</loc>
-    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/fr/categories/</loc>
-    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -18,8 +15,37 @@
                 href="http://localhost:1313/fr/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/categories/critiques/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/designers/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/designers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/designers/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/euro-game/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/euro-game/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/euro-game/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fr/games/</loc>
-    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -31,14 +57,66 @@
                 href="http://localhost:1313/fr/games/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/jeu-en-solo/</loc>
-    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/fr/games/harmonies/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/games/harmonies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/games/harmonies/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/20260227-harmonies/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/20260227-harmonies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/posts/20260227-harmonies/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/jeu-familial/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/categories/jeux-de-soci%C3%A9t%C3%A9/</loc>
-    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/designers/johan-benvenuto/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/designers/johan-benvenuto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/designers/johan-benvenuto/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/publishers/libellud/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publishers/libellud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/publishers/libellud/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/</loc>
-    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -49,6 +127,67 @@
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/multiplayer/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/multiplayer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/multiplayer/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/pose-de-tuiles/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/publishers/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publishers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/publishers/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/</loc>
+    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/games/8-qui-croque/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/jeu-en-solo/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/games/merchants-cove/</loc>
     <lastmod>2026-02-08T00:00:00+00:00</lastmod>
@@ -91,32 +230,6 @@
   </url><url>
     <loc>http://localhost:1313/fr/categories/parties-du-mois/</loc>
     <lastmod>2026-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/posts/</loc>
-    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/</loc>
-    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/games/voyageurs-du-tigre-du-sud/</loc>
     <lastmod>2026-02-08T00:00:00+00:00</lastmod>
@@ -173,22 +286,6 @@
                 href="http://localhost:1313/fr/publishers/blue-cocker-games/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/categories/critiques/</loc>
-    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/designers/</loc>
-    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/designers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/designers/"
-                />
-  </url><url>
     <loc>http://localhost:1313/fr/tags/flip--write/</loc>
     <lastmod>2026-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -200,19 +297,6 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/tags/flip--write/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/publishers/</loc>
-    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publishers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/publishers/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/posts/20260124-welcome-to-the-moon/</loc>
@@ -792,9 +876,6 @@
     <loc>http://localhost:1313/fr/tags/jeu-audio/</loc>
     <lastmod>2025-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/tags/jeu-familial/</loc>
-    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/fr/designers/juan-rodriguez/</loc>
     <lastmod>2025-12-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -929,19 +1010,6 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/posts/20251205-endless-winter/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/euro-game/</loc>
-    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/euro-game/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/euro-game/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/publishers/fantasia-games/</loc>
@@ -1186,74 +1254,6 @@
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/page/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/fr/games/harmonies/</loc>
-    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/games/harmonies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/games/harmonies/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/posts/20260227-harmonies/</loc>
-    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/posts/20260227-harmonies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/posts/20260227-harmonies/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/designers/johan-benvenuto/</loc>
-    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/designers/johan-benvenuto/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/designers/johan-benvenuto/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/publishers/libellud/</loc>
-    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publishers/libellud/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/publishers/libellud/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/multiplayer/</loc>
-    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/multiplayer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/multiplayer/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/pose-de-tuiles/</loc>
-    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/subscribe/</loc>
     <xhtml:link

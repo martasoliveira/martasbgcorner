@@ -5,7 +5,31 @@
         <description>Recent content in Tags on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Euro Game</title>
+            <link>http://localhost:1313/en/tags/euro-game/</link>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/euro-game/</guid>
+            <description></description>
+        </item><item>
+            <title>Family Game</title>
+            <link>http://localhost:1313/en/tags/family-game/</link>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/family-game/</guid>
+            <description></description>
+        </item><item>
+            <title>Multiplayer</title>
+            <link>http://localhost:1313/en/tags/multiplayer/</link>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/multiplayer/</guid>
+            <description></description>
+        </item><item>
+            <title>Tile Placement</title>
+            <link>http://localhost:1313/en/tags/tile-placement/</link>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/tile-placement/</guid>
+            <description></description>
+        </item><item>
             <title>Solo Gaming</title>
             <link>http://localhost:1313/en/tags/solo-gaming/</link>
             <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
@@ -66,12 +90,6 @@
             <guid>http://localhost:1313/en/tags/detective/</guid>
             <description></description>
         </item><item>
-            <title>Family Game</title>
-            <link>http://localhost:1313/en/tags/family-game/</link>
-            <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/family-game/</guid>
-            <description></description>
-        </item><item>
             <title>Card Driven</title>
             <link>http://localhost:1313/en/tags/card-driven/</link>
             <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
@@ -102,12 +120,6 @@
             <guid>http://localhost:1313/en/tags/deck-building/</guid>
             <description></description>
         </item><item>
-            <title>Euro Game</title>
-            <link>http://localhost:1313/en/tags/euro-game/</link>
-            <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/euro-game/</guid>
-            <description></description>
-        </item><item>
             <title>VianaCon</title>
             <link>http://localhost:1313/en/tags/vianacon/</link>
             <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
@@ -130,18 +142,6 @@
             <link>http://localhost:1313/en/tags/introduction/</link>
             <pubDate>Tue, 02 Dec 2025 09:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/tags/introduction/</guid>
-            <description></description>
-        </item><item>
-            <title>Multiplayer</title>
-            <link>http://localhost:1313/en/tags/multiplayer/</link>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/multiplayer/</guid>
-            <description></description>
-        </item><item>
-            <title>Tile Placement</title>
-            <link>http://localhost:1313/en/tags/tile-placement/</link>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/tile-placement/</guid>
             <description></description>
         </item></channel>
 </rss>

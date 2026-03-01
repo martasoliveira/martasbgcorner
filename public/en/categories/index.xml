@@ -5,23 +5,23 @@
         <description>Recent content in Categories on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Board Games</title>
             <link>http://localhost:1313/en/categories/board-games/</link>
-            <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/categories/board-games/</guid>
+            <description></description>
+        </item><item>
+            <title>Reviews</title>
+            <link>http://localhost:1313/en/categories/reviews/</link>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/categories/reviews/</guid>
             <description></description>
         </item><item>
             <title>Monthly Play</title>
             <link>http://localhost:1313/en/categories/monthly-play/</link>
             <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/categories/monthly-play/</guid>
-            <description></description>
-        </item><item>
-            <title>Reviews</title>
-            <link>http://localhost:1313/en/categories/reviews/</link>
-            <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/categories/reviews/</guid>
             <description></description>
         </item><item>
             <title>Yearly Plays</title>

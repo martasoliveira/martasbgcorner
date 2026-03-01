@@ -5,7 +5,13 @@
         <description>Recent content in Games on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Harmonies</title>
+            <link>http://localhost:1313/en/games/harmonies/</link>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/harmonies/</guid>
+            <description></description>
+        </item><item>
             <title>Merchants Cove</title>
             <link>http://localhost:1313/en/games/merchants-cove/</link>
             <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
@@ -226,12 +232,6 @@
             <link>http://localhost:1313/en/games/wingspan/</link>
             <pubDate>Tue, 02 Dec 2025 10:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/wingspan/</guid>
-            <description></description>
-        </item><item>
-            <title>Harmonies</title>
-            <link>http://localhost:1313/en/games/harmonies/</link>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/harmonies/</guid>
             <description></description>
         </item></channel>
 </rss>

@@ -5,7 +5,13 @@
         <description>Recent content in Designers on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/designers/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/designers/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Johan Benvenuto</title>
+            <link>http://localhost:1313/fr/designers/johan-benvenuto/</link>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/designers/johan-benvenuto/</guid>
+            <description></description>
+        </item><item>
             <title>Alexis Allard</title>
             <link>http://localhost:1313/fr/designers/alexis-allard/</link>
             <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
@@ -70,12 +76,6 @@
             <link>http://localhost:1313/fr/designers/stan-kordonskiy/</link>
             <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/designers/stan-kordonskiy/</guid>
-            <description></description>
-        </item><item>
-            <title>Johan Benvenuto</title>
-            <link>http://localhost:1313/fr/designers/johan-benvenuto/</link>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/designers/johan-benvenuto/</guid>
             <description></description>
         </item></channel>
 </rss>

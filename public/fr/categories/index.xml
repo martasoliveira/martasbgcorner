@@ -5,10 +5,16 @@
         <description>Recent content in Categories on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Critiques</title>
+            <link>http://localhost:1313/fr/categories/critiques/</link>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/categories/critiques/</guid>
+            <description></description>
+        </item><item>
             <title>Jeux De Société</title>
             <link>http://localhost:1313/fr/categories/jeux-de-soci%C3%A9t%C3%A9/</link>
-            <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/categories/jeux-de-soci%C3%A9t%C3%A9/</guid>
             <description></description>
         </item><item>
@@ -16,12 +22,6 @@
             <link>http://localhost:1313/fr/categories/parties-du-mois/</link>
             <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/categories/parties-du-mois/</guid>
-            <description></description>
-        </item><item>
-            <title>Critiques</title>
-            <link>http://localhost:1313/fr/categories/critiques/</link>
-            <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/categories/critiques/</guid>
             <description></description>
         </item><item>
             <title>Parties De L&#39;Année</title>
