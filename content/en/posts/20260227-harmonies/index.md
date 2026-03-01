@@ -2,6 +2,7 @@
 date = '2026-02-27'
 draft = false
 title = "Harmonies – Building Beauty, One Token at a Time"
+description = "A review of Harmonies, the beautiful tile-placement game by Libellud where you build landscapes and attract animals."
 author = "martas.bg.corner"
 image = 'harmonies-box.jpg'
 categories = ['Board Games', 'Reviews']
