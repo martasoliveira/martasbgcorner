@@ -131,4 +131,4 @@ February also gave me some welcome time with games already in my collection, a m
 
 ## What About You?
 
-Did you discover any new games in February? And has anyone tried Proving Grounds, how did you handle the timer pressure? Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/116145321318061962)** 😊.
+Did you discover any new games in February? And has anyone tried Proving Grounds, how did you handle the timer pressure? Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/116183814431524753)** 😊.

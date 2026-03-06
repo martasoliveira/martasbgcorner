@@ -131,4 +131,4 @@ Février m'a aussi permis de retrouver des jeux déjà dans ma collection, un m�
 
 ## Et Vous ?
 
-Avez-vous découvert de nouveaux jeux en février ? Et est-ce que certains d'entre vous ont essayé Le Défi de la Reine, comment avez-vous géré la pression du chronomètre ? Venez partager vos parties sur **[Mastodon](https://mastodon.social/@martasbgcorner/116145321318061962)** 😊.
+Avez-vous découvert de nouveaux jeux en février ? Et est-ce que certains d'entre vous ont essayé Le Défi de la Reine, comment avez-vous géré la pression du chronomètre ? Venez partager vos parties sur **[Mastodon](https://mastodon.social/@martasbgcorner/116183814431524753)** 😊.
