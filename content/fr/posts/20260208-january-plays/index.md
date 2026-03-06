@@ -6,7 +6,7 @@ author = "martas.bg.corner"
 image = 'games-stats-january.jpg'
 categories = ['Jeux de Société', 'Parties du Mois']
 tags = ['Jeu en Solo']
-games = ['Voyageurs du Tigre du Sud', "8 qui Croque", 'Par Odin', 'Welcome to the Moon', 'Merchants Cove']
+games = ['Voyageurs du Tigre du Sud', "8 qui Croque", 'Par Odin', 'Welcome to the Moon', 'La Baie des Marchands']
 +++
 Bonjour à tous !
 
@@ -102,13 +102,13 @@ J'aime vraiment ce jeu quand je veux quelque chose de rapide qui me fait réflé
 
 J'y ai joué 5 fois ce mois-ci et je vais probablement continuer. Comme je l'ai mentionné dans ma [critique dédiée]({{< relref "20260124-welcome-to-the-moon" >}}), la partie campagne avec ses différents scénarios racontant une histoire cohérente est vraiment agréable. La difficulté croissante est également très plaisante, gardant chaque aventure challengeante et fraîche. La progression narrative de la préparation du vaisseau jusqu'aux opérations minières lunaires continue de m'engager.
 
-#### Merchants Cove – 3 parties
+#### La Baie des Marchands – 3 parties
 
 {{< figure
   src="merchants-cove.jpg"
-  alt="Merchants Cove et Le Chronomancien avec son assistant"
+  alt="La Baie des Marchands et Le Chronomancien avec son assistant"
   width="500"
-  caption="Merchants Cove et Le Chronomancien avec son assistant"
+  caption="La Baie des Marchands et Le Chronomancien avec son assistant"
 >}}
 
 Un jeu asymétrique où chaque joueur est un marchand qui crée et vend des marchandises aux personnes arrivant en ville par bateau. Il y a 4 types de clients qui peuvent demander 2 types de marchandises différents : la plus grande ou la plus petite.

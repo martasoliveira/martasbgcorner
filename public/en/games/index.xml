@@ -5,17 +5,47 @@
         <description>Recent content in Games on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Conservas</title>
+            <link>http://localhost:1313/en/games/conservas/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/conservas/</guid>
+            <description></description>
+        </item><item>
             <title>Harmonies</title>
             <link>http://localhost:1313/en/games/harmonies/</link>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/harmonies/</guid>
+            <description></description>
+        </item><item>
+            <title>Imperial Miners</title>
+            <link>http://localhost:1313/en/games/imperial-miners/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/imperial-miners/</guid>
             <description></description>
         </item><item>
             <title>Merchants Cove</title>
             <link>http://localhost:1313/en/games/merchants-cove/</link>
-            <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/merchants-cove/</guid>
+            <description></description>
+        </item><item>
+            <title>Proving Grounds</title>
+            <link>http://localhost:1313/en/games/proving-grounds/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/proving-grounds/</guid>
+            <description></description>
+        </item><item>
+            <title>Sparks</title>
+            <link>http://localhost:1313/en/games/sparks/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/sparks/</guid>
+            <description></description>
+        </item><item>
+            <title>Sylvion</title>
+            <link>http://localhost:1313/en/games/sylvion/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/sylvion/</guid>
             <description></description>
         </item><item>
             <title>Numbsters</title>

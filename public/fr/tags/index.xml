@@ -5,7 +5,25 @@
         <description>Recent content in Tags on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Dice Rolling</title>
+            <link>http://localhost:1313/fr/tags/dice-rolling/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/dice-rolling/</guid>
+            <description></description>
+        </item><item>
+            <title>Jeu en Solo</title>
+            <link>http://localhost:1313/fr/tags/jeu-en-solo/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/jeu-en-solo/</guid>
+            <description></description>
+        </item><item>
+            <title>Push Your Luck</title>
+            <link>http://localhost:1313/fr/tags/push-your-luck/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/push-your-luck/</guid>
+            <description></description>
+        </item><item>
             <title>Euro Game</title>
             <link>http://localhost:1313/fr/tags/euro-game/</link>
             <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
@@ -28,12 +46,6 @@
             <link>http://localhost:1313/fr/tags/pose-de-tuiles/</link>
             <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/pose-de-tuiles/</guid>
-            <description></description>
-        </item><item>
-            <title>Jeu en Solo</title>
-            <link>http://localhost:1313/fr/tags/jeu-en-solo/</link>
-            <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/jeu-en-solo/</guid>
             <description></description>
         </item><item>
             <title>Flip &amp; Write</title>
@@ -102,7 +114,7 @@
             <guid>http://localhost:1313/fr/tags/jeu-expert/</guid>
             <description></description>
         </item><item>
-            <title>Placement D&#39;ouvriers</title>
+            <title>Placement D&#39;Ouvriers</title>
             <link>http://localhost:1313/fr/tags/placement-douvriers/</link>
             <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/placement-douvriers/</guid>
@@ -130,12 +142,6 @@
             <link>http://localhost:1313/fr/tags/placement-de-d%C3%A9s/</link>
             <pubDate>Tue, 02 Dec 2025 10:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/placement-de-d%C3%A9s/</guid>
-            <description></description>
-        </item><item>
-            <title>Push Your Luck</title>
-            <link>http://localhost:1313/fr/tags/push-your-luck/</link>
-            <pubDate>Tue, 02 Dec 2025 10:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/push-your-luck/</guid>
             <description></description>
         </item><item>
             <title>Introduction</title>
