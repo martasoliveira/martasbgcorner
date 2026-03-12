@@ -149,5 +149,11 @@
             <pubDate>Tue, 02 Dec 2025 09:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/tags/introduction/</guid>
             <description></description>
+        </item><item>
+            <title>Asymmetric</title>
+            <link>http://localhost:1313/en/tags/asymmetric/</link>
+            <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/asymmetric/</guid>
+            <description></description>
         </item></channel>
 </rss>

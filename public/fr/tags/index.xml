@@ -5,29 +5,41 @@
         <description>Recent content in Tags on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Asymétrique</title>
+            <link>http://localhost:1313/fr/tags/asym%C3%A9trique/</link>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/asym%C3%A9trique/</guid>
+            <description></description>
+        </item><item>
+            <title>Euro Game</title>
+            <link>http://localhost:1313/fr/tags/euro-game/</link>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/euro-game/</guid>
+            <description></description>
+        </item><item>
+            <title>Jeu en Solo</title>
+            <link>http://localhost:1313/fr/tags/jeu-en-solo/</link>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/jeu-en-solo/</guid>
+            <description></description>
+        </item><item>
+            <title>Placement D&#39;ouvriers</title>
+            <link>http://localhost:1313/fr/tags/placement-douvriers/</link>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/placement-douvriers/</guid>
+            <description></description>
+        </item><item>
             <title>Dice Rolling</title>
             <link>http://localhost:1313/fr/tags/dice-rolling/</link>
             <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/dice-rolling/</guid>
             <description></description>
         </item><item>
-            <title>Jeu en Solo</title>
-            <link>http://localhost:1313/fr/tags/jeu-en-solo/</link>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/jeu-en-solo/</guid>
-            <description></description>
-        </item><item>
             <title>Push Your Luck</title>
             <link>http://localhost:1313/fr/tags/push-your-luck/</link>
             <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/push-your-luck/</guid>
-            <description></description>
-        </item><item>
-            <title>Euro Game</title>
-            <link>http://localhost:1313/fr/tags/euro-game/</link>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/euro-game/</guid>
             <description></description>
         </item><item>
             <title>Jeu Familial</title>
@@ -114,12 +126,6 @@
             <guid>http://localhost:1313/fr/tags/jeu-expert/</guid>
             <description></description>
         </item><item>
-            <title>Placement D&#39;Ouvriers</title>
-            <link>http://localhost:1313/fr/tags/placement-douvriers/</link>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/placement-douvriers/</guid>
-            <description></description>
-        </item><item>
             <title>Tableau Building</title>
             <link>http://localhost:1313/fr/tags/tableau-building/</link>
             <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
@@ -148,6 +154,24 @@
             <link>http://localhost:1313/fr/tags/introduction/</link>
             <pubDate>Tue, 02 Dec 2025 09:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/introduction/</guid>
+            <description></description>
+        </item><item>
+            <title>Asymmetric</title>
+            <link>http://localhost:1313/fr/tags/asymmetric/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/asymmetric/</guid>
+            <description></description>
+        </item><item>
+            <title>Solo Gaming</title>
+            <link>http://localhost:1313/fr/tags/solo-gaming/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/solo-gaming/</guid>
+            <description></description>
+        </item><item>
+            <title>Worker Placement</title>
+            <link>http://localhost:1313/fr/tags/worker-placement/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/worker-placement/</guid>
             <description></description>
         </item></channel>
 </rss>

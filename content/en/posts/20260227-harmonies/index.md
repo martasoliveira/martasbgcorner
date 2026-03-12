@@ -2,7 +2,6 @@
 date = '2026-02-27'
 draft = false
 title = "Harmonies – Building Beauty, One Token at a Time"
-description = "A review of Harmonies, the beautiful tile-placement game by Libellud where you build landscapes and attract animals."
 author = "martas.bg.corner"
 image = 'harmonies-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -86,7 +85,7 @@ One thing worth mentioning: the landscape is quite abstract. If you are into it,
 
 ## My Rating
 
-**Rate: 8 ou of 10**
+**Rate: 8 out of 10**
 
 Harmonies is an easy, familiar, and quick game that delivers a genuinely enjoyable experience. The production is beautiful, the gameplay is smooth, and the strategic depth sneaks up on you. It is not the most complex game I have played, but it does not need to be, it earns its score through consistency and charm.
 

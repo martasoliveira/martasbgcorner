@@ -1320,6 +1320,24 @@
                 href="http://localhost:1313/en/page/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/tags/asymmetric/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/designers/carl-van-ostrand/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/designers/drake-villareal/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/publishers/final-frontier-games/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/designers/jonny-pac/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/20260312-merchants-cove/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/subscribe/</loc>
     <xhtml:link
                 rel="alternate"

@@ -53,5 +53,11 @@
             <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/publishers/fantasia-games/</guid>
             <description></description>
+        </item><item>
+            <title>Final Frontier Games</title>
+            <link>http://localhost:1313/en/publishers/final-frontier-games/</link>
+            <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/publishers/final-frontier-games/</guid>
+            <description></description>
         </item></channel>
 </rss>
