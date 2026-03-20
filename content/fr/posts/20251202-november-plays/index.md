@@ -2,11 +2,11 @@
 date = '2025-12-02T10:00:00'
 draft = false
 title = "Parties de Novembre 2025"
-author = "martas.bg.corner"
 image = 'november-banner.png'
+author = "martas.bg.corner"
 categories = ['Jeux de Société', 'Parties du Mois']
 games = ['Perseverance: Castaway Chronicles', 'Heat Pedal to the Metal', 'Dans les Pas de Darwin', 'Finspan', 'Wingspan']
-tags = ['Jeu en Solo', 'VianaCon', 'Placement de Dés', 'Push your luck']
+tags = ['Jeu en Solo', 'VianaCon', 'Placement de Dés', 'Push Your Luck']
 +++
 
 Novembre a été un excellent mois ludique ! J'ai réussi à faire 16 parties sur 13 jeux différents.

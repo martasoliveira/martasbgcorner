@@ -3,6 +3,7 @@ date = '2025-12-02T09:00:00'
 draft = false
 title = "Bienvenue sur Marta's BG Corner"
 image = 'serious-avatar.jpg'
+author = "martas.bg.corner"
 categories = ['Jeux de Société']
 tags = ['Introduction']
 +++

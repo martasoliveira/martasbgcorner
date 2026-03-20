@@ -8,7 +8,7 @@ categories = ['Jeux de Société', 'Critiques']
 tags = ['Jeu en Solo', "Placement d'Ouvriers", 'Deck Building', 'Euro Game']
 games = ['Endless Winter: Paleoamericans']
 designers = ['Stan Kordonskiy']
-publishers = ['Fantasia Games', 'Matagot']
+publishers = ['Fantasia Games']
 +++
 
 Bonjour à tous !

@@ -3,9 +3,10 @@ date = '2025-12-03'
 draft = false
 title = "Découverte de VianaCon 2025"
 image = 'peddy-paper-viana.jpg'
+author = "martas.bg.corner"
 categories = ['Conventions']
 tags = ['VianaCon']
-games = ['Heat Pedal to the Metal', 'Finspan', 'In the Footsteps of Darwin', 'Fuse', 'Last Minute', 'Trash Travelers']
+games = ['Heat Pedal to the Metal', 'Finspan', 'Dans les Pas de Darwin', 'Fuse', 'Last Minute', 'Trash Travelers']
 +++
 
 **VianaCon** est une convention de jeux de société annuelle organisée à Viana do Castelo, au Portugal, stratégiquement programmée juste après Essen Spiel. Cette année, elle s'est tenue du 7 au 9 novembre. L'événement est organisé par l'association Artmatriz et l'entrée est entièrement gratuite.

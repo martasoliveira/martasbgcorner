@@ -2,8 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/fr/games/atlantes/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/20260320-aquatica/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/20260320-aquatica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/posts/20260320-aquatica/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fr/categories/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -14,6 +30,235 @@
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/categories/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/publishers/cosmodrome-games/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publishers/cosmodrome-games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/publishers/cosmodrome-games/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/critiques/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/designers/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/designers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/designers/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/games/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/games/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/hand-management/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/hand-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/hand-management/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/designers/ivan-tuzovsky/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/designers/ivan-tuzovsky/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/designers/ivan-tuzovsky/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/jeu-en-solo/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/jeu-familial/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/jeux-de-soci%C3%A9t%C3%A9/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/open-drafting/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/open-drafting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/open-drafting/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/publishers/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publishers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/publishers/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/asym%C3%A9trique/</loc>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/designers/carl-van-ostrand/</loc>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/designers/carl-van-ostrand/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/designers/carl-van-ostrand/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/designers/drake-villareal/</loc>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/designers/drake-villareal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/designers/drake-villareal/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/euro-game/</loc>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/euro-game/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/euro-game/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/publishers/final-frontier-games/</loc>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publishers/final-frontier-games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/publishers/final-frontier-games/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/designers/jonny-pac/</loc>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/designers/jonny-pac/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/designers/jonny-pac/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/games/la-baie-des-marchands/</loc>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/20260312-merchants-cove/</loc>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/20260312-merchants-cove/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/posts/20260312-merchants-cove/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/placement-douvriers/</loc>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/games/conservas/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
@@ -39,19 +284,6 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/tags/dice-rolling/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/games/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/games/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/games/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/games/harmonies/</loc>
@@ -80,30 +312,8 @@
                 href="http://localhost:1313/fr/games/imperial-miners/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/jeu-en-solo/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/categories/jeux-de-soci%C3%A9t%C3%A9/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/games/la-baie-des-marchands/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/fr/games/le-d%C3%A9fi-de-la-reine/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/posts/20260306-february-plays/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
@@ -120,19 +330,6 @@
   </url><url>
     <loc>http://localhost:1313/fr/categories/parties-du-mois/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/posts/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/posts/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/tags/push-your-luck/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
@@ -173,48 +370,6 @@
                 href="http://localhost:1313/fr/games/sylvion/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/categories/critiques/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/designers/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/designers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/designers/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/euro-game/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/euro-game/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/euro-game/"
-                />
-  </url><url>
     <loc>http://localhost:1313/fr/posts/20260227-harmonies/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -227,9 +382,6 @@
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/posts/20260227-harmonies/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/jeu-familial/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/designers/johan-benvenuto/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
@@ -272,19 +424,6 @@
   </url><url>
     <loc>http://localhost:1313/fr/tags/pose-de-tuiles/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/publishers/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publishers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/publishers/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/games/8-qui-croque/</loc>
     <lastmod>2026-02-08T00:00:00+00:00</lastmod>
@@ -763,19 +902,6 @@
                 href="http://localhost:1313/fr/designers/dan-hallagan/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/hand-management/</loc>
-    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/hand-management/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/hand-management/"
-                />
-  </url><url>
     <loc>http://localhost:1313/fr/publishers/kayenta-games/</loc>
     <lastmod>2025-12-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -919,7 +1045,7 @@
                 href="http://localhost:1313/fr/publishers/inpatience/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/petit-jeux/</loc>
+    <loc>http://localhost:1313/fr/tags/petits-jeux/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/posts/20251218-ravel/</loc>
@@ -1028,9 +1154,6 @@
     <loc>http://localhost:1313/fr/tags/jeu-expert/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/tags/placement-douvriers/</loc>
-    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/fr/tags/tableau-building/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1109,9 +1232,6 @@
                 href="http://localhost:1313/fr/publishers/fantasia-games/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/publishers/matagot/</loc>
-    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/fr/designers/stan-kordonskiy/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1137,6 +1257,9 @@
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/categories/conventions/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/games/dans-les-pas-de-darwin/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/posts/20251203-vianacon/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
@@ -1190,19 +1313,6 @@
                 href="http://localhost:1313/fr/games/heat-pedal-to-the-metal/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/games/in-the-footsteps-of-darwin/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/games/in-the-footsteps-of-darwin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/games/in-the-footsteps-of-darwin/"
-                />
-  </url><url>
     <loc>http://localhost:1313/fr/games/last-minute/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1241,9 +1351,6 @@
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/tags/vianacon/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/fr/games/dans-les-pas-de-darwin/</loc>
-    <lastmod>2025-12-02T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/posts/20251202-november-plays/</loc>
     <lastmod>2025-12-02T10:00:00+00:00</lastmod>

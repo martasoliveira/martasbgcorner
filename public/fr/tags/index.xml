@@ -5,7 +5,31 @@
         <description>Recent content in Tags on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Hand Management</title>
+            <link>http://localhost:1313/fr/tags/hand-management/</link>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/hand-management/</guid>
+            <description></description>
+        </item><item>
+            <title>Jeu en Solo</title>
+            <link>http://localhost:1313/fr/tags/jeu-en-solo/</link>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/jeu-en-solo/</guid>
+            <description></description>
+        </item><item>
+            <title>Jeu Familial</title>
+            <link>http://localhost:1313/fr/tags/jeu-familial/</link>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/jeu-familial/</guid>
+            <description></description>
+        </item><item>
+            <title>Open Drafting</title>
+            <link>http://localhost:1313/fr/tags/open-drafting/</link>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/open-drafting/</guid>
+            <description></description>
+        </item><item>
             <title>Asymétrique</title>
             <link>http://localhost:1313/fr/tags/asym%C3%A9trique/</link>
             <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
@@ -16,12 +40,6 @@
             <link>http://localhost:1313/fr/tags/euro-game/</link>
             <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/euro-game/</guid>
-            <description></description>
-        </item><item>
-            <title>Jeu en Solo</title>
-            <link>http://localhost:1313/fr/tags/jeu-en-solo/</link>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/jeu-en-solo/</guid>
             <description></description>
         </item><item>
             <title>Placement D&#39;ouvriers</title>
@@ -42,12 +60,6 @@
             <guid>http://localhost:1313/fr/tags/push-your-luck/</guid>
             <description></description>
         </item><item>
-            <title>Jeu Familial</title>
-            <link>http://localhost:1313/fr/tags/jeu-familial/</link>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/jeu-familial/</guid>
-            <description></description>
-        </item><item>
             <title>Multiplayer</title>
             <link>http://localhost:1313/fr/tags/multiplayer/</link>
             <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
@@ -66,12 +78,6 @@
             <guid>http://localhost:1313/fr/tags/flip--write/</guid>
             <description></description>
         </item><item>
-            <title>Hand Management</title>
-            <link>http://localhost:1313/fr/tags/hand-management/</link>
-            <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/hand-management/</guid>
-            <description></description>
-        </item><item>
             <title>BYOS</title>
             <link>http://localhost:1313/fr/tags/byos/</link>
             <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
@@ -84,10 +90,10 @@
             <guid>http://localhost:1313/fr/tags/roll--write/</guid>
             <description></description>
         </item><item>
-            <title>Petit Jeux</title>
-            <link>http://localhost:1313/fr/tags/petit-jeux/</link>
+            <title>Petits Jeux</title>
+            <link>http://localhost:1313/fr/tags/petits-jeux/</link>
             <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/petit-jeux/</guid>
+            <guid>http://localhost:1313/fr/tags/petits-jeux/</guid>
             <description></description>
         </item><item>
             <title>Coopératif</title>
@@ -154,24 +160,6 @@
             <link>http://localhost:1313/fr/tags/introduction/</link>
             <pubDate>Tue, 02 Dec 2025 09:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/introduction/</guid>
-            <description></description>
-        </item><item>
-            <title>Asymmetric</title>
-            <link>http://localhost:1313/fr/tags/asymmetric/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/asymmetric/</guid>
-            <description></description>
-        </item><item>
-            <title>Solo Gaming</title>
-            <link>http://localhost:1313/fr/tags/solo-gaming/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/solo-gaming/</guid>
-            <description></description>
-        </item><item>
-            <title>Worker Placement</title>
-            <link>http://localhost:1313/fr/tags/worker-placement/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/worker-placement/</guid>
             <description></description>
         </item></channel>
 </rss>

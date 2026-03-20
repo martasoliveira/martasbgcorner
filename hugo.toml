@@ -25,7 +25,7 @@ theme = 'Stack'
     
     [languages.en.params]
         mainSections = ["posts"]
-        description = "My personal blog"
+        description = "Board game reviews, monthly plays, and more"
 
         [[languages.en.menu.main]]
             name = "About"
@@ -75,7 +75,7 @@ theme = 'Stack'
     
     [languages.fr.params]
         mainSections = ["posts"]
-        description = "Mon blog personnel"
+        description = "Critiques de jeux de société, parties du mois, et bien plus"
         
         [[languages.fr.menu.main]]
             name = "À Propos"

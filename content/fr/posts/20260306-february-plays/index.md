@@ -5,7 +5,7 @@ title = "Parties de Février 2026"
 author = "martas.bg.corner"
 image = 'banner.png'
 categories = ['Jeux de Société', 'Parties du Mois']
-tags = ['Jeu en Solo', 'Dice Rolling', 'Push your luck']
+tags = ['Jeu en Solo', 'Dice Rolling', 'Push Your Luck']
 games = ['Le Défi de la Reine', 'Imperial Miners', 'Sparks', 'Harmonies', 'La Baie des Marchands', 'Conservas', 'Sylvion']
 +++
 

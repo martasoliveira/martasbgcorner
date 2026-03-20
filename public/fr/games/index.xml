@@ -5,7 +5,19 @@
         <description>Recent content in Games on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/games/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/games/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Atlantes</title>
+            <link>http://localhost:1313/fr/games/atlantes/</link>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/atlantes/</guid>
+            <description></description>
+        </item><item>
+            <title>La Baie Des Marchands</title>
+            <link>http://localhost:1313/fr/games/la-baie-des-marchands/</link>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/la-baie-des-marchands/</guid>
+            <description></description>
+        </item><item>
             <title>Conservas</title>
             <link>http://localhost:1313/fr/games/conservas/</link>
             <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
@@ -22,12 +34,6 @@
             <link>http://localhost:1313/fr/games/imperial-miners/</link>
             <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/games/imperial-miners/</guid>
-            <description></description>
-        </item><item>
-            <title>La Baie Des Marchands</title>
-            <link>http://localhost:1313/fr/games/la-baie-des-marchands/</link>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/games/la-baie-des-marchands/</guid>
             <description></description>
         </item><item>
             <title>Le Défi De La Reine</title>
@@ -222,6 +228,12 @@
             <guid>http://localhost:1313/fr/games/troyes-dice/</guid>
             <description></description>
         </item><item>
+            <title>Dans Les Pas De Darwin</title>
+            <link>http://localhost:1313/fr/games/dans-les-pas-de-darwin/</link>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/dans-les-pas-de-darwin/</guid>
+            <description></description>
+        </item><item>
             <title>Finspan</title>
             <link>http://localhost:1313/fr/games/finspan/</link>
             <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
@@ -240,12 +252,6 @@
             <guid>http://localhost:1313/fr/games/heat-pedal-to-the-metal/</guid>
             <description></description>
         </item><item>
-            <title>In the Footsteps of Darwin</title>
-            <link>http://localhost:1313/fr/games/in-the-footsteps-of-darwin/</link>
-            <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/games/in-the-footsteps-of-darwin/</guid>
-            <description></description>
-        </item><item>
             <title>Last Minute</title>
             <link>http://localhost:1313/fr/games/last-minute/</link>
             <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
@@ -256,12 +262,6 @@
             <link>http://localhost:1313/fr/games/trash-travelers/</link>
             <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/games/trash-travelers/</guid>
-            <description></description>
-        </item><item>
-            <title>Dans Les Pas De Darwin</title>
-            <link>http://localhost:1313/fr/games/dans-les-pas-de-darwin/</link>
-            <pubDate>Tue, 02 Dec 2025 10:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/games/dans-les-pas-de-darwin/</guid>
             <description></description>
         </item><item>
             <title>Wingspan</title>

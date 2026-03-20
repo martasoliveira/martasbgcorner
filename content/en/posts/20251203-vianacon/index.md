@@ -3,6 +3,7 @@ date = '2025-12-03'
 draft = false
 title = "Discovering VianaCon 2025"
 image = 'peddy-paper-viana.jpg'
+author = "martas.bg.corner"
 categories = ['Conventions']
 tags = ['VianaCon']
 games = ['Heat Pedal to the Metal', 'Finspan', 'In the Footsteps of Darwin', 'Fuse', 'Last Minute','Trash Travelers']

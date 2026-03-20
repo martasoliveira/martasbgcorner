@@ -6,7 +6,7 @@ author = "martas.bg.corner"
 image = 'november-banner.png'
 categories = ['Board Games', 'Monthly Play']
 games = ['Perseverance: Castaway Chronicles', 'Heat Pedal to the Metal', 'In the Footsteps of Darwin', 'Finspan', 'Wingspan']
-tags = ['Solo Gaming', 'VianaCon', 'Dice Placement', 'Push your luck']
+tags = ['Solo Gaming', 'VianaCon', 'Dice Placement', 'Push Your Luck']
 +++
 
 November was a great gaming month! I managed to complete 16 plays across 13 different games.
