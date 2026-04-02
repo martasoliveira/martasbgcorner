@@ -5,29 +5,53 @@
         <description>Recent content in Tags on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Family Game</title>
-            <link>http://localhost:1313/en/tags/family-game/</link>
-            <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/family-game/</guid>
+        <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Deck Building</title>
+            <link>http://localhost:1313/en/tags/deck-building/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/deck-building/</guid>
             <description></description>
         </item><item>
             <title>Hand Management</title>
             <link>http://localhost:1313/en/tags/hand-management/</link>
-            <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/tags/hand-management/</guid>
+            <description></description>
+        </item><item>
+            <title>Multiplayer</title>
+            <link>http://localhost:1313/en/tags/multiplayer/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/multiplayer/</guid>
+            <description></description>
+        </item><item>
+            <title>Push Your Luck</title>
+            <link>http://localhost:1313/en/tags/push-your-luck/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/push-your-luck/</guid>
+            <description></description>
+        </item><item>
+            <title>Solo Gaming</title>
+            <link>http://localhost:1313/en/tags/solo-gaming/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/solo-gaming/</guid>
+            <description></description>
+        </item><item>
+            <title>Family Game</title>
+            <link>http://localhost:1313/en/tags/family-game/</link>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/family-game/</guid>
+            <description></description>
+        </item><item>
+            <title>Tableau Building</title>
+            <link>http://localhost:1313/en/tags/tableau-building/</link>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/tableau-building/</guid>
             <description></description>
         </item><item>
             <title>Open Drafting</title>
             <link>http://localhost:1313/en/tags/open-drafting/</link>
             <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/tags/open-drafting/</guid>
-            <description></description>
-        </item><item>
-            <title>Solo Gaming</title>
-            <link>http://localhost:1313/en/tags/solo-gaming/</link>
-            <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/solo-gaming/</guid>
             <description></description>
         </item><item>
             <title>Asymmetric</title>
@@ -52,18 +76,6 @@
             <link>http://localhost:1313/en/tags/dice-rolling/</link>
             <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/tags/dice-rolling/</guid>
-            <description></description>
-        </item><item>
-            <title>Push Your Luck</title>
-            <link>http://localhost:1313/en/tags/push-your-luck/</link>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/push-your-luck/</guid>
-            <description></description>
-        </item><item>
-            <title>Multiplayer</title>
-            <link>http://localhost:1313/en/tags/multiplayer/</link>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/multiplayer/</guid>
             <description></description>
         </item><item>
             <title>Tile Placement</title>
@@ -130,18 +142,6 @@
             <link>http://localhost:1313/en/tags/expert-game/</link>
             <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/tags/expert-game/</guid>
-            <description></description>
-        </item><item>
-            <title>Tableau Building</title>
-            <link>http://localhost:1313/en/tags/tableau-building/</link>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/tableau-building/</guid>
-            <description></description>
-        </item><item>
-            <title>Deck Building</title>
-            <link>http://localhost:1313/en/tags/deck-building/</link>
-            <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/deck-building/</guid>
             <description></description>
         </item><item>
             <title>VianaCon</title>

@@ -5,11 +5,65 @@
         <description>Recent content in Games on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Alhambra</title>
+            <link>http://localhost:1313/en/games/alhambra/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/alhambra/</guid>
+            <description></description>
+        </item><item>
             <title>Aquatica</title>
             <link>http://localhost:1313/en/games/aquatica/</link>
-            <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/aquatica/</guid>
+            <description></description>
+        </item><item>
+            <title>Castellion</title>
+            <link>http://localhost:1313/en/games/castellion/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/castellion/</guid>
+            <description></description>
+        </item><item>
+            <title>Coffee Roaster</title>
+            <link>http://localhost:1313/en/games/coffee-roaster/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/coffee-roaster/</guid>
+            <description></description>
+        </item><item>
+            <title>Dawn of the Zeds</title>
+            <link>http://localhost:1313/en/games/dawn-of-the-zeds/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/dawn-of-the-zeds/</guid>
+            <description></description>
+        </item><item>
+            <title>Dice Throne Adventures</title>
+            <link>http://localhost:1313/en/games/dice-throne-adventures/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/dice-throne-adventures/</guid>
+            <description></description>
+        </item><item>
+            <title>Imperial Miners</title>
+            <link>http://localhost:1313/en/games/imperial-miners/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/imperial-miners/</guid>
+            <description></description>
+        </item><item>
+            <title>Legacy of Yu</title>
+            <link>http://localhost:1313/en/games/legacy-of-yu/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/legacy-of-yu/</guid>
+            <description></description>
+        </item><item>
+            <title>Sylvion</title>
+            <link>http://localhost:1313/en/games/sylvion/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/sylvion/</guid>
+            <description></description>
+        </item><item>
+            <title>Viticulture</title>
+            <link>http://localhost:1313/en/games/viticulture/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/viticulture/</guid>
             <description></description>
         </item><item>
             <title>Merchants Cove</title>
@@ -30,12 +84,6 @@
             <guid>http://localhost:1313/en/games/harmonies/</guid>
             <description></description>
         </item><item>
-            <title>Imperial Miners</title>
-            <link>http://localhost:1313/en/games/imperial-miners/</link>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/imperial-miners/</guid>
-            <description></description>
-        </item><item>
             <title>Proving Grounds</title>
             <link>http://localhost:1313/en/games/proving-grounds/</link>
             <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
@@ -46,12 +94,6 @@
             <link>http://localhost:1313/en/games/sparks/</link>
             <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/sparks/</guid>
-            <description></description>
-        </item><item>
-            <title>Sylvion</title>
-            <link>http://localhost:1313/en/games/sylvion/</link>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/sylvion/</guid>
             <description></description>
         </item><item>
             <title>Numbsters</title>
@@ -120,12 +162,6 @@
             <guid>http://localhost:1313/en/games/great-western-trail/</guid>
             <description></description>
         </item><item>
-            <title>Legacy of Yu</title>
-            <link>http://localhost:1313/en/games/legacy-of-yu/</link>
-            <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/legacy-of-yu/</guid>
-            <description></description>
-        </item><item>
             <title>Meadow</title>
             <link>http://localhost:1313/en/games/meadow/</link>
             <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
@@ -184,12 +220,6 @@
             <link>http://localhost:1313/en/games/verdant/</link>
             <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/verdant/</guid>
-            <description></description>
-        </item><item>
-            <title>Viticulture</title>
-            <link>http://localhost:1313/en/games/viticulture/</link>
-            <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/viticulture/</guid>
             <description></description>
         </item><item>
             <title>Wondrous Creatures</title>
