@@ -179,4 +179,4 @@ April is shaping up nicely already. I want to continue the Dice Throne Adventure
 
 ## What About You?
 
-Have you played any of these games this month? I'd love to know, especially if you've made it through a full Dice Throne Adventures campaign or found the secret to surviving Dawn of the Zeds! Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/116337292967992491)**
+Have you played any of these games this month? I'd love to know, especially if you've made it through a full Dice Throne Adventures campaign or found the secret to surviving Dawn of the Zeds! Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/116337292967992491)**.
