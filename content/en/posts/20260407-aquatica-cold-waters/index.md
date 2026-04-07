@@ -90,7 +90,7 @@ There is also a second expansion, Coral Reef, which I haven't had the chance to 
 
 ## Your Turn
 
-Have you tried Aquatica: Cold Waters? Which module is your favourite, Tribes or Goals? And if you've played the solo Tribes mode, how far have you gotten with the difficulty levels? Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/116337292967992491)**.
+Have you tried Aquatica: Cold Waters? Which module is your favourite, Tribes or Goals? And if you've played the solo Tribes mode, how far have you gotten with the difficulty levels? Come share your thoughts on **[Mastodon](https://mastodon.social/@martasbgcorner/116365002738263564)**.
 
 ---
 

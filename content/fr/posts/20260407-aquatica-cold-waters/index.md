@@ -90,7 +90,7 @@ Il existe également une deuxième extension, Coral Reef, que je n'ai pas encore
 
 ## À Vous de Jouer
 
-Avez-vous essayé Atlantes Eaux Glacées ? Quel est votre module préféré, les Tribus ou les Objectifs ? Et si vous avez joué le mode solo Tribus, jusqu'à quel niveau de difficulté êtes-vous arrivé ? Venez partager vos impressions sur **[Mastodon](https://mastodon.social/@martasbgcorner/116337292967992491)**.
+Avez-vous essayé Atlantes Eaux Glacées ? Quel est votre module préféré, les Tribus ou les Objectifs ? Et si vous avez joué le mode solo Tribus, jusqu'à quel niveau de difficulté êtes-vous arrivé ? Venez partager vos impressions sur **[Mastodon](https://mastodon.social/@martasbgcorner/116365002738263564)**.
 
 ---
 
