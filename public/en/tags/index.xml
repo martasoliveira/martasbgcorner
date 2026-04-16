@@ -5,29 +5,41 @@
         <description>Recent content in Tags on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Family Game</title>
-            <link>http://localhost:1313/en/tags/family-game/</link>
-            <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/family-game/</guid>
+        <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Euro Game</title>
+            <link>http://localhost:1313/en/tags/euro-game/</link>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/euro-game/</guid>
             <description></description>
         </item><item>
             <title>Hand Management</title>
             <link>http://localhost:1313/en/tags/hand-management/</link>
-            <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/tags/hand-management/</guid>
-            <description></description>
-        </item><item>
-            <title>Open Drafting</title>
-            <link>http://localhost:1313/en/tags/open-drafting/</link>
-            <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/open-drafting/</guid>
             <description></description>
         </item><item>
             <title>Solo Gaming</title>
             <link>http://localhost:1313/en/tags/solo-gaming/</link>
-            <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/tags/solo-gaming/</guid>
+            <description></description>
+        </item><item>
+            <title>Worker Placement</title>
+            <link>http://localhost:1313/en/tags/worker-placement/</link>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/worker-placement/</guid>
+            <description></description>
+        </item><item>
+            <title>Family Game</title>
+            <link>http://localhost:1313/en/tags/family-game/</link>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/family-game/</guid>
+            <description></description>
+        </item><item>
+            <title>Open Drafting</title>
+            <link>http://localhost:1313/en/tags/open-drafting/</link>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/open-drafting/</guid>
             <description></description>
         </item><item>
             <title>Deck Building</title>
@@ -58,18 +70,6 @@
             <link>http://localhost:1313/en/tags/asymmetric/</link>
             <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/tags/asymmetric/</guid>
-            <description></description>
-        </item><item>
-            <title>Euro Game</title>
-            <link>http://localhost:1313/en/tags/euro-game/</link>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/euro-game/</guid>
-            <description></description>
-        </item><item>
-            <title>Worker Placement</title>
-            <link>http://localhost:1313/en/tags/worker-placement/</link>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/worker-placement/</guid>
             <description></description>
         </item><item>
             <title>Dice Rolling</title>

@@ -2,27 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/games/aquatica/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/games/aquatica/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/games/aquatica/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/games/aquatica-cold-waters/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/designers/alan-stone/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/categories/board-games/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -34,34 +21,8 @@
                 href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/20260407-aquatica-cold-waters/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/posts/20260407-aquatica-cold-waters/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/posts/20260407-aquatica-cold-waters/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/publishers/cosmodrome-games/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/publishers/cosmodrome-games/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publishers/cosmodrome-games/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/designers/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -73,24 +34,21 @@
                 href="http://localhost:1313/en/designers/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/expansions/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/tags/euro-game/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/categories/expansions/"
+                href="http://localhost:1313/fr/tags/euro-game/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/categories/expansions/"
+                href="http://localhost:1313/en/tags/euro-game/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/family-game/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/en/games/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -103,7 +61,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/hand-management/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -115,21 +73,11 @@
                 href="http://localhost:1313/en/tags/hand-management/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/designers/ivan-tuzovsky/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/designers/ivan-tuzovsky/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/designers/ivan-tuzovsky/"
-                />
+    <loc>http://localhost:1313/en/designers/jamey-stegmaier/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -141,21 +89,8 @@
                 href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/open-drafting/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/open-drafting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/open-drafting/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -168,7 +103,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/publishers/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -181,13 +116,16 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/reviews/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/tags/solo-gaming/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/publishers/stonemaier-games/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -197,6 +135,109 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/games/viticulture/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/games/viticulture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/games/viticulture/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/posts/20260415-viticulture/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/worker-placement/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/games/aquatica/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/games/aquatica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/games/aquatica/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/games/aquatica-cold-waters/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/20260407-aquatica-cold-waters/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/posts/20260407-aquatica-cold-waters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/20260407-aquatica-cold-waters/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/publishers/cosmodrome-games/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/publishers/cosmodrome-games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publishers/cosmodrome-games/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/categories/expansions/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/categories/expansions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/categories/expansions/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/family-game/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/designers/ivan-tuzovsky/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/designers/ivan-tuzovsky/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/designers/ivan-tuzovsky/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/open-drafting/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/open-drafting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/open-drafting/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/games/alhambra/</loc>
@@ -358,19 +399,6 @@
                 href="http://localhost:1313/en/games/sylvion/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/games/viticulture/</loc>
-    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/games/viticulture/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/games/viticulture/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/posts/20260326-imperial-miners/</loc>
     <lastmod>2026-03-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -465,19 +493,6 @@
                 href="http://localhost:1313/en/designers/drake-villareal/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/euro-game/</loc>
-    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/euro-game/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/euro-game/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/publishers/final-frontier-games/</loc>
     <lastmod>2026-03-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -519,9 +534,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/posts/20260312-merchants-cove/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/worker-placement/</loc>
-    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/games/conservas/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>

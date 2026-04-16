@@ -14,7 +14,7 @@ This is my little corner of the internet, dedicated to all things board games. H
 
 I'm Marta, a Portuguese girl working in business intelligence, with a long-standing love for board games. For as long as I can remember, games have been part of my life. Growing up, playing cards, La Bonne Paye, and Monopoly were regular fixtures at home, and my family kept me well supplied with games throughout my childhood.
 
-But my true passion, and my collection, really took off in 2018. My first purchase was Estoril, but the game that made me completely fall for the hobby was **Pandemic Legacy: Season 1**. Even today, after around 1,000 plays of various games, it remains my best gaming experience. It was tense, intense, and absolutely unforgettable.
+But my true passion, and my collection, really took off in 2017. My first purchase was Estoril, but the game that made me completely fall for the hobby was **Pandemic Legacy: Season 1**. Even today, after around 1,000 plays of various games, it remains my best gaming experience. It was tense, intense, and absolutely unforgettable.
 
 Since then I've explored countless games across all kinds of mechanics. My favourites are Euro games and deckbuilders, though I'm always curious to try something new.
 

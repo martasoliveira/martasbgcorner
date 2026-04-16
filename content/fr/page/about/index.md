@@ -14,7 +14,7 @@ C'est mon petit coin d'internet, dédié à tout ce qui touche aux jeux de soci�
 
 Je m'appelle Marta, je suis Portugaise et je travaille dans la business intelligence, avec une passion de longue date pour les jeux de société. Aussi loin que je me souvienne, les jeux ont toujours fait partie de ma vie. En grandissant, les cartes, La Bonne Paye et le Monopoly étaient des incontournables à la maison, et ma famille m'a bien approvisionnée en jeux tout au long de mon enfance.
 
-Mais ma vraie passion, et ma collection, a vraiment démarré en 2018. Mon premier achat a été Estoril, mais le jeu qui m'a fait totalement tomber amoureuse du hobby, c'est **Pandemic Legacy : Saison 1**. Même aujourd'hui, après environ 1.000 parties de jeux en tout genre, il reste ma meilleure expérience ludique. C'était tendu, intense, et absolument inoubliable.
+Mais ma vraie passion, et ma collection, a vraiment démarré en 2017. Mon premier achat a été Estoril, mais le jeu qui m'a fait totalement tomber amoureuse du hobby, c'est **Pandemic Legacy : Saison 1**. Même aujourd'hui, après environ 1.000 parties de jeux en tout genre, il reste ma meilleure expérience ludique. C'était tendu, intense, et absolument inoubliable.
 
 Depuis, j'ai exploré d'innombrables jeux aux mécaniques très variées. Mes préférés sont les Euros et les deckbuilders, même je suis toujours curieuse d'essayer quelque chose de nouveau.
 
