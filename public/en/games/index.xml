@@ -5,10 +5,64 @@
         <description>Recent content in Games on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Anachrony</title>
+            <link>http://localhost:1313/en/games/anachrony/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/anachrony/</guid>
+            <description></description>
+        </item><item>
+            <title>Century: Spice Road</title>
+            <link>http://localhost:1313/en/games/century-spice-road/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/century-spice-road/</guid>
+            <description></description>
+        </item><item>
+            <title>City of Spies: Estoril 1942</title>
+            <link>http://localhost:1313/en/games/city-of-spies-estoril-1942/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/city-of-spies-estoril-1942/</guid>
+            <description></description>
+        </item><item>
+            <title>Dark Tales</title>
+            <link>http://localhost:1313/en/games/dark-tales/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/dark-tales/</guid>
+            <description></description>
+        </item><item>
+            <title>It&#39;s a Wonderful World</title>
+            <link>http://localhost:1313/en/games/its-a-wonderful-world/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/its-a-wonderful-world/</guid>
+            <description></description>
+        </item><item>
+            <title>Jaipur</title>
+            <link>http://localhost:1313/en/games/jaipur/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/jaipur/</guid>
+            <description></description>
+        </item><item>
+            <title>Museum</title>
+            <link>http://localhost:1313/en/games/museum/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/museum/</guid>
+            <description></description>
+        </item><item>
+            <title>Nautilion</title>
+            <link>http://localhost:1313/en/games/nautilion/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/nautilion/</guid>
+            <description></description>
+        </item><item>
+            <title>Pandemic Legacy: Season 1</title>
+            <link>http://localhost:1313/en/games/pandemic-legacy-season-1/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/pandemic-legacy-season-1/</guid>
+            <description></description>
+        </item><item>
             <title>Viticulture</title>
             <link>http://localhost:1313/en/games/viticulture/</link>
-            <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/viticulture/</guid>
             <description></description>
         </item><item>
@@ -126,12 +180,6 @@
             <guid>http://localhost:1313/en/games/welcome-to-the-moon/</guid>
             <description></description>
         </item><item>
-            <title>Anachrony</title>
-            <link>http://localhost:1313/en/games/anachrony/</link>
-            <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/anachrony/</guid>
-            <description></description>
-        </item><item>
             <title>Cerebria</title>
             <link>http://localhost:1313/en/games/cerebria/</link>
             <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
@@ -172,12 +220,6 @@
             <link>http://localhost:1313/en/games/meadow/</link>
             <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/meadow/</guid>
-            <description></description>
-        </item><item>
-            <title>Nautilion</title>
-            <link>http://localhost:1313/en/games/nautilion/</link>
-            <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/nautilion/</guid>
             <description></description>
         </item><item>
             <title>Obsession</title>

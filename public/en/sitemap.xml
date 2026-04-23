@@ -2,14 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/designers/alan-stone/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/games/anachrony/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/games/anachrony/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/games/anachrony/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/categories/board-games/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -21,21 +31,60 @@
                 href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/designers/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/games/century-spice-road/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/designers/"
+                href="http://localhost:1313/fr/games/century-spice-road/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/designers/"
+                href="http://localhost:1313/en/games/century-spice-road/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/games/city-of-spies-estoril-1942/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/games/city-of-spies-estoril-1942/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/games/city-of-spies-estoril-1942/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/games/dark-tales/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/games/dark-tales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/games/dark-tales/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/deck-building/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/deck-building/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/deck-building/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/euro-game/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -48,7 +97,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/games/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -61,7 +110,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/hand-management/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -73,11 +122,34 @@
                 href="http://localhost:1313/en/tags/hand-management/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/designers/jamey-stegmaier/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/games/its-a-wonderful-world/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/games/its-a-wonderful-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/games/its-a-wonderful-world/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/games/jaipur/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/games/jaipur/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/games/jaipur/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -89,8 +161,50 @@
                 href="http://localhost:1313/en/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/games/museum/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/games/museum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/games/museum/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/posts/20260423-my-journey/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/posts/20260423-my-journey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/20260423-my-journey/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/games/nautilion/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/games/nautilion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/games/nautilion/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/games/pandemic-legacy-season-1/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -102,8 +216,66 @@
                 href="http://localhost:1313/en/posts/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/categories/presentation/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/solo-gaming/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/designers/alan-stone/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/designers/alan-stone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/designers/alan-stone/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/designers/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/designers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/designers/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/designers/jamey-stegmaier/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/designers/jamey-stegmaier/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/designers/jamey-stegmaier/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/publishers/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -116,29 +288,23 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/reviews/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/solo-gaming/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/publishers/stonemaier-games/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/"
+                href="http://localhost:1313/fr/publishers/stonemaier-games/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
+                href="http://localhost:1313/en/publishers/stonemaier-games/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/games/viticulture/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -150,11 +316,21 @@
                 href="http://localhost:1313/en/games/viticulture/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/20260415-viticulture/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/posts/20260416-viticulture/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/posts/20260416-viticulture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/20260416-viticulture/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/tags/worker-placement/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/games/aquatica/</loc>
     <lastmod>2026-04-07T00:00:00+00:00</lastmod>
@@ -290,19 +466,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/games/dawn-of-the-zeds/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/deck-building/</loc>
-    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/deck-building/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/deck-building/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/games/dice-throne-adventures/</loc>
@@ -755,19 +918,6 @@
                 href="http://localhost:1313/en/posts/20260124-welcome-to-the-moon/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/games/anachrony/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/games/anachrony/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/games/anachrony/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/games/cerebria/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -870,19 +1020,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/posts/20260113-2025-plays/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/games/nautilion/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/games/nautilion/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/games/nautilion/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/games/obsession/</loc>
