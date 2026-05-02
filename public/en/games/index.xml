@@ -5,7 +5,85 @@
         <description>Recent content in Games on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Ancient Knowledge</title>
+            <link>http://localhost:1313/en/games/ancient-knowledge/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/ancient-knowledge/</guid>
+            <description></description>
+        </item><item>
+            <title>Dice Throne Adventure</title>
+            <link>http://localhost:1313/en/games/dice-throne-adventure/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/dice-throne-adventure/</guid>
+            <description></description>
+        </item><item>
+            <title>Era of Kingdoms</title>
+            <link>http://localhost:1313/en/games/era-of-kingdoms/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/era-of-kingdoms/</guid>
+            <description></description>
+        </item><item>
+            <title>Escape: The Curse of the Temple</title>
+            <link>http://localhost:1313/en/games/escape-the-curse-of-the-temple/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/escape-the-curse-of-the-temple/</guid>
+            <description></description>
+        </item><item>
+            <title>Fromage</title>
+            <link>http://localhost:1313/en/games/fromage/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/fromage/</guid>
+            <description></description>
+        </item><item>
+            <title>It&#39;s a Wonderful World</title>
+            <link>http://localhost:1313/en/games/its-a-wonderful-world/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/its-a-wonderful-world/</guid>
+            <description></description>
+        </item><item>
+            <title>Last Will</title>
+            <link>http://localhost:1313/en/games/last-will/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/last-will/</guid>
+            <description></description>
+        </item><item>
+            <title>Onirim</title>
+            <link>http://localhost:1313/en/games/onirim/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/onirim/</guid>
+            <description></description>
+        </item><item>
+            <title>Outlive</title>
+            <link>http://localhost:1313/en/games/outlive/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/outlive/</guid>
+            <description></description>
+        </item><item>
+            <title>Paper Tales</title>
+            <link>http://localhost:1313/en/games/paper-tales/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/paper-tales/</guid>
+            <description></description>
+        </item><item>
+            <title>Red Rising</title>
+            <link>http://localhost:1313/en/games/red-rising/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/red-rising/</guid>
+            <description></description>
+        </item><item>
+            <title>Side Quest: 7th Sea</title>
+            <link>http://localhost:1313/en/games/side-quest-7th-sea/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/side-quest-7th-sea/</guid>
+            <description></description>
+        </item><item>
+            <title>Viticulture</title>
+            <link>http://localhost:1313/en/games/viticulture/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/viticulture/</guid>
+            <description></description>
+        </item><item>
             <title>Anachrony</title>
             <link>http://localhost:1313/en/games/anachrony/</link>
             <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
@@ -30,12 +108,6 @@
             <guid>http://localhost:1313/en/games/dark-tales/</guid>
             <description></description>
         </item><item>
-            <title>It&#39;s a Wonderful World</title>
-            <link>http://localhost:1313/en/games/its-a-wonderful-world/</link>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/its-a-wonderful-world/</guid>
-            <description></description>
-        </item><item>
             <title>Jaipur</title>
             <link>http://localhost:1313/en/games/jaipur/</link>
             <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
@@ -58,12 +130,6 @@
             <link>http://localhost:1313/en/games/pandemic-legacy-season-1/</link>
             <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/pandemic-legacy-season-1/</guid>
-            <description></description>
-        </item><item>
-            <title>Viticulture</title>
-            <link>http://localhost:1313/en/games/viticulture/</link>
-            <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/viticulture/</guid>
             <description></description>
         </item><item>
             <title>Aquatica</title>
@@ -228,12 +294,6 @@
             <guid>http://localhost:1313/en/games/obsession/</guid>
             <description></description>
         </item><item>
-            <title>Onirim</title>
-            <link>http://localhost:1313/en/games/onirim/</link>
-            <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/onirim/</guid>
-            <description></description>
-        </item><item>
             <title>Perseverance: Castaway Chronicles</title>
             <link>http://localhost:1313/en/games/perseverance-castaway-chronicles/</link>
             <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
@@ -346,6 +406,30 @@
             <link>http://localhost:1313/en/games/wingspan/</link>
             <pubDate>Tue, 02 Dec 2025 10:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/wingspan/</guid>
+            <description></description>
+        </item><item>
+            <title>Codenames</title>
+            <link>http://localhost:1313/en/games/codenames/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/codenames/</guid>
+            <description></description>
+        </item><item>
+            <title>Take 5</title>
+            <link>http://localhost:1313/en/games/take-5/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/take-5/</guid>
+            <description></description>
+        </item><item>
+            <title>The Game</title>
+            <link>http://localhost:1313/en/games/the-game/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/the-game/</guid>
+            <description></description>
+        </item><item>
+            <title>The Gang</title>
+            <link>http://localhost:1313/en/games/the-gang/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/the-gang/</guid>
             <description></description>
         </item></channel>
 </rss>
