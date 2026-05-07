@@ -5,7 +5,13 @@
         <description>Recent content in Games on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Red Rising</title>
+            <link>http://localhost:1313/en/games/red-rising/</link>
+            <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/red-rising/</guid>
+            <description></description>
+        </item><item>
             <title>Ancient Knowledge</title>
             <link>http://localhost:1313/en/games/ancient-knowledge/</link>
             <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
@@ -64,12 +70,6 @@
             <link>http://localhost:1313/en/games/paper-tales/</link>
             <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/paper-tales/</guid>
-            <description></description>
-        </item><item>
-            <title>Red Rising</title>
-            <link>http://localhost:1313/en/games/red-rising/</link>
-            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/red-rising/</guid>
             <description></description>
         </item><item>
             <title>Side Quest: 7th Sea</title>
@@ -406,30 +406,6 @@
             <link>http://localhost:1313/en/games/wingspan/</link>
             <pubDate>Tue, 02 Dec 2025 10:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/wingspan/</guid>
-            <description></description>
-        </item><item>
-            <title>Codenames</title>
-            <link>http://localhost:1313/en/games/codenames/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/codenames/</guid>
-            <description></description>
-        </item><item>
-            <title>Take 5</title>
-            <link>http://localhost:1313/en/games/take-5/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/take-5/</guid>
-            <description></description>
-        </item><item>
-            <title>The Game</title>
-            <link>http://localhost:1313/en/games/the-game/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/the-game/</guid>
-            <description></description>
-        </item><item>
-            <title>The Gang</title>
-            <link>http://localhost:1313/en/games/the-gang/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/the-gang/</guid>
             <description></description>
         </item></channel>
 </rss>

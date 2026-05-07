@@ -5,7 +5,85 @@
         <description>Recent content in Games on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/games/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/games/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Red Rising</title>
+            <link>http://localhost:1313/fr/games/red-rising/</link>
+            <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/red-rising/</guid>
+            <description></description>
+        </item><item>
+            <title>Ancient Knowledge</title>
+            <link>http://localhost:1313/fr/games/ancient-knowledge/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/ancient-knowledge/</guid>
+            <description></description>
+        </item><item>
+            <title>Dice Throne Adventure</title>
+            <link>http://localhost:1313/fr/games/dice-throne-adventure/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/dice-throne-adventure/</guid>
+            <description></description>
+        </item><item>
+            <title>Era of Kingdoms</title>
+            <link>http://localhost:1313/fr/games/era-of-kingdoms/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/era-of-kingdoms/</guid>
+            <description></description>
+        </item><item>
+            <title>Escape: The Curse of the Temple</title>
+            <link>http://localhost:1313/fr/games/escape-the-curse-of-the-temple/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/escape-the-curse-of-the-temple/</guid>
+            <description></description>
+        </item><item>
+            <title>Fromage</title>
+            <link>http://localhost:1313/fr/games/fromage/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/fromage/</guid>
+            <description></description>
+        </item><item>
+            <title>It&#39;s a Wonderful World</title>
+            <link>http://localhost:1313/fr/games/its-a-wonderful-world/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/its-a-wonderful-world/</guid>
+            <description></description>
+        </item><item>
+            <title>Last Will</title>
+            <link>http://localhost:1313/fr/games/last-will/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/last-will/</guid>
+            <description></description>
+        </item><item>
+            <title>Onirim</title>
+            <link>http://localhost:1313/fr/games/onirim/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/onirim/</guid>
+            <description></description>
+        </item><item>
+            <title>Outlive</title>
+            <link>http://localhost:1313/fr/games/outlive/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/outlive/</guid>
+            <description></description>
+        </item><item>
+            <title>Paper Tales</title>
+            <link>http://localhost:1313/fr/games/paper-tales/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/paper-tales/</guid>
+            <description></description>
+        </item><item>
+            <title>Side Quest: 7th Sea</title>
+            <link>http://localhost:1313/fr/games/side-quest-7th-sea/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/side-quest-7th-sea/</guid>
+            <description></description>
+        </item><item>
+            <title>Viticulture</title>
+            <link>http://localhost:1313/fr/games/viticulture/</link>
+            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/viticulture/</guid>
+            <description></description>
+        </item><item>
             <title>Anachrony</title>
             <link>http://localhost:1313/fr/games/anachrony/</link>
             <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
@@ -30,12 +108,6 @@
             <guid>http://localhost:1313/fr/games/dark-tales/</guid>
             <description></description>
         </item><item>
-            <title>It&#39;s a Wonderful World</title>
-            <link>http://localhost:1313/fr/games/its-a-wonderful-world/</link>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/games/its-a-wonderful-world/</guid>
-            <description></description>
-        </item><item>
             <title>Jaipur</title>
             <link>http://localhost:1313/fr/games/jaipur/</link>
             <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
@@ -58,12 +130,6 @@
             <link>http://localhost:1313/fr/games/pandemic-legacy-saison-1/</link>
             <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/games/pandemic-legacy-saison-1/</guid>
-            <description></description>
-        </item><item>
-            <title>Viticulture</title>
-            <link>http://localhost:1313/fr/games/viticulture/</link>
-            <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/games/viticulture/</guid>
             <description></description>
         </item><item>
             <title>Atlantes</title>
@@ -232,12 +298,6 @@
             <link>http://localhost:1313/fr/games/obsession/</link>
             <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/games/obsession/</guid>
-            <description></description>
-        </item><item>
-            <title>Onirim</title>
-            <link>http://localhost:1313/fr/games/onirim/</link>
-            <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/games/onirim/</guid>
             <description></description>
         </item><item>
             <title>Perseverance: Castaway Chronicles</title>
