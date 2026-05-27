@@ -5,23 +5,41 @@
         <description>Recent content in Tags on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Cooperative</title>
+            <link>http://localhost:1313/en/tags/cooperative/</link>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/cooperative/</guid>
+            <description></description>
+        </item><item>
             <title>Hand Management</title>
             <link>http://localhost:1313/en/tags/hand-management/</link>
-            <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/tags/hand-management/</guid>
+            <description></description>
+        </item><item>
+            <title>Push Your Luck</title>
+            <link>http://localhost:1313/en/tags/push-your-luck/</link>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/push-your-luck/</guid>
+            <description></description>
+        </item><item>
+            <title>Small Games</title>
+            <link>http://localhost:1313/en/tags/small-games/</link>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/small-games/</guid>
+            <description></description>
+        </item><item>
+            <title>Solo Gaming</title>
+            <link>http://localhost:1313/en/tags/solo-gaming/</link>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/tags/solo-gaming/</guid>
             <description></description>
         </item><item>
             <title>Open Drafting</title>
             <link>http://localhost:1313/en/tags/open-drafting/</link>
             <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/tags/open-drafting/</guid>
-            <description></description>
-        </item><item>
-            <title>Solo Gaming</title>
-            <link>http://localhost:1313/en/tags/solo-gaming/</link>
-            <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/solo-gaming/</guid>
             <description></description>
         </item><item>
             <title>Tableau Building</title>
@@ -60,12 +78,6 @@
             <guid>http://localhost:1313/en/tags/family-game/</guid>
             <description></description>
         </item><item>
-            <title>Push Your Luck</title>
-            <link>http://localhost:1313/en/tags/push-your-luck/</link>
-            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/push-your-luck/</guid>
-            <description></description>
-        </item><item>
             <title>Asymmetric</title>
             <link>http://localhost:1313/en/tags/asymmetric/</link>
             <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
@@ -102,12 +114,6 @@
             <guid>http://localhost:1313/en/tags/roll--write/</guid>
             <description></description>
         </item><item>
-            <title>Small Games</title>
-            <link>http://localhost:1313/en/tags/small-games/</link>
-            <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/small-games/</guid>
-            <description></description>
-        </item><item>
             <title>App Dependent</title>
             <link>http://localhost:1313/en/tags/app-dependent/</link>
             <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
@@ -118,12 +124,6 @@
             <link>http://localhost:1313/en/tags/audio-game/</link>
             <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/tags/audio-game/</guid>
-            <description></description>
-        </item><item>
-            <title>Cooperative</title>
-            <link>http://localhost:1313/en/tags/cooperative/</link>
-            <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/tags/cooperative/</guid>
             <description></description>
         </item><item>
             <title>Detective</title>

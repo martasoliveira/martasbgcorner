@@ -5,7 +5,13 @@
         <description>Recent content in Games on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Onirim</title>
+            <link>http://localhost:1313/en/games/onirim/</link>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/onirim/</guid>
+            <description></description>
+        </item><item>
             <title>Ancient Knowledge</title>
             <link>http://localhost:1313/en/games/ancient-knowledge/</link>
             <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
@@ -58,12 +64,6 @@
             <link>http://localhost:1313/en/games/last-will/</link>
             <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/last-will/</guid>
-            <description></description>
-        </item><item>
-            <title>Onirim</title>
-            <link>http://localhost:1313/en/games/onirim/</link>
-            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/onirim/</guid>
             <description></description>
         </item><item>
             <title>Outlive</title>
