@@ -5,7 +5,13 @@
         <description>Recent content in Publishers on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/publishers/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/publishers/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>InPatience</title>
+            <link>http://localhost:1313/fr/publishers/inpatience/</link>
+            <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/publishers/inpatience/</guid>
+            <description></description>
+        </item><item>
             <title>Iello</title>
             <link>http://localhost:1313/fr/publishers/iello/</link>
             <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
@@ -58,12 +64,6 @@
             <link>http://localhost:1313/fr/publishers/pearl-games/</link>
             <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/publishers/pearl-games/</guid>
-            <description></description>
-        </item><item>
-            <title>InPatience</title>
-            <link>http://localhost:1313/fr/publishers/inpatience/</link>
-            <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/publishers/inpatience/</guid>
             <description></description>
         </item><item>
             <title>KYF Edition</title>

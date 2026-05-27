@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/categories/board-games/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -19,10 +19,10 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/cooperative/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/designers/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -35,7 +35,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/games/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -48,7 +48,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/hand-management/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -61,7 +61,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -74,7 +74,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/games/onirim/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -87,10 +87,20 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/posts/20260527-onirim/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/posts/20260527-onirim/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/20260527-onirim/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -103,7 +113,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/publishers/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -116,7 +126,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/push-your-luck/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -129,19 +139,39 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/reviews/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/designers/shadi-torbey/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/designers/shadi-torbey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/designers/shadi-torbey/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/tags/small-games/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/small-games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/small-games/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/tags/solo-gaming/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -154,7 +184,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/publishers/z-man-games/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/games/ancient-knowledge/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
