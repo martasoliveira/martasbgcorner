@@ -5,17 +5,71 @@
         <description>Recent content in Games on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/games/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Onirim</title>
-            <link>http://localhost:1313/fr/games/onirim/</link>
-            <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/games/onirim/</guid>
+        <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/games/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Age of Civilization</title>
+            <link>http://localhost:1313/fr/games/age-of-civilization/</link>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/age-of-civilization/</guid>
             <description></description>
         </item><item>
             <title>Ancient Knowledge</title>
             <link>http://localhost:1313/fr/games/ancient-knowledge/</link>
-            <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/games/ancient-knowledge/</guid>
+            <description></description>
+        </item><item>
+            <title>Broom Service</title>
+            <link>http://localhost:1313/fr/games/broom-service/</link>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/broom-service/</guid>
+            <description></description>
+        </item><item>
+            <title>Codenames</title>
+            <link>http://localhost:1313/fr/games/codenames/</link>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/codenames/</guid>
+            <description></description>
+        </item><item>
+            <title>Fromage</title>
+            <link>http://localhost:1313/fr/games/fromage/</link>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/fromage/</guid>
+            <description></description>
+        </item><item>
+            <title>Fromaggio</title>
+            <link>http://localhost:1313/fr/games/fromaggio/</link>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/fromaggio/</guid>
+            <description></description>
+        </item><item>
+            <title>It&#39;s a Wonderful World</title>
+            <link>http://localhost:1313/fr/games/its-a-wonderful-world/</link>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/its-a-wonderful-world/</guid>
+            <description></description>
+        </item><item>
+            <title>Ohio Bob Et L&#39;Amulette Perdue</title>
+            <link>http://localhost:1313/fr/games/ohio-bob-et-lamulette-perdue/</link>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/ohio-bob-et-lamulette-perdue/</guid>
+            <description></description>
+        </item><item>
+            <title>Onirim</title>
+            <link>http://localhost:1313/fr/games/onirim/</link>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/onirim/</guid>
+            <description></description>
+        </item><item>
+            <title>Suburbia</title>
+            <link>http://localhost:1313/fr/games/suburbia/</link>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/suburbia/</guid>
+            <description></description>
+        </item><item>
+            <title>Time Bomb</title>
+            <link>http://localhost:1313/fr/games/time-bomb/</link>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/time-bomb/</guid>
             <description></description>
         </item><item>
             <title>Ancient Knowledge: Heritage</title>
@@ -46,18 +100,6 @@
             <link>http://localhost:1313/fr/games/escape-the-curse-of-the-temple/</link>
             <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/games/escape-the-curse-of-the-temple/</guid>
-            <description></description>
-        </item><item>
-            <title>Fromage</title>
-            <link>http://localhost:1313/fr/games/fromage/</link>
-            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/games/fromage/</guid>
-            <description></description>
-        </item><item>
-            <title>It&#39;s a Wonderful World</title>
-            <link>http://localhost:1313/fr/games/its-a-wonderful-world/</link>
-            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/games/its-a-wonderful-world/</guid>
             <description></description>
         </item><item>
             <title>Last Will</title>
