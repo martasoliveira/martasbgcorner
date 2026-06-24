@@ -5,10 +5,16 @@
         <description>Recent content in Games on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/games/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/games/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Legacy of Yu</title>
+            <link>http://localhost:1313/fr/games/legacy-of-yu/</link>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/legacy-of-yu/</guid>
+            <description></description>
+        </item><item>
             <title>It&#39;s a Wonderful World</title>
             <link>http://localhost:1313/fr/games/its-a-wonderful-world/</link>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/games/its-a-wonderful-world/</guid>
             <description></description>
         </item><item>
@@ -232,12 +238,6 @@
             <link>http://localhost:1313/fr/games/imperial-miners/</link>
             <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/games/imperial-miners/</guid>
-            <description></description>
-        </item><item>
-            <title>Legacy of Yu</title>
-            <link>http://localhost:1313/fr/games/legacy-of-yu/</link>
-            <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/games/legacy-of-yu/</guid>
             <description></description>
         </item><item>
             <title>Sylvion</title>

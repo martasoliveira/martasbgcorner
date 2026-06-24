@@ -5,28 +5,46 @@
         <description>Recent content in Tags on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Deck Building</title>
+            <link>http://localhost:1313/fr/tags/deck-building/</link>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/deck-building/</guid>
+            <description></description>
+        </item><item>
             <title>Hand Management</title>
             <link>http://localhost:1313/fr/tags/hand-management/</link>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/hand-management/</guid>
             <description></description>
         </item><item>
             <title>Jeu en Solo</title>
             <link>http://localhost:1313/fr/tags/jeu-en-solo/</link>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/jeu-en-solo/</guid>
+            <description></description>
+        </item><item>
+            <title>Placement D&#39;ouvriers</title>
+            <link>http://localhost:1313/fr/tags/placement-douvriers/</link>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/placement-douvriers/</guid>
             <description></description>
         </item><item>
             <title>Open Drafting</title>
             <link>http://localhost:1313/fr/tags/open-drafting/</link>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/open-drafting/</guid>
+            <description></description>
+        </item><item>
+            <title>Set Collection</title>
+            <link>http://localhost:1313/fr/tags/set-collection/</link>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/set-collection/</guid>
             <description></description>
         </item><item>
             <title>Tableau Building</title>
             <link>http://localhost:1313/fr/tags/tableau-building/</link>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/tableau-building/</guid>
             <description></description>
         </item><item>
@@ -64,18 +82,6 @@
             <link>http://localhost:1313/fr/tags/multijoueur/</link>
             <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/multijoueur/</guid>
-            <description></description>
-        </item><item>
-            <title>Deck Building</title>
-            <link>http://localhost:1313/fr/tags/deck-building/</link>
-            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/deck-building/</guid>
-            <description></description>
-        </item><item>
-            <title>Placement D&#39;ouvriers</title>
-            <link>http://localhost:1313/fr/tags/placement-douvriers/</link>
-            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/placement-douvriers/</guid>
             <description></description>
         </item><item>
             <title>Euro Game</title>

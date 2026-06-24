@@ -5,16 +5,22 @@
         <description>Recent content in Publishers on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/publishers/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/publishers/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Garphill Games</title>
+            <link>http://localhost:1313/fr/publishers/garphill-games/</link>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/publishers/garphill-games/</guid>
+            <description></description>
+        </item><item>
             <title>La Boîte De Jeu</title>
             <link>http://localhost:1313/fr/publishers/la-bo%C3%AEte-de-jeu/</link>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/publishers/la-bo%C3%AEte-de-jeu/</guid>
             <description></description>
         </item><item>
             <title>Origames</title>
             <link>http://localhost:1313/fr/publishers/origames/</link>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/publishers/origames/</guid>
             <description></description>
         </item><item>
