@@ -5,76 +5,82 @@
         <description>Recent content in Games on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/games/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Era of Kingdoms</title>
+            <link>http://localhost:1313/en/games/era-of-kingdoms/</link>
+            <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/en/games/era-of-kingdoms/</guid>
+            <description></description>
+        </item><item>
             <title>7 Wonders Architects</title>
             <link>http://localhost:1313/en/games/7-wonders-architects/</link>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/7-wonders-architects/</guid>
             <description></description>
         </item><item>
             <title>Demeter</title>
             <link>http://localhost:1313/en/games/demeter/</link>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/demeter/</guid>
             <description></description>
         </item><item>
             <title>Harmonies</title>
             <link>http://localhost:1313/en/games/harmonies/</link>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/harmonies/</guid>
             <description></description>
         </item><item>
             <title>Harry Potter: Hogwarts Battle</title>
             <link>http://localhost:1313/en/games/harry-potter-hogwarts-battle/</link>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/harry-potter-hogwarts-battle/</guid>
             <description></description>
         </item><item>
             <title>It&#39;s a Wonderful World</title>
             <link>http://localhost:1313/en/games/its-a-wonderful-world/</link>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/its-a-wonderful-world/</guid>
             <description></description>
         </item><item>
             <title>Minos: Dawn of the Bronze Age</title>
             <link>http://localhost:1313/en/games/minos-dawn-of-the-bronze-age/</link>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/minos-dawn-of-the-bronze-age/</guid>
             <description></description>
         </item><item>
             <title>Nautilion</title>
             <link>http://localhost:1313/en/games/nautilion/</link>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/nautilion/</guid>
             <description></description>
         </item><item>
             <title>ROVE</title>
             <link>http://localhost:1313/en/games/rove/</link>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/rove/</guid>
             <description></description>
         </item><item>
             <title>Septima</title>
             <link>http://localhost:1313/en/games/septima/</link>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/septima/</guid>
             <description></description>
         </item><item>
             <title>SOS Titanic</title>
             <link>http://localhost:1313/en/games/sos-titanic/</link>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/sos-titanic/</guid>
             <description></description>
         </item><item>
             <title>The Lost Expedition</title>
             <link>http://localhost:1313/en/games/the-lost-expedition/</link>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/the-lost-expedition/</guid>
             <description></description>
         </item><item>
             <title>Trek12: Himalaya</title>
             <link>http://localhost:1313/en/games/trek12-himalaya/</link>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/trek12-himalaya/</guid>
             <description></description>
         </item><item>
@@ -160,12 +166,6 @@
             <link>http://localhost:1313/en/games/dice-throne-adventure/</link>
             <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/en/games/dice-throne-adventure/</guid>
-            <description></description>
-        </item><item>
-            <title>Era of Kingdoms</title>
-            <link>http://localhost:1313/en/games/era-of-kingdoms/</link>
-            <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/en/games/era-of-kingdoms/</guid>
             <description></description>
         </item><item>
             <title>Escape: The Curse of the Temple</title>
