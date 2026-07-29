@@ -5,23 +5,29 @@
         <description>Recent content in Tags on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Deck Building</title>
-            <link>http://localhost:1313/fr/tags/deck-building/</link>
-            <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/deck-building/</guid>
+        <lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Card Driven</title>
+            <link>http://localhost:1313/fr/tags/card-driven/</link>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/card-driven/</guid>
             <description></description>
         </item><item>
             <title>Hand Management</title>
             <link>http://localhost:1313/fr/tags/hand-management/</link>
-            <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/hand-management/</guid>
             <description></description>
         </item><item>
             <title>Jeu en Solo</title>
             <link>http://localhost:1313/fr/tags/jeu-en-solo/</link>
-            <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/jeu-en-solo/</guid>
+            <description></description>
+        </item><item>
+            <title>Deck Building</title>
+            <link>http://localhost:1313/fr/tags/deck-building/</link>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/deck-building/</guid>
             <description></description>
         </item><item>
             <title>Open Drafting</title>
@@ -148,12 +154,6 @@
             <link>http://localhost:1313/fr/tags/jeu-audio/</link>
             <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/jeu-audio/</guid>
-            <description></description>
-        </item><item>
-            <title>Card Driven</title>
-            <link>http://localhost:1313/fr/tags/card-driven/</link>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/card-driven/</guid>
             <description></description>
         </item><item>
             <title>Jeu Expert</title>
