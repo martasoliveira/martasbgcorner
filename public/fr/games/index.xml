@@ -5,17 +5,83 @@
         <description>Recent content in Games on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/games/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Septima</title>
-            <link>http://localhost:1313/fr/games/septima/</link>
-            <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/games/septima/</guid>
+        <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/games/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>50 Clues : Morte Ou Vive</title>
+            <link>http://localhost:1313/fr/games/50-clues--morte-ou-vive/</link>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/50-clues--morte-ou-vive/</guid>
+            <description></description>
+        </item><item>
+            <title>8 Qui Croc&#39;</title>
+            <link>http://localhost:1313/fr/games/8-qui-croc/</link>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/8-qui-croc/</guid>
+            <description></description>
+        </item><item>
+            <title>Au Griffon Fonffon</title>
+            <link>http://localhost:1313/fr/games/au-griffon-fonffon/</link>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/au-griffon-fonffon/</guid>
+            <description></description>
+        </item><item>
+            <title>Black Rose Wars : Renaissance</title>
+            <link>http://localhost:1313/fr/games/black-rose-wars--renaissance/</link>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/black-rose-wars--renaissance/</guid>
+            <description></description>
+        </item><item>
+            <title>Cyberion</title>
+            <link>http://localhost:1313/fr/games/cyberion/</link>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/cyberion/</guid>
+            <description></description>
+        </item><item>
+            <title>Earth</title>
+            <link>http://localhost:1313/fr/games/earth/</link>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/earth/</guid>
             <description></description>
         </item><item>
             <title>Era of Kingdoms</title>
             <link>http://localhost:1313/fr/games/era-of-kingdoms/</link>
-            <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/games/era-of-kingdoms/</guid>
+            <description></description>
+        </item><item>
+            <title>Harry Potter : Bataille À Poudlard</title>
+            <link>http://localhost:1313/fr/games/harry-potter--bataille-%C3%A0-poudlard/</link>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/harry-potter--bataille-%C3%A0-poudlard/</guid>
+            <description></description>
+        </item><item>
+            <title>It&#39;s a Wonderful World</title>
+            <link>http://localhost:1313/fr/games/its-a-wonderful-world/</link>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/its-a-wonderful-world/</guid>
+            <description></description>
+        </item><item>
+            <title>Race for the Galaxy</title>
+            <link>http://localhost:1313/fr/games/race-for-the-galaxy/</link>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/race-for-the-galaxy/</guid>
+            <description></description>
+        </item><item>
+            <title>ROVE</title>
+            <link>http://localhost:1313/fr/games/rove/</link>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/rove/</guid>
+            <description></description>
+        </item><item>
+            <title>Tiny Epic Crimes</title>
+            <link>http://localhost:1313/fr/games/tiny-epic-crimes/</link>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/tiny-epic-crimes/</guid>
+            <description></description>
+        </item><item>
+            <title>Septima</title>
+            <link>http://localhost:1313/fr/games/septima/</link>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/games/septima/</guid>
             <description></description>
         </item><item>
             <title>7 Wonders Architects</title>
@@ -42,12 +108,6 @@
             <guid>http://localhost:1313/fr/games/harry-potter-hogwarts-battle/</guid>
             <description></description>
         </item><item>
-            <title>It&#39;s a Wonderful World</title>
-            <link>http://localhost:1313/fr/games/its-a-wonderful-world/</link>
-            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/games/its-a-wonderful-world/</guid>
-            <description></description>
-        </item><item>
             <title>L&#39;Expédition Perdue</title>
             <link>http://localhost:1313/fr/games/lexp%C3%A9dition-perdue/</link>
             <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
@@ -64,12 +124,6 @@
             <link>http://localhost:1313/fr/games/nautilion/</link>
             <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/games/nautilion/</guid>
-            <description></description>
-        </item><item>
-            <title>ROVE</title>
-            <link>http://localhost:1313/fr/games/rove/</link>
-            <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/games/rove/</guid>
             <description></description>
         </item><item>
             <title>SOS Titanic</title>

@@ -5,7 +5,13 @@
         <description>Recent content in Tags on Marta&#39;s BG Corner</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Jeu en Solo</title>
+            <link>http://localhost:1313/fr/tags/jeu-en-solo/</link>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/fr/tags/jeu-en-solo/</guid>
+            <description></description>
+        </item><item>
             <title>Card Driven</title>
             <link>http://localhost:1313/fr/tags/card-driven/</link>
             <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
@@ -16,12 +22,6 @@
             <link>http://localhost:1313/fr/tags/hand-management/</link>
             <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/hand-management/</guid>
-            <description></description>
-        </item><item>
-            <title>Jeu en Solo</title>
-            <link>http://localhost:1313/fr/tags/jeu-en-solo/</link>
-            <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/fr/tags/jeu-en-solo/</guid>
             <description></description>
         </item><item>
             <title>Deck Building</title>
@@ -42,7 +42,7 @@
             <guid>http://localhost:1313/fr/tags/multijoueur/</guid>
             <description></description>
         </item><item>
-            <title>Placement D&#39;ouvriers</title>
+            <title>Placement D&#39;Ouvriers</title>
             <link>http://localhost:1313/fr/tags/placement-douvriers/</link>
             <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/fr/tags/placement-douvriers/</guid>
