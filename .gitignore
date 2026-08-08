@@ -1,0 +1,14 @@
+# Hugo build output
+public/
+
+# Hugo's generated/resized image cache
+resources/_gen/
+
+# Hugo lock file (created while a build is running)
+.hugo_build.lock
+
+# Common OS/editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
