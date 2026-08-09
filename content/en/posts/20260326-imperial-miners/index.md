@@ -2,6 +2,7 @@
 date = '2026-03-25'
 draft = false
 title = "Imperial Miners – The Little Mine That Delivers"
+description = "My review of Imperial Miners, a light tableau-building game where dwarf factions dig deep for treasure and chain-reaction combos."
 author = "martas.bg.corner"
 image = 'imperial-miners-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', 'Tableau Building', 'Family Game']
 games = ['Imperial Miners']
 designers = ['Tim Armstrong']
 publishers = ['Portal Games']
+year = 2023
+players_min = 1
+players_max = 5
+age = 10
+playtime_min = 30
+playtime_max = 60
+rating = 8
 +++
 
 Hello everyone!

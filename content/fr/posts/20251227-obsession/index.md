@@ -2,6 +2,7 @@
 date = '2025-12-27'
 draft = false
 title = "Obsession : Un Jeu de Gestion de Main à l'Ère Victorienne"
+description = "Ma critique d'Obsession, un élégant jeu de gestion de main dans l'Angleterre victorienne, où l'on redore le blason d'une famille déchue."
 author = "martas.bg.corner"
 image = 'obsession-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', 'Hand Management']
 games = ['Obsession']
 designers = ['Dan Hallagan']
 publishers = ['Kayenta Games']
+year = 2018
+players_min = 1
+players_max = 4
+age = 14
+playtime_min = 30
+playtime_max = 90
+rating = 9
 +++
 
 Bonjour à tous !

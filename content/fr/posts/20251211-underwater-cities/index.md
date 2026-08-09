@@ -2,6 +2,7 @@
 date = '2025-12-11'
 draft = false
 title = "Underwater Cities – Review"
+description = "Ma critique d'Underwater Cities, un jeu de placement d'ouvriers guidé par les cartes, où l'on bâtit l'avenir sous-marin de l'humanité, frustrant mais grisant."
 author = "martas.bg.corner"
 image = 'underwater-cities-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', "Placement d'Ouvriers", 'Card Driven', 'Tableau Building'
 games = ['Underwater Cities']
 designers = ['Vladimír Suchý']
 publishers = ['Delicious Games']
+year = 2018
+players_min = 1
+players_max = 4
+age = 12
+playtime_min = 80
+playtime_max = 150
+rating = 8.5
 +++
 
 Bonjour à tous !

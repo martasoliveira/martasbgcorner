@@ -2,6 +2,7 @@
 date = '2026-06-24'
 draft = false
 title = "Legacy of Yu – A Race Against the Flood"
+description = "My review of Legacy of Yu, a solo campaign game about racing to build canals and hold back the flood, award-winning and gripping."
 author = "martas.bg.corner"
 image = 'legacy-of-yu-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', 'Deck Building', 'Hand Management', 'Worker Placement']
 games = ['Legacy of Yu']
 designers = ['Shem Phillips']
 publishers = ['Garphill Games']
+year = 2023
+players_min = 1
+players_max = 1
+age = 12
+playtime_min = 60
+playtime_max = 60
+rating = 8
 +++
 
 Hello everyone!

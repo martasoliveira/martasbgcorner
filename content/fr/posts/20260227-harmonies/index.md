@@ -2,6 +2,7 @@
 date = '2026-02-27'
 draft = false
 title = "Harmonies – Construire la Beauté, un Jeton à la Fois"
+description = "Ma critique d'Harmonies, le jeu de pose de tuiles recommandé au Spiel des Jahres, où l'on façonne des paysages pour attirer les animaux."
 author = "martas.bg.corner"
 image = 'harmonies-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Euro Game', 'Jeu Familial', 'Pose de Tuiles', 'Multiplayer']
 games = ['Harmonies']
 designers = ['Johan Benvenuto']
 publishers = ['Libellud']
+year = 2024
+players_min = 1
+players_max = 4
+age = 10
+playtime_min = 30
+playtime_max = 45
+rating = 8
 +++
 
 Bonjour à tous !

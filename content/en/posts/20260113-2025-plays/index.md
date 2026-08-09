@@ -2,6 +2,7 @@
 date = '2026-01-13'
 draft = false
 title = "My 2025 Board Gaming Year in Review"
+description = "Looking back at my 2025 in board gaming: 136 plays, 45 new games, and my top 5 of the year, from Anachrony to Underwater Cities."
 author = "martas.bg.corner"
 image = 'general-stats.jpg'
 categories = ['Board Games', 'Yearly Plays']

@@ -2,6 +2,7 @@
 date = '2026-03-12'
 draft = false
 title = "Merchants Cove - Where Every Merchant Tells a Different Story"
+description = "My review of Merchants Cove, a heavily asymmetric Euro game where every merchant plays a completely different game at the same table."
 author = "martas.bg.corner"
 image = 'merchants-cove-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', 'Worker Placement', 'Euro Game', 'Asymmetric']
 games = ['Merchants Cove']
 designers = ['Jonny Pac', 'Carl Van Ostrand', 'Drake Villareal']
 publishers = ['Final Frontier Games']
+year = 2020
+players_min = 1
+players_max = 4
+age = 14
+playtime_min = 60
+playtime_max = 90
+rating = 7.5
 +++
 
 Hello everyone!

@@ -2,6 +2,7 @@
 date = '2026-03-20'
 draft = false
 title = "Atlantes : Un Royaume au Fond de l'Océan"
+description = "Ma critique d'Atlantes, un jeu de gestion de main où l'on remonte des trésors engloutis, un royaume sous-marin à la fois."
 author = "martas.bg.corner"
 image = 'aquatica-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', 'Hand Management', 'Open Drafting', 'Jeu Familial']
 games = ['Atlantes']
 designers = ['Ivan Tuzovsky']
 publishers = ['Cosmodrome Games']
+year = 2019
+players_min = 1
+players_max = 4
+age = 14
+playtime_min = 30
+playtime_max = 60
+rating = 8.5
 +++
 
 Bonjour à tous !

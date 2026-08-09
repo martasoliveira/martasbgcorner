@@ -2,6 +2,7 @@
 date = '2026-06-17'
 draft = false
 title = "It's a Wonderful World, and a Wonderful Game"
+description = "My review of It's a Wonderful World, a hand-management and engine-building game about drafting cards to grow a thriving empire."
 author = "martas.bg.corner"
 image = 'its-wonderful-world-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', 'Hand Management', 'Open Drafting', 'Tableau Building', '
 games = ["It's a Wonderful World"]
 designers = ['Frédéric Guérard']
 publishers = ['La Boîte de Jeu', 'Origames']
+year = 2019
+players_min = 1
+players_max = 5
+age = 14
+playtime_min = 45
+playtime_max = 45
+rating = 10
 +++
 
 Hello everyone!

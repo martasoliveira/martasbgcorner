@@ -2,6 +2,7 @@
 date = '2026-07-19'
 draft = false
 title = "Rise of a Kingdom: My Time with Era of Kingdoms"
+description = "My review of Era of Kingdoms, an easy-to-learn deck-building game about growing your realm from the dark ages to the age of enlightenment."
 author = "martas.bg.corner"
 image = 'era-of-kingdoms-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', 'Deck Building', 'Hand Management', 'Open Drafting']
 games = ['Era of Kingdoms']
 designers = ['Michael Erisman']
 publishers = ['KC Games']
+year = 2019
+players_min = 1
+players_max = 4
+age = 14
+playtime_min = 30
+playtime_max = 45
+rating = 7
 +++
 
 Hello everyone!

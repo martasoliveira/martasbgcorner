@@ -2,6 +2,7 @@
 date = '2026-04-23'
 draft = false
 title = "Mon Parcours dans les Jeux de Société"
+description = "Comment une Portugaise est passée du Monopoly sur le tapis du salon à une collection de 400 jeux : mon parcours ludique, du tout début à aujourd'hui."
 author = "martas.bg.corner"
 image = 'my-boardgames.jpg'
 categories = ['Jeux de Société', 'Présentation']

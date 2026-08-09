@@ -2,6 +2,7 @@
 date = '2026-05-02'
 draft = false
 title = "April 2026 Plays"
+description = "My April 2026 plays: a record 32 games across 17 titles, with Onirim leading the pack at 6 plays."
 author = "martas.bg.corner"
 image = 'banner.png'
 categories = ['Board Games', 'Monthly Play']

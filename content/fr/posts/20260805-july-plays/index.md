@@ -2,6 +2,7 @@
 date = '2026-08-05'
 draft = false
 title = "Parties de Juillet 2026"
+description = "Mes parties de juillet 2026 : 20 parties en solo pour 12 jeux, portées par It's a Wonderful World, avec mes débuts sur Earth et Race for the Galaxy."
 author = "martas.bg.corner"
 image = 'july-plays-banner.jpg'
 categories = ['Jeux De Société', 'Parties Du Mois']

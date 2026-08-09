@@ -2,6 +2,7 @@
 date = '2026-03-12'
 draft = false
 title = "La Baie des Marchands - Chaque Marchand Raconte une Histoire Différente"
+description = "Ma critique de La Baie des Marchands, un Euro Game très asymétrique où chaque marchand joue littéralement à un jeu différent."
 author = "martas.bg.corner"
 image = 'merchants-cove-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', "Placement d'ouvriers", 'Euro Game', 'Asymétrique']
 games = ['La Baie des Marchands']
 designers = ['Jonny Pac', 'Carl Van Ostrand', 'Drake Villareal']
 publishers = ['Final Frontier Games']
+year = 2020
+players_min = 1
+players_max = 4
+age = 14
+playtime_min = 60
+playtime_max = 90
+rating = 7.5
 +++
 
 Bonjour à tous !

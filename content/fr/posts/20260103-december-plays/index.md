@@ -2,6 +2,7 @@
 date = '2026-01-03'
 draft = false
 title = "Parties de Décembre 2025"
+description = "Mes parties de décembre 2025 : 17 parties pour 8 jeux, avec Obsession en tête d'affiche, aux côtés d'Underwater Cities et bien d'autres."
 author = "martas.bg.corner"
 image = 'decembers-game.jpg'
 categories = ['Jeux de Société', 'Parties du Mois']

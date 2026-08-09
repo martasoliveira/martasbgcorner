@@ -2,6 +2,7 @@
 date = '2026-05-13'
 draft = false
 title = "Ancient Knowledge – Will Your Monuments Stand the Test of Time?"
+description = "My review of Ancient Knowledge, a tableau game about preserving ancient monuments before they slide into the past and are lost forever."
 author = "martas.bg.corner"
 image = 'ancient-knowledge-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', 'Tableau Building', 'Hand Management', 'Open Drafting']
 games = ['Ancient Knowledge', 'Ancient Knowledge: Heritage']
 designers = ['Rémi Mathieu']
 publishers = ['Iello']
+year = 2023
+players_min = 2
+players_max = 4
+age = 12
+playtime_min = 60
+playtime_max = 120
+rating = 8
 +++
 
 Hello everyone!

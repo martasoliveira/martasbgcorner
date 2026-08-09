@@ -2,6 +2,7 @@
 date = '2026-06-09'
 draft = false
 title = "Parties de Mai 2026"
+description = "Mes parties de mai 2026 : 24 parties pour 11 jeux, portées par Ancient Knowledge et It's a Wonderful World."
 author = "martas.bg.corner"
 image = 'may-banner.png'
 categories = ['Jeux de Société', 'Parties du Mois']

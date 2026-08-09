@@ -2,6 +2,7 @@
 date = '2026-07-29'
 draft = false
 title = "Septima : Le Procès d'une Sorcière"
+description = "Ma critique de Septima, un jeu à cartes où l'on prouve sa valeur de sorcière à travers potions, procès et une pointe de magie noire."
 author = "martas.bg.corner"
 image = 'septima-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Hand Management', 'Jeu en Solo', 'Card Driven']
 games = ['Septima']
 designers = ['Robin Hegedűs']
 publishers = ['Mindclash Games']
+year = 2023
+players_min = 1
+players_max = 4
+age = 12
+playtime_min = 50
+playtime_max = 100
+rating = 8
 +++
 
 Bonjour à tous !

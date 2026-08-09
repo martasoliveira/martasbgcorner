@@ -2,6 +2,7 @@
 date = '2026-07-17'
 draft = false
 title = "L'Essor d'un Royaume : Mon Aventure avec Era of Kingdoms"
+description = "Ma critique d'Era of Kingdoms, un jeu de deckbuilding facile à prendre en main où l'on fait grandir son royaume, des âges sombres jusqu'aux Lumières."
 author = "martas.bg.corner"
 image = 'era-of-kingdoms-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', 'Deck Building', 'Hand Management', 'Open Drafting']
 games = ['Era of Kingdoms']
 designers = ['Michael Erisman']
 publishers = ['KC Games']
+year = 2019
+players_min = 1
+players_max = 4
+age = 14
+playtime_min = 30
+playtime_max = 45
+rating = 7
 +++
 
 Bonjour à tous !

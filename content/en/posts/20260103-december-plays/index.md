@@ -2,6 +2,7 @@
 date = '2026-01-03'
 draft = false
 title = "December 2025 Plays"
+description = "My December 2025 plays: 17 games across 8 titles, led by Obsession, plus top games like Underwater Cities and more."
 author = "martas.bg.corner"
 image = 'decembers-game.jpg'
 categories = ['Board Games', 'Monthly Play']

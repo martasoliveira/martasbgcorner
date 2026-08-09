@@ -2,6 +2,7 @@
 date = '2026-05-27'
 draft = false
 title = "Onirim – Perdue dans le Labyrinthe des Rêves"
+description = "Ma critique d'Onirim, un jeu de cartes solo rapide où l'on cherche à s'échapper d'un labyrinthe onirique en trouvant huit portes avant les cauchemars."
 author = "martas.bg.corner"
 image = 'onirim-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', 'Hand Management', 'Coopératif', 'Small Games', 'Push Yo
 games = ['Onirim']
 designers = ['Shadi Torbey']
 publishers = ['inPatience']
+year = 2014
+players_min = 1
+players_max = 2
+age = 10
+playtime_min = 15
+playtime_max = 15
+rating = 8
 +++
 
 Bonjour à tous !

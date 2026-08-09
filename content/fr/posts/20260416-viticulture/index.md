@@ -2,6 +2,7 @@
 date = '2026-04-16'
 draft = false
 title = "Viticulture – Vieilli à la Perfection"
+description = "Ma critique de Viticulture Essential Edition, un jeu de placement d'ouvriers où l'on bâtit un domaine viticole toscan, saison après saison."
 author = "martas.bg.corner"
 image = 'viticulture-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', "Placement d'ouvriers", 'Hand Management', 'Euro Game']
 games = ['Viticulture']
 designers = ['Jamey Stegmaier', 'Alan Stone']
 publishers = ['Stonemaier Games']
+year = 2015
+players_min = 1
+players_max = 6
+age = 14
+playtime_min = 45
+playtime_max = 90
+rating = 9.5
 +++
 
 Bonjour à tous !

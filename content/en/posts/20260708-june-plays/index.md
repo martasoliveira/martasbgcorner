@@ -2,6 +2,7 @@
 date = '2026-07-08'
 draft = false
 title = "June 2026 Plays"
+description = "My June 2026 plays: 22 games across 12 titles, with Harry Potter: Hogwarts Battle taking the top spot this month."
 author = "martas.bg.corner"
 image = 'banner.png'
 categories = ['Board Games', 'Monthly Play']

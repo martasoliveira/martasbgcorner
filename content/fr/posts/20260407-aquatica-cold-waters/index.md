@@ -2,6 +2,7 @@
 date = '2026-04-07'
 draft = false
 title = "Atlantes Eaux Glacées : Atlantes dans toute sa splendeur"
+description = "Ma critique d'Atlantes Eaux Glacées, l'extension qui ajoute de nouveaux lieux, personnages et le mécanisme des Tribus, et qui sublime un jeu déjà excellent."
 author = "martas.bg.corner"
 image = 'aquatica-cold-waters-box.jpg'
 categories = ['Jeux de Société', 'Critiques', 'Expansions']
@@ -9,6 +10,10 @@ tags = ['Jeu en Solo', 'Hand Management', 'Open Drafting', 'Jeu Familial']
 games = ['Atlantes', 'Atlantes Eaux Glacées']
 designers = ['Ivan Tuzovsky']
 publishers = ['Cosmodrome Games']
+year = 2020
+players_min = 1
+players_max = 5
+rating = 9
 +++
 
 Bonjour à tous !

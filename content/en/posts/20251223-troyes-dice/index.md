@@ -2,6 +2,7 @@
 date = '2025-12-23'
 draft = false
 title = "Troyes Dice: A Medieval Roll & Write"
+description = "My review of Troyes Dice, a medieval roll-and-write where you draft dice to build a city, quick to play, with real strategic bite."
 author = "martas.bg.corner"
 image = 'box-2.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', "Roll & Write", 'BYOS']
 games = ['Troyes Dice']
 designers = ['Sébastien Dujardin', 'Xavier Georges', 'Alain Orban']
 publishers = ['Pearl Games']
+year = 2020
+players_min = 1
+players_max = 10
+age = 12
+playtime_min = 20
+playtime_max = 30
+rating = 8
 +++
 
 Hello everyone!

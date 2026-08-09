@@ -2,6 +2,7 @@
 date = '2026-05-07'
 draft = false
 title = "Red Rising: Rise to the Top"
+description = "My review of Red Rising, a hand-management and combo-building game set in Pierce Brown's brutal, caste-divided sci-fi universe."
 author = "martas.bg.corner"
 image = 'red-rising-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', 'Hand Management', 'Tableau Building', 'Multiplayer']
 games = ['Red Rising']
 designers = ['Alexander Schmidt (II)', 'Jamey Stegmaier']
 publishers = ['Stonemaier Games']
+year = 2021
+players_min = 1
+players_max = 6
+age = 14
+playtime_min = 45
+playtime_max = 60
+rating = 8.5
 +++
 
 Hello everyone!

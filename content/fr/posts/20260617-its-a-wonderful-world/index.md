@@ -2,6 +2,7 @@
 date = '2026-06-17'
 draft = false
 title = "It's a Wonderful World, un jeu merveilleux"
+description = "Ma critique d'It's a Wonderful World, un jeu de gestion de main et de moteur économique où l'on développe son empire carte après carte."
 author = "martas.bg.corner"
 image = 'its-wonderful-world-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', 'Hand Management', 'Open Drafting', 'Tableau Building', '
 games = ["It's a Wonderful World"]
 designers = ['Frédéric Guérard']
 publishers = ['La Boîte de Jeu', 'Origames']
+year = 2019
+players_min = 1
+players_max = 5
+age = 14
+playtime_min = 45
+playtime_max = 45
+rating = 10
 +++
 
 Bonjour à tous !

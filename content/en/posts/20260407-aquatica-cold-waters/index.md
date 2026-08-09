@@ -2,6 +2,7 @@
 date = '2026-04-07'
 draft = false
 title = "Cold Waters: Where Aquatica Truly Shines"
+description = "My review of Aquatica: Cold Waters, the expansion that adds new locations, characters, and the Tribes mechanic, making a great game shine even brighter."
 author = "martas.bg.corner"
 image = 'aquatica-cold-waters-box.jpg'
 categories = ['Board Games', 'Reviews', 'Expansions']
@@ -9,6 +10,10 @@ tags = ['Solo Gaming', 'Hand Management', 'Open Drafting', 'Family Game']
 games = ['Aquatica', "Aquatica: Cold Waters"]
 designers = ['Ivan Tuzovsky']
 publishers = ['Cosmodrome Games']
+year = 2020
+players_min = 1
+players_max = 5
+rating = 9
 +++
 
 Hello everyone!

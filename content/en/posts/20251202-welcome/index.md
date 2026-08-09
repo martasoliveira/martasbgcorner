@@ -2,6 +2,7 @@
 date = '2025-12-02T09:00:00'
 draft = false
 title = "Welcome to Marta's BG Corner"
+description = "The first post on my little corner of the internet, sharing who I am, how board games took over my life, and what you'll find here."
 author = "martas.bg.corner"
 image = 'serious-avatar.jpg'
 categories = ['Board Games']

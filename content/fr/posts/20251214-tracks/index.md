@@ -2,6 +2,7 @@
 date = '2025-12-14'
 draft = false
 title = "Tracks: Siren Bay – Critique"
+description = "Ma critique de Tracks: Siren Bay, un jeu d'enquête coopératif basé sur le son, où l'on résout des affaires à l'oreille, avec un piège bien particulier."
 author = "martas.bg.corner"
 image = 'box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', 'Coopératif', 'Détective', "Dépendant d'une Applicatio
 games = ['Tracks: Siren Bay']
 designers = ['Juan Rodriguez', 'Christian Rubiella']
 publishers = ['KYF Edition']
+year = 2022
+players_min = 1
+players_max = 6
+age = 12
+playtime_min = 25
+playtime_max = 45
+rating = 7
 +++
 
 Bonjour à tous !

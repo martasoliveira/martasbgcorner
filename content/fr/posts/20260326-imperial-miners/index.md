@@ -2,6 +2,7 @@
 date = '2026-03-25'
 draft = false
 title = "Imperial Miners – La Petite Mine qui Tient ses Promesses"
+description = "Ma critique d'Imperial Miners, un jeu léger de construction de tableau où des factions de nains creusent toujours plus profond pour de belles combinaisons."
 author = "martas.bg.corner"
 image = 'imperial-miners-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', 'Tableau Building', 'Jeu Familial']
 games = ['Imperial Miners']
 designers = ['Tim Armstrong']
 publishers = ['Portal Games']
+year = 2023
+players_min = 1
+players_max = 5
+age = 10
+playtime_min = 30
+playtime_max = 60
+rating = 8
 +++
 
 Bonjour à tous !

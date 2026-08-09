@@ -2,6 +2,7 @@
 date = '2026-06-24'
 draft = false
 title = "Legacy of Yu – Une Course Contre la Crue"
+description = "Ma critique de Legacy of Yu, un jeu de campagne solo où l'on court contre la crue pour bâtir des canaux, primé et prenant du début à la fin."
 author = "martas.bg.corner"
 image = 'legacy-of-yu-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', 'Deck Building', 'Hand Management', "Placement d'ouvriers
 games = ['Legacy of Yu']
 designers = ['Shem Phillips']
 publishers = ['Garphill Games']
+year = 2023
+players_min = 1
+players_max = 1
+age = 12
+playtime_min = 60
+playtime_max = 60
+rating = 8
 +++
 
 Bonjour à tous !

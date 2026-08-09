@@ -2,6 +2,7 @@
 date = '2025-12-18'
 draft = false
 title = "R.A.V.E.L. : Rapide, Malin et Addictif"
+description = "Ma critique de R.A.V.E.L., un astucieux puzzle solo de manipulation de dés qui cache une vraie profondeur dans une toute petite boîte."
 author = "martas.bg.corner"
 image = 'box-1.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', 'Petits Jeux']
 games = ["RAVEL"]
 designers = ['Daniel McKinley']
 publishers = ['inPatience']
+year = 2025
+players_min = 1
+players_max = 1
+age = 10
+playtime_min = 10
+playtime_max = 10
+rating = 8
 +++
 
 Bonjour à tous !

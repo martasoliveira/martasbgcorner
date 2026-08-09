@@ -2,6 +2,7 @@
 date = '2026-02-28'
 draft = false
 title = "February 2026 Plays"
+description = "My February 2026 plays: 13 games across 7 titles, with Proving Grounds and Harmonies leading the way this month."
 author = "martas.bg.corner"
 image = 'banner.png'
 categories = ['Board Games', 'Monthly Play']

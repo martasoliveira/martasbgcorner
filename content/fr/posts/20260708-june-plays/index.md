@@ -2,6 +2,7 @@
 date = '2026-07-08'
 draft = false
 title = "Parties de Juin 2026"
+description = "Mes parties de juin 2026 : 22 parties pour 12 jeux, avec Harry Potter : Bataille à Poudlard en tête ce mois-ci."
 author = "martas.bg.corner"
 image = 'banner.png'
 categories = ['Jeux de Société', 'Parties du Mois']

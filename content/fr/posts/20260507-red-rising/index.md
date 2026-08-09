@@ -2,6 +2,7 @@
 date = '2026-05-07'
 draft = false
 title = "Red Rising : Gravir les échelons"
+description = "Ma critique de Red Rising, un jeu de gestion de main et de combos, plongé dans l'univers brutal et impitoyable imaginé par Pierce Brown."
 author = "martas.bg.corner"
 image = 'red-rising-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', 'Hand Management', 'Tableau Building', 'Multijoueur']
 games = ['Red Rising']
 designers = ['Alexander Schmidt (II)', 'Jamey Stegmaier']
 publishers = ['Stonemaier Games']
+year = 2021
+players_min = 1
+players_max = 6
+age = 14
+playtime_min = 45
+playtime_max = 60
+rating = 8.5
 +++
 
 Bonjour à tous !

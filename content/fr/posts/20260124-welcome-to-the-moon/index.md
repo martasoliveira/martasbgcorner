@@ -2,6 +2,7 @@
 date = '2026-01-24'
 draft = false
 title = "Welcome to the Moon : Une Campagne Flip & Write"
+description = "Ma critique de Welcome to the Moon, un flip & write avec 8 aventures spatiales à jouer seules ou enchaînées en campagne."
 author = "martas.bg.corner"
 image = 'box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', "Flip & Write"]
 games = ['Welcome to the Moon']
 designers = ['Alexis Allard', 'Benoit Turpin']
 publishers = ['Blue Cocker Games']
+year = 2021
+players_min = 1
+players_max = 6
+age = 10
+playtime_min = 25
+playtime_max = 30
+rating = 9
 +++
 
 Bonjour à tous !

@@ -2,6 +2,7 @@
 date = '2026-02-28'
 draft = false
 title = "Parties de Février 2026"
+description = "Mes parties de février 2026 : 13 parties pour 7 jeux, avec Le Défi de la Reine et Harmonies en tête ce mois-ci."
 author = "martas.bg.corner"
 image = 'banner.png'
 categories = ['Jeux de Société', 'Parties du Mois']

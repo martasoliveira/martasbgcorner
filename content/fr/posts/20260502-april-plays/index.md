@@ -2,6 +2,7 @@
 date = '2026-05-02'
 draft = false
 title = "Parties d'Avril 2026"
+description = "Mes parties d'avril 2026 : un record de 32 parties pour 17 jeux, avec Onirim en tête avec 6 parties."
 author = "martas.bg.corner"
 image = 'banner.png'
 categories = ['Jeux De Société', 'Parties Du Mois']

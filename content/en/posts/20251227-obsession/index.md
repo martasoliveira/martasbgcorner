@@ -2,6 +2,7 @@
 date = '2025-12-27'
 draft = false
 title = "Obsession: A Victorian Hand Management Game"
+description = "My review of Obsession, an elegant Victorian hand-management game about restoring a fallen family's fortune through marriage and social climbing."
 author = "martas.bg.corner"
 image = 'obsession-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', 'Hand Management']
 games = ['Obsession']
 designers = ['Dan Hallagan']
 publishers = ['Kayenta Games']
+year = 2018
+players_min = 1
+players_max = 4
+age = 14
+playtime_min = 30
+playtime_max = 90
+rating = 9
 +++
 
 Hello everyone!

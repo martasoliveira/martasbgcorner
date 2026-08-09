@@ -2,6 +2,7 @@
 date = '2026-04-02'
 draft = false
 title = "Parties de Mars 2026"
+description = "Mes parties de mars 2026 : 15 parties pour 10 jeux, avec Dice Throne Adventures qui a volé la vedette ce mois-ci."
 author = "martas.bg.corner"
 image = 'banner.png'
 categories = ['Jeux de Société', 'Parties du Mois']

@@ -2,6 +2,7 @@
 date = '2026-06-09'
 draft = false
 title = "May 2026 Plays"
+description = "My May 2026 plays: 24 games across 11 titles, led by Ancient Knowledge and It's a Wonderful World."
 author = "martas.bg.corner"
 image = 'may-banner.png'
 categories = ['Board Games', 'Monthly Play']

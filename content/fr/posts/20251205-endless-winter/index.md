@@ -2,6 +2,7 @@
 date = '2025-12-05'
 draft = false
 title = "Endless Winter: Paleoamericans – Premières Impressions"
+description = "Premières impressions sur Endless Winter: Paleoamericans, un jeu de placement d'ouvriers et de deckbuilding sur une tribu préhistorique en quête de prospérité."
 author = "martas.bg.corner"
 image = 'endless-winter-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,11 @@ tags = ['Jeu en Solo', "Placement d'Ouvriers", 'Deck Building', 'Euro Game']
 games = ['Endless Winter: Paleoamericans']
 designers = ['Stan Kordonskiy']
 publishers = ['Fantasia Games']
+players_min = 1
+players_max = 4
+age = 12
+playtime_min = 60
+playtime_max = 120
 +++
 
 Bonjour à tous !

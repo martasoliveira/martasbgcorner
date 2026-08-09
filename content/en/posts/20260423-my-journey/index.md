@@ -2,6 +2,7 @@
 date = '2026-04-23'
 draft = false
 title = "My Board Game Journey"
+description = "How a Portuguese girl went from Monopoly on the living room floor to a 400-game collection: my board gaming journey, start to now."
 author = "martas.bg.corner"
 image = 'my-boardgames.jpg'
 categories = ['Board Games', 'Presentation']

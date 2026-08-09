@@ -2,6 +2,7 @@
 date = '2026-02-08'
 draft = false
 title = "Parties de Janvier 2026"
+description = "Mes parties de janvier 2026 : moins de jeux, mais plus de profondeur, avec Welcome to the Moon en tête avec 5 parties."
 author = "martas.bg.corner"
 image = 'games-stats-january.jpg'
 categories = ['Jeux de Société', 'Parties du Mois']

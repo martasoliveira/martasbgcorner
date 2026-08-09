@@ -2,6 +2,7 @@
 date = '2026-02-27'
 draft = false
 title = "Harmonies – Building Beauty, One Token at a Time"
+description = "My review of Harmonies, the Spiel des Jahres-recommended tile-placement game where you build landscapes and attract animals to your world."
 author = "martas.bg.corner"
 image = 'harmonies-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Euro Game', 'Family Game', 'Tile Placement', 'Multiplayer']
 games = ['Harmonies']
 designers = ['Johan Benvenuto']
 publishers = ['Libellud']
+year = 2024
+players_min = 1
+players_max = 4
+age = 10
+playtime_min = 30
+playtime_max = 45
+rating = 8
 +++
 
 Hello everyone!

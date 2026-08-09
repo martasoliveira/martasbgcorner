@@ -2,6 +2,7 @@
 date = '2026-04-16'
 draft = false
 title = "Viticulture – Aged to Perfection"
+description = "My review of Viticulture Essential Edition, a worker-placement game about building a Tuscan winery, one carefully balanced season at a time."
 author = "martas.bg.corner"
 image = 'viticulture-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', 'Worker Placement', 'Hand Management', 'Euro Game']
 games = ['Viticulture']
 designers = ['Jamey Stegmaier', 'Alan Stone']
 publishers = ['Stonemaier Games']
+year = 2015
+players_min = 1
+players_max = 6
+age = 14
+playtime_min = 45
+playtime_max = 90
+rating = 9.5
 +++
 
 Hello everyone!

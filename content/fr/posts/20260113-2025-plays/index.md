@@ -2,6 +2,7 @@
 date = '2026-01-13'
 draft = false
 title = "Mon Bilan Ludique 2025"
+description = "Retour sur mon année ludique 2025 : 136 parties, 45 nouveaux jeux, et mon top 5 de l'année, d'Anachrony à Underwater Cities."
 author = "martas.bg.corner"
 image = 'general-stats.jpg'
 categories = ['Jeux de Société', "Parties de l'Année"]

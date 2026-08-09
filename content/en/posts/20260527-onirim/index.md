@@ -2,6 +2,7 @@
 date = '2026-05-27'
 draft = false
 title = "Onirim – Lost in the Labyrinth of Dreams"
+description = "My review of Onirim, a quick solo card game where you escape a dream labyrinth by finding eight doors before the nightmares catch up."
 author = "martas.bg.corner"
 image = 'onirim-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', 'Hand Management', 'Cooperative', 'Small Games', 'Push Yo
 games = ['Onirim']
 designers = ['Shadi Torbey']
 publishers = ['Z-Man Games']
+year = 2014
+players_min = 1
+players_max = 2
+age = 10
+playtime_min = 15
+playtime_max = 15
+rating = 8
 +++
 
 Hello everyone!

@@ -2,6 +2,7 @@
 date = '2026-05-13'
 draft = false
 title = "Ancient Knowledge – Vos Monuments Résisteront-ils à l'Épreuve du Temps ?"
+description = "Ma critique d'Ancient Knowledge, un jeu de tableau où il faut préserver des monuments anciens avant qu'ils ne sombrent dans l'oubli."
 author = "martas.bg.corner"
 image = 'ancient-knowledge-box.jpg'
 categories = ['Jeux de Société', 'Critiques']
@@ -9,6 +10,13 @@ tags = ['Jeu en Solo', 'Tableau Building', 'Hand Management', 'Open Drafting']
 games = ['Ancient Knowledge', 'Ancient Knowledge: Heritage']
 designers = ['Rémi Mathieu']
 publishers = ['Iello']
+year = 2023
+players_min = 2
+players_max = 4
+age = 12
+playtime_min = 60
+playtime_max = 120
+rating = 8
 +++
 
 Bonjour à tous !

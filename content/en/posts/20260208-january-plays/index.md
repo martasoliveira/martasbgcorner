@@ -2,6 +2,7 @@
 date = '2026-02-08'
 draft = false
 title = "January 2026 Plays"
+description = "My January 2026 plays: fewer games, more depth, with Welcome to the Moon leading the pack at 5 plays."
 author = "martas.bg.corner"
 image = 'games-stats-january.jpg'
 categories = ['Board Games', 'Monthly Play']

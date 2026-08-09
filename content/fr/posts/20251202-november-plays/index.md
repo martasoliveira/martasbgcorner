@@ -2,6 +2,7 @@
 date = '2025-12-02T10:00:00'
 draft = false
 title = "Parties de Novembre 2025"
+description = "Mes parties de novembre 2025 : 16 parties pour 13 jeux, entre découvertes à VianaCon et dinosaures à esquiver dans Perseverance: Castaway Chronicles."
 image = 'november-banner.png'
 author = "martas.bg.corner"
 categories = ['Jeux de Société', 'Parties du Mois']

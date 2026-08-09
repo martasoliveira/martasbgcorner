@@ -2,6 +2,7 @@
 date = '2025-12-03'
 draft = false
 title = "Découverte de VianaCon 2025"
+description = "Ma toute première convention de jeux de société ! Retour sur VianaCon 2025 à Viana do Castelo, entre nouveautés et bonne humeur."
 image = 'peddy-paper-viana.jpg'
 author = "martas.bg.corner"
 categories = ['Conventions']

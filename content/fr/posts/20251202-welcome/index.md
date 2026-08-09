@@ -2,6 +2,7 @@
 date = '2025-12-02T09:00:00'
 draft = false
 title = "Bienvenue sur Marta's BG Corner"
+description = "Le tout premier article de mon petit coin d'internet : qui je suis, comment les jeux de société ont pris toute la place dans ma vie, et ce qui vous attend ici."
 image = 'serious-avatar.jpg'
 author = "martas.bg.corner"
 categories = ['Jeux de Société']

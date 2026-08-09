@@ -2,6 +2,7 @@
 date = '2026-03-20'
 draft = false
 title = "Aquatica: A Kingdom Beneath the Waves"
+description = "My review of Aquatica, a hand-management game about raising sunken treasures from the ocean depths, one Sea King's kingdom at a time."
 author = "martas.bg.corner"
 image = 'aquatica-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', 'Hand Management', 'Open Drafting', 'Family Game']
 games = ['Aquatica']
 designers = ['Ivan Tuzovsky']
 publishers = ['Cosmodrome Games']
+year = 2019
+players_min = 1
+players_max = 4
+age = 14
+playtime_min = 30
+playtime_max = 60
+rating = 8.5
 +++
 
 Hello everyone!

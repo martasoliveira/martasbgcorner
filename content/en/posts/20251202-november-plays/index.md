@@ -2,6 +2,7 @@
 date = '2025-12-02T10:00:00'
 draft = false
 title = "November 2025 Plays"
+description = "A recap of my November 2025 plays, 16 games across 13 titles, including VianaCon discoveries and dinosaur-dodging in Perseverance: Castaway Chronicles."
 author = "martas.bg.corner"
 image = 'november-banner.png'
 categories = ['Board Games', 'Monthly Play']

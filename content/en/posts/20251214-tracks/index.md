@@ -2,6 +2,7 @@
 date = '2025-12-14'
 draft = false
 title = "Tracks: Siren Bay – Review"
+description = "My review of Tracks: Siren Bay, a cooperative sound-based detective game where you solve cases by listening for clues, with one big catch."
 author = "martas.bg.corner"
 image = 'box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', 'Cooperative', 'Detective', 'App Dependent', 'Family Game
 games = ['Tracks: Siren Bay']
 designers = ['Juan Rodriguez', 'Christian Rubiella']
 publishers = ['KYF Edition']
+year = 2022
+players_min = 1
+players_max = 6
+age = 12
+playtime_min = 25
+playtime_max = 45
+rating = 7
 +++
 
 Hello everyone!

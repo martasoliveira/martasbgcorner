@@ -2,6 +2,7 @@
 date = '2026-08-05'
 draft = false
 title = "July 2026 Plays"
+description = "My July 2026 plays: 20 solo games across 12 titles, led by It's a Wonderful World, plus first impressions of Earth and Race for the Galaxy."
 author = "martas.bg.corner"
 image = 'july-plays-banner.jpg'
 categories = ['Board Games', 'Monthly Play']

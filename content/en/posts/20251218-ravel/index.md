@@ -2,6 +2,7 @@
 date = '2025-12-18'
 draft = false
 title = "R.A.V.E.L.: Quick, Clever, and Addictive"
+description = "My review of R.A.V.E.L., a clever solo dice-manipulation puzzle that packs surprising depth into a tiny, endlessly replayable box."
 author = "martas.bg.corner"
 image = 'box-1.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Solo Gaming', 'Small Games']
 games = ["RAVEL"]
 designers = ['Daniel McKinley']
 publishers = ['inPatience']
+year = 2025
+players_min = 1
+players_max = 1
+age = 10
+playtime_min = 10
+playtime_max = 10
+rating = 8
 +++
 
 Hello everyone!

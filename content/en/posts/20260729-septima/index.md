@@ -2,6 +2,7 @@
 date = '2026-07-29'
 draft = false
 title = "Septima: A Witch's Trial"
+description = "My review of Septima, a card-driven game about proving your worth as a witch through potions, trials, and a touch of dark magic."
 author = "martas.bg.corner"
 image = 'septima-box.jpg'
 categories = ['Board Games', 'Reviews']
@@ -9,6 +10,13 @@ tags = ['Hand Management', 'Solo Gaming', 'Card Driven']
 games = ['Septima']
 designers = ['Robin Hegedűs']
 publishers = ['Mindclash Games']
+year = 2023
+players_min = 1
+players_max = 4
+age = 12
+playtime_min = 50
+playtime_max = 100
+rating = 8
 +++
 
 Hello everyone!
