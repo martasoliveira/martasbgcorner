@@ -1,0 +1,74 @@
+{{- /*
+  Custom override of Hugo's built-in "figure" shortcode.
+  Same call syntax as the default shortcode (src, alt, width, caption, class, link, target, rel, title),
+  so no existing post content needs to change.
+
+  What it does differently:
+  - JPEG/PNG images are resized (capped at a sane max width) and a WebP copy (quality 82) is
+    generated alongside the original format, served via <picture> so the browser picks whichever
+    it supports.
+  - GIFs and SVGs pass through untouched (animation / vector scaling would break otherwise).
+  - Remote images (http/https src) or anything Hugo can't resolve as a local resource also pass
+    through untouched, so the shortcode never breaks a build on an unexpected src.
+  - loading="lazy" is added to every <img> for off-screen images.
+*/ -}}
+
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $caption := .Get "caption" -}}
+{{- $width := .Get "width" -}}
+{{- $class := .Get "class" -}}
+{{- $link := .Get "link" -}}
+{{- $target := .Get "target" -}}
+{{- $rel := .Get "rel" -}}
+{{- $title := .Get "title" -}}
+
+{{- $maxWidth := 1600 -}}
+{{- $ext := path.Ext $src | lower -}}
+{{- $isRemote := or (strings.HasPrefix $src "http://") (strings.HasPrefix $src "https://") -}}
+{{- $skipProcessing := or (eq $ext ".gif") (eq $ext ".svg") $isRemote -}}
+
+{{- $image := "" -}}
+{{- if not $skipProcessing -}}
+  {{- with .Page.Resources.GetMatch $src -}}
+    {{- $image = . -}}
+  {{- else -}}
+    {{- with resources.Get $src -}}
+      {{- $image = . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<figure{{ with $class }} class="{{ . }}"{{ end }}>
+  {{- if $link }}<a href="{{ $link }}"{{ with $target }} target="{{ . }}"{{ end }}{{ with $rel }} rel="{{ . }}"{{ end }}>{{ end -}}
+
+  {{- if $image -}}
+    {{- $targetWidth := $maxWidth -}}
+    {{- with $width }}{{ $targetWidth = int . }}{{ end -}}
+    {{- if lt $image.Width $targetWidth }}{{ $targetWidth = $image.Width }}{{ end -}}
+
+    {{- $resized := $image.Resize (printf "%dx" $targetWidth) -}}
+    {{- $webp := $image.Resize (printf "%dx webp q82" $targetWidth) -}}
+
+    <picture>
+      <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+      <img src="{{ $resized.RelPermalink }}"
+           {{ with $alt }}alt="{{ . }}"{{ else }}alt=""{{ end }}
+           width="{{ $resized.Width }}" height="{{ $resized.Height }}"
+           loading="lazy"
+           {{ with $title }}title="{{ . }}"{{ end }}>
+    </picture>
+  {{- else -}}
+    {{- /* GIF, SVG, remote, or unresolvable src: render as-is, no processing */ -}}
+    <img src="{{ $src }}"
+         {{ with $alt }}alt="{{ . }}"{{ else }}alt=""{{ end }}
+         {{ with $width }}width="{{ . }}"{{ end }}
+         loading="lazy"
+         {{ with $title }}title="{{ . }}"{{ end }}>
+  {{- end -}}
+
+  {{- if $link }}</a>{{ end -}}
+  {{- with $caption }}
+  <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end }}
+</figure>

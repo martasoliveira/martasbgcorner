@@ -90,7 +90,7 @@ At the bottom of the scoresheet is the Civil track. When constructing buildings,
 {{< figure
   src="scoresheet-1.jpg"
   alt="Scoresheet example showing the building tracks and resources"
-  width=550"
+  width="550"
   caption="Scoresheet example showing the building tracks and resources. Image credit: Pearl Games rulebook"
 >}}
 
