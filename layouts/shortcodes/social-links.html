@@ -1,0 +1,17 @@
+<div class="social-links-cta">
+    <span class="social-links-intro">{{ .Inner }}</span>
+    <div class="social-links-items">
+        <a href="https://mastodon.social/@martasbgcorner" rel="me" class="social-link" title="Mastodon">
+            {{ with resources.Get "icons/mastodon.svg" }}<img src="{{ .RelPermalink }}" alt="Mastodon" class="social-icon" />{{ end }}
+            <span>Mastodon</span>
+        </a>
+        <a href="https://www.facebook.com/profile.php?id=61579559053699" rel="me" class="social-link" title="Facebook">
+            {{ with resources.Get "icons/facebook.png" }}<img src="{{ .RelPermalink }}" alt="Facebook" class="social-icon" />{{ end }}
+            <span>Facebook</span>
+        </a>
+        <a href="https://boardgamegeek.com/blog/17259/martas-bg-corner" rel="me" class="social-link" title="BoardGameGeek">
+            {{ with resources.Get "icons/boardgamegeek.png" }}<img src="{{ .RelPermalink }}" alt="BoardGameGeek" class="social-icon" />{{ end }}
+            <span>BoardGameGeek</span>
+        </a>
+    </div>
+</div>

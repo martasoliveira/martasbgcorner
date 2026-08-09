@@ -378,37 +378,45 @@ nav.pagination .page-link.disabled {
 }
 
 /* ============================================
-   MASTODON CTA — End of post call-to-action
+   SOCIAL LINKS CTA — End of About page
    ============================================ */
-.mastodon-cta {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
+.social-links-cta {
     margin-top: 1rem;
     padding: 1rem 1.25rem;
     background: var(--card-background);
     border-radius: 12px;
     box-shadow: var(--shadow-l1);
-    border-left: 4px solid #6364ff;
 }
 
-.mastodon-icon {
-    width: 28px;
-    height: 28px;
-    flex-shrink: 0;
-}
-
-.mastodon-cta span {
+.social-links-intro {
+    display: block;
     color: var(--card-text-color-main);
     font-size: 1.5rem;
+    margin-bottom: 0.75rem;
 }
 
-.mastodon-cta a {
-    color: #6364ff;
+.social-links-items {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1.25rem;
+}
+
+.social-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--card-text-color-main);
     font-weight: bold;
     text-decoration: none;
 }
 
-.mastodon-cta a:hover {
+.social-link:hover {
     text-decoration: underline;
+}
+
+.social-icon {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
 }
