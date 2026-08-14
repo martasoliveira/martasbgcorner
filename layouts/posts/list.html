@@ -1,6 +1,7 @@
 {{ define "main" }}
     <div class="article-list">
         <h1 style="padding: 0 1rem 1rem;">{{ .Title }}</h1>
+        <p class="subtitle" style="padding: 0 1rem 1rem;">{{ T "posts_subtitle" }}</p>
 
         <div class="post-filter">
             <button class="filter-year active" onclick="clearFilter(this)">{{ T "filter_all" }}</button>

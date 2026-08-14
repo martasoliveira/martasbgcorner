@@ -2,22 +2,26 @@
     {{ if or (eq .Data.Plural "games") (eq .Data.Plural "designers") (eq .Data.Plural "publishers") (eq .Data.Plural "tags") }}
         
         {{ $titleKey := "games_title" }}
+        {{ $subtitleKey := "games_subtitle" }}
         {{ $searchKey := "games_search" }}
         {{ $notFoundKey := "games_not_found" }}
         {{ $idPrefix := "game" }}
 
         {{ if eq .Data.Plural "designers" }}
             {{ $titleKey = "designers_title" }}
+            {{ $subtitleKey = "designers_subtitle" }}
             {{ $searchKey = "designers_search" }}
             {{ $notFoundKey = "designers_not_found" }}
             {{ $idPrefix = "designer" }}
         {{ else if eq .Data.Plural "publishers" }}
             {{ $titleKey = "publishers_title" }}
+            {{ $subtitleKey = "publishers_subtitle" }}
             {{ $searchKey = "publishers_search" }}
             {{ $notFoundKey = "publishers_not_found" }}
             {{ $idPrefix = "publisher" }}
         {{ else if eq .Data.Plural "tags" }}
             {{ $titleKey = "tags_title" }}
+            {{ $subtitleKey = "tags_subtitle" }}
             {{ $searchKey = "tags_search" }}
             {{ $notFoundKey = "tags_not_found" }}
             {{ $idPrefix = "tag" }}
@@ -25,8 +29,9 @@
 
         <div class="article-list">
             <h1 style="padding: 0 1rem 1rem;">{{ T $titleKey }}</h1>
+            <p class="subtitle" style="padding: 0 1rem 1rem;">{{ T $subtitleKey }}</p>
 
-            <input 
+            <input
                 type="text" 
                 id="{{ $idPrefix }}-search"
                 placeholder="{{ T $searchKey }}"
@@ -75,6 +80,9 @@
 
         <div class="article-list">
             <h1 style="padding: 0 1rem 1rem;">{{ T (printf "%s_title" .Data.Plural) }}</h1>
+            {{ with T (printf "%s_subtitle" .Data.Plural) }}
+                <p class="subtitle" style="padding: 0 1rem 1rem;">{{ . }}</p>
+            {{ end }}
 
             <ul id="taxonomy-list">
                 {{ range .Data.Terms.Alphabetical }}

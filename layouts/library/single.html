@@ -1,0 +1,406 @@
+{{ define "main" }}
+
+{{ $game := . }}
+{{ $gameName := .Title }}
+{{ $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources) }}
+{{ $libraryHome := site.GetPage "/library" }}
+{{ $libraryURL := "/library/" | relLangURL }}
+{{ with $libraryHome }}{{ $libraryURL = .RelPermalink }}{{ end }}
+
+<div class="library-title-page">
+
+  <a class="back-link" href="{{ $libraryURL }}">
+    <span class="arrow">&larr;</span> {{ T "library_back" }}
+  </a>
+
+  <div class="sticky-nav">
+    <span class="sticky-title">{{ $gameName }}</span>
+
+    <button class="nav-toggle" id="navToggle" type="button" aria-expanded="false" aria-controls="stickyNavLinks">
+      <span>{{ T "library_jump_to" }}</span>
+      <span class="chevron">&#9662;</span>
+    </button>
+
+    <nav id="stickyNavLinks">
+      {{ if .Params.expansions }}<a href="#expansions">{{ T "library_nav_expansions" }}</a>{{ end }}
+      <a href="#my-posts">{{ T "library_nav_posts" }}</a>
+      <a href="#photos">{{ T "library_nav_photos" }}</a>
+      {{ if .Params.links }}<a href="#links-videos">{{ T "library_nav_links" }}</a>{{ end }}
+    </nav>
+  </div>
+
+  {{ with .Params.ownership_status }}
+    <span class="status-badge {{ . }}">
+      {{ if eq . "own" }}{{ T "library_status_own" }}
+      {{ else if eq . "not-owned" }}{{ T "library_status_not_owned" }}
+      {{ else if eq . "previously-owned" }}{{ T "library_status_previously_owned" }}
+      {{ else }}{{ . }}
+      {{ end }}
+    </span>
+  {{ end }}
+
+  <h1>{{ $gameName }}</h1>
+
+  <div class="hero-row">
+  {{ with $image }}
+    {{ partial "library/responsive-image" (dict "Image" . "MaxWidth" 1600 "Alt" (printf "%s box cover" $gameName) "Class" "cover") }}
+  {{ end }}
+
+  <div class="stats-block">
+    <dl class="stats-grid">
+      {{ if and .Params.min_players .Params.max_players }}
+        <div><dt>{{ T "library_filter_players" }}</dt><dd>
+          {{ if eq .Params.min_players .Params.max_players }}{{ .Params.min_players }}{{ else }}{{ .Params.min_players }}&ndash;{{ .Params.max_players }}{{ end }}
+        </dd></div>
+      {{ end }}
+
+      {{ if and .Params.playtime_min .Params.playtime_max }}
+        <div><dt>{{ T "library_filter_playtime" }}</dt><dd>
+          {{ if eq .Params.playtime_min .Params.playtime_max }}{{ .Params.playtime_min }}{{ else }}{{ .Params.playtime_min }}&ndash;{{ .Params.playtime_max }}{{ end }} min
+        </dd></div>
+      {{ end }}
+
+      {{ with .Params.designer }}
+        <div><dt>{{ T "library_filter_designer" }}</dt><dd>
+          {{ range $i, $d := . }}{{ if $i }}, {{ end }}<a href="{{ printf "%s?%s" $libraryURL (querify "designer" $d) }}">{{ $d }}</a>{{ end }}
+        </dd></div>
+      {{ end }}
+
+      {{ with .Params.illustrator }}
+        <div><dt>{{ T "library_filter_illustrator" }}</dt><dd>
+          {{ range $i, $ill := . }}{{ if $i }}, {{ end }}<a href="{{ printf "%s?%s" $libraryURL (querify "illustrator" $ill) }}">{{ $ill }}</a>{{ end }}
+        </dd></div>
+      {{ end }}
+
+      {{ with .Params.publisher }}
+        <div><dt>{{ T "library_filter_publisher" }}</dt><dd>
+          <a href="{{ printf "%s?%s" $libraryURL (querify "publisher" .) }}">{{ . }}</a>
+        </dd></div>
+      {{ end }}
+
+      {{ with .Params.year_published }}
+        <div><dt>Year</dt><dd>{{ . }}</dd></div>
+      {{ end }}
+
+      {{ with .Params.edition_owned }}
+        <div class="full"><dt>{{ T "library_my_copy" }}</dt><dd>{{ . }}</dd></div>
+      {{ end }}
+
+      {{ with .Params.mechanics }}
+        <div class="full">
+          <dt>{{ T "library_mechanics" }}</dt>
+          <dd>
+            <div class="mechanics-tags">
+              {{ range . }}<span>{{ . }}</span>{{ end }}
+            </div>
+          </dd>
+        </div>
+      {{ end }}
+    </dl>
+  </div>
+  </div>
+
+  <section>
+    <h2>{{ T "library_about" }}</h2>
+    {{ .Content }}
+  </section>
+
+  <section>
+    <h2>{{ T "library_thoughts" }}</h2>
+    {{ if .Params.my_rating }}
+      <div class="rating-line"><span class="rating-badge">{{ .Params.my_rating }}/10</span></div>
+    {{ end }}
+    {{ with .Params.my_thoughts }}<p>{{ . | markdownify }}</p>{{ end }}
+    {{ if .Params.review_link }}
+      <a class="review-link" href="{{ .Params.review_link | relLangURL }}">{{ T "library_read_review" }}</a>
+    {{ else }}
+      <p class="no-review-note">{{ T "library_not_reviewed" }}</p>
+    {{ end }}
+  </section>
+
+  {{ with .Params.expansions }}
+    <section id="expansions">
+      <h2>{{ T "library_expansions" }}</h2>
+      <div class="expansion-list">
+        {{ range . }}
+          {{ $expName := .name }}
+          {{ $expImage := partial "helper/image" (dict "Image" .image "Resources" $game.Resources) }}
+          <div class="expansion-block">
+            <div class="expansion-card">
+              {{ with $expImage }}{{ partial "library/responsive-image" (dict "Image" . "MaxWidth" 400 "Alt" $expName) }}{{ end }}
+              <div class="exp-body">
+                <div class="exp-top">
+                  <p class="exp-name">{{ .name }}</p>
+                  <span class="status-badge {{ .ownership_status }}">
+                    {{ if eq .ownership_status "own" }}{{ T "library_status_own" }}
+                    {{ else if eq .ownership_status "not-owned" }}{{ T "library_status_not_owned" }}
+                    {{ else if eq .ownership_status "previously-owned" }}{{ T "library_status_previously_owned" }}
+                    {{ else }}{{ .ownership_status }}
+                    {{ end }}
+                  </span>
+                </div>
+                <p class="exp-stats">
+                  {{ if and .min_players .max_players }}&#128101; {{ .min_players }}&ndash;{{ .max_players }}{{ end }}
+                  {{ if or .playtime_delta_min .playtime_delta_max }} &middot; &#9201; {{ if gt (int .playtime_delta_min) 0 }}+{{ end }}{{ .playtime_delta_min }}&ndash;{{ if gt (int .playtime_delta_max) 0 }}+{{ end }}{{ .playtime_delta_max }} min{{ end }}
+                  {{ if .same_designer }} &middot; Same designer{{ end }}
+                </p>
+              </div>
+            </div>
+            <div class="expansion-detail">
+              {{ with .about }}
+                <h4>About the Expansion</h4>
+                <p>{{ . }}</p>
+              {{ end }}
+              {{ if eq .ownership_status "own" }}
+                {{ if .my_rating }}
+                  <h4>{{ T "library_thoughts" }}</h4>
+                  <div class="rating-line"><span class="rating-badge">{{ .my_rating }}/10</span></div>
+                  {{ with .my_thoughts }}<p>{{ . }}</p>{{ end }}
+                  {{ if .review_link }}<a class="review-link" href="{{ .review_link | relLangURL }}">{{ T "library_read_review" }}</a>{{ end }}
+                {{ else }}
+                  <p class="no-review-note">Not played yet &mdash; no thoughts or rating to share so far.</p>
+                {{ end }}
+              {{ else }}
+                <p class="no-review-note">On the wishlist &mdash; not owned yet.</p>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+
+  {{ $myPosts := where (where site.RegularPages "Section" "posts") "Params.games" "intersect" (slice $gameName) }}
+  {{ $myPosts = $myPosts.ByDate.Reverse }}
+  <section id="my-posts">
+    <h2>{{ T "library_my_posts" }}</h2>
+    {{ if $myPosts }}
+      <div class="my-posts-list">
+        {{ range first 2 $myPosts }}
+          {{ $postImage := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources) }}
+          <a class="my-post-card" href="{{ .RelPermalink }}">
+            {{ with $postImage }}{{ partial "library/responsive-image" (dict "Image" . "MaxWidth" 300 "Alt" "") }}{{ end }}
+            <div>
+              <p class="mp-title">{{ .Title }}</p>
+              <p class="mp-date">{{ .Date | time.Format (or site.Params.dateFormat.published "Jan 02, 2006") }}</p>
+            </div>
+          </a>
+        {{ end }}
+      </div>
+      {{ if gt (len $myPosts) 2 }}
+        {{ $showAllURL := "" }}
+        {{ range (index $myPosts 0).GetTerms "games" }}
+          {{ if eq .Title $gameName }}{{ $showAllURL = .RelPermalink }}{{ end }}
+        {{ end }}
+        {{ if $showAllURL }}
+          <a class="show-all-posts" href="{{ $showAllURL }}">{{ T "library_show_all" }} {{ len $myPosts }} {{ T "library_nav_posts" }} &rarr;</a>
+        {{ end }}
+      {{ end }}
+    {{ else }}
+      <p class="no-review-note">No posts yet &mdash; check back after the first review.</p>
+    {{ end }}
+  </section>
+
+  {{ $photos := slice }}
+  {{ range .Resources.ByType "image" }}
+    {{ if hasPrefix .Name "photo" }}{{ $photos = $photos | append . }}{{ end }}
+  {{ end }}
+  <section id="photos">
+    <h2>{{ T "library_photos" }}</h2>
+    {{ if $photos }}
+      <p class="subtitle">Click any photo to view it full-size.</p>
+
+      {{ $photoCap := 8 }}
+      <div class="gallery-grid" id="galleryGrid">
+        {{ range $i, $p := $photos }}
+          {{ $thumbDisplayWidth := 240 }}
+          {{ if lt $p.Width $thumbDisplayWidth }}{{ $thumbDisplayWidth = $p.Width }}{{ end }}
+          {{ $thumbDisplayHeight := div (mul $thumbDisplayWidth $p.Height) $p.Width }}
+          {{ $thumbSourceWidth := int (mul $thumbDisplayWidth 1.5) }}
+          {{ if gt $thumbSourceWidth $p.Width }}{{ $thumbSourceWidth = $p.Width }}{{ end }}
+          {{ $thumb := $p.Resize (printf "%dx" $thumbSourceWidth) }}
+          {{ $thumbWebp := $p.Resize (printf "%dx webp q82" $thumbSourceWidth) }}
+          {{ $fullWidth := 1600 }}
+          {{ if lt $p.Width $fullWidth }}{{ $fullWidth = $p.Width }}{{ end }}
+          {{ $full := $p.Resize (printf "%dx" $fullWidth) }}
+          {{ $fullWebp := $p.Resize (printf "%dx webp q82" $fullWidth) }}
+          <a class="gallery-item{{ if ge $i $photoCap }} gallery-extra{{ end }}" href="{{ $full.RelPermalink }}" data-full="{{ $full.RelPermalink }}" data-full-webp="{{ $fullWebp.RelPermalink }}" {{ if ge $i $photoCap }}hidden{{ end }}>
+            <picture>
+              <source srcset="{{ $thumbWebp.RelPermalink }}" type="image/webp">
+              <img src="{{ $thumb.RelPermalink }}" width="{{ $thumbDisplayWidth }}" height="{{ $thumbDisplayHeight }}" loading="lazy" alt="{{ $gameName }} photo {{ add $i 1 }}">
+            </picture>
+          </a>
+        {{ end }}
+      </div>
+      {{ if gt (len $photos) $photoCap }}
+        <button class="show-all-posts" id="showAllPhotos" type="button">{{ T "library_show_all" }} {{ len $photos }} {{ T "library_photos" }} &rarr;</button>
+      {{ end }}
+
+      <div class="lightbox" id="lightbox" hidden>
+        <button class="lightbox-close" id="lightboxClose" type="button" aria-label="Close">&times;</button>
+        <button class="lightbox-prev" id="lightboxPrev" type="button" aria-label="Previous photo">&#10094;</button>
+        <picture>
+          <source id="lightboxSource" srcset="" type="image/webp">
+          <img class="lightbox-image" id="lightboxImage" src="" alt="">
+        </picture>
+        <button class="lightbox-next" id="lightboxNext" type="button" aria-label="Next photo">&#10095;</button>
+      </div>
+    {{ else }}
+      <p class="no-review-note">No photos yet.</p>
+    {{ end }}
+  </section>
+
+  {{ with .Params.links }}
+    <section id="links-videos">
+      <h2>{{ T "library_links_videos" }}</h2>
+      <ul class="links-list">
+        {{ range . }}
+          <li><a href="{{ .url }}" {{ if .newTab }}target="_blank" rel="noopener"{{ end }}>{{ .label }}</a></li>
+        {{ end }}
+      </ul>
+    </section>
+  {{ end }}
+
+  {{ $relatedTitles := where (where site.RegularPages "Section" "library") "RelPermalink" "ne" .RelPermalink }}
+  {{ $scored := slice }}
+  {{ range $relatedTitles }}
+    {{ $t := . }}
+    {{ $score := 0 }}
+    {{ $reason := "" }}
+    {{ if and $t.Params.designer $game.Params.designer }}
+      {{ if $t.Params.designer | intersect $game.Params.designer }}{{ $score = add $score 3 }}{{ $reason = "Same designer" }}{{ end }}
+    {{ end }}
+    {{ if and (eq $score 0) $t.Params.mechanics $game.Params.mechanics }}
+      {{ $overlap := $t.Params.mechanics | intersect $game.Params.mechanics }}
+      {{ if $overlap }}{{ $score = add $score 2 }}{{ $reason = index $overlap 0 }}{{ end }}
+    {{ end }}
+    {{ if and (eq $score 0) $t.Params.publisher $game.Params.publisher }}
+      {{ if eq $t.Params.publisher $game.Params.publisher }}{{ $score = 1 }}{{ $reason = $game.Params.publisher }}{{ end }}
+    {{ end }}
+    {{ if gt $score 0 }}
+      {{ $scored = $scored | append (dict "Page" $t "Score" $score "Reason" $reason) }}
+    {{ end }}
+  {{ end }}
+  {{ $scored = sort $scored "Score" "desc" }}
+  {{ if $scored }}
+    <section id="related-titles">
+      <h2>{{ T "library_related_titles" }}</h2>
+      <div class="related-content">
+        <div class="flex article-list--tile">
+          {{ range first 4 $scored }}
+            {{ $rt := .Page }}
+            {{ $rtImage := partial "helper/image" (dict "Image" $rt.Params.image "Resources" $rt.Resources) }}
+            <article class="{{ if $rtImage }}has-image{{ end }}">
+              <a href="{{ $rt.RelPermalink }}">
+                {{ if $rtImage }}
+                <div class="article-image">
+                  {{ partial "library/responsive-image" (dict "Image" $rtImage "MaxWidth" 400 "Alt" "") }}
+                </div>
+                {{ end }}
+                <div class="article-details">
+                  <h2 class="article-title">{{ $rt.Title }}</h2>
+                  <p class="rt-reason">{{ .Reason }}</p>
+                </div>
+              </a>
+            </article>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+  {{ end }}
+
+</div>
+
+<script>
+  (function () {
+    var navToggle = document.getElementById('navToggle');
+    var stickyNavLinks = document.getElementById('stickyNavLinks');
+    if (!navToggle || !stickyNavLinks) return;
+    navToggle.addEventListener('click', function () {
+      var expanded = navToggle.getAttribute('aria-expanded') === 'true';
+      navToggle.setAttribute('aria-expanded', String(!expanded));
+      stickyNavLinks.classList.toggle('is-open', !expanded);
+    });
+    stickyNavLinks.querySelectorAll('a').forEach(function (link) {
+      link.addEventListener('click', function () {
+        navToggle.setAttribute('aria-expanded', 'false');
+        stickyNavLinks.classList.remove('is-open');
+      });
+    });
+  })();
+
+  (function () {
+    var grid = document.getElementById('galleryGrid');
+    var lightbox = document.getElementById('lightbox');
+    if (!grid || !lightbox) return;
+
+    var items = Array.prototype.slice.call(grid.querySelectorAll('.gallery-item'));
+    var image = document.getElementById('lightboxImage');
+    var closeBtn = document.getElementById('lightboxClose');
+    var prevBtn = document.getElementById('lightboxPrev');
+    var nextBtn = document.getElementById('lightboxNext');
+    var currentIndex = 0;
+
+    var lightboxSource = document.getElementById('lightboxSource');
+
+    function show(index) {
+      currentIndex = (index + items.length) % items.length;
+      var item = items[currentIndex];
+      if (lightboxSource) lightboxSource.srcset = item.dataset.fullWebp || '';
+      image.src = item.dataset.full;
+      image.alt = item.querySelector('img').alt;
+    }
+
+    function open(index) {
+      show(index);
+      lightbox.hidden = false;
+      document.body.style.overflow = 'hidden';
+    }
+
+    function close() {
+      lightbox.hidden = true;
+      image.src = '';
+      document.body.style.overflow = '';
+    }
+
+    items.forEach(function (item, index) {
+      item.addEventListener('click', function (e) {
+        e.preventDefault();
+        open(index);
+      });
+    });
+
+    closeBtn.addEventListener('click', close);
+    prevBtn.addEventListener('click', function () { show(currentIndex - 1); });
+    nextBtn.addEventListener('click', function () { show(currentIndex + 1); });
+
+    lightbox.addEventListener('click', function (e) {
+      if (e.target === lightbox) close();
+    });
+
+    document.addEventListener('keydown', function (e) {
+      if (lightbox.hidden) return;
+      if (e.key === 'Escape') close();
+      if (e.key === 'ArrowLeft') show(currentIndex - 1);
+      if (e.key === 'ArrowRight') show(currentIndex + 1);
+    });
+  })();
+
+  (function () {
+    var showAllBtn = document.getElementById('showAllPhotos');
+    if (!showAllBtn) return;
+    showAllBtn.addEventListener('click', function () {
+      document.querySelectorAll('.gallery-extra').forEach(function (item) {
+        item.hidden = false;
+      });
+      showAllBtn.hidden = true;
+    });
+  })();
+</script>
+
+{{ partialCached "footer/footer" . }}
+{{ end }}
+
+{{ define "right-sidebar" }}
+  {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}

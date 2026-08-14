@@ -20,6 +20,15 @@
 {{- /* BlogPosting schema for every post */ -}}
 {{- if and .IsPage (eq .Section "posts") -}}
     {{- $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources) -}}
+    {{- $imagePermalink := "" -}}
+    {{- if $image -}}
+        {{- $imagePermalink = $image.Permalink -}}
+        {{- if and $image.Resource $image.Height -}}
+            {{- $jsonWidth := 1200 -}}
+            {{- if lt $image.Width $jsonWidth }}{{ $jsonWidth = $image.Width }}{{ end -}}
+            {{- $imagePermalink = ($image.Resource.Resize (printf "%dx" $jsonWidth)).RelPermalink -}}
+        {{- end -}}
+    {{- end -}}
     {{- $description := partialCached "data/description" . .RelPermalink -}}
 <script type="application/ld+json">
 {
@@ -51,7 +60,7 @@
     }
     {{- if $image -}}
     ,
-    "image": {{ absURL $image.Permalink | jsonify }}
+    "image": {{ absURL $imagePermalink | jsonify }}
     {{- end -}}
     {{- with .Params.tags }},
     "keywords": {{ delimit . ", " | jsonify }}
@@ -122,4 +131,77 @@
 }
 </script>
     {{- end -}}
+{{- end -}}
+
+{{- /* Game schema for Library Title pages. Uses the same "Game" type as the
+       Review schema above — this is schema.org's controlled vocabulary, not
+       the "Library"/"Titles" wording used in the page's own UI, so it stays
+       "Game" regardless of what the site calls the section. */ -}}
+{{- if and .IsPage (eq .Section "library") -}}
+    {{- $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources) -}}
+    {{- $libImagePermalink := "" -}}
+    {{- if $image -}}
+        {{- $libImagePermalink = $image.Permalink -}}
+        {{- if and $image.Resource $image.Height -}}
+            {{- $jsonWidth := 1200 -}}
+            {{- if lt $image.Width $jsonWidth }}{{ $jsonWidth = $image.Width }}{{ end -}}
+            {{- $libImagePermalink = ($image.Resource.Resize (printf "%dx" $jsonWidth)).RelPermalink -}}
+        {{- end -}}
+    {{- end -}}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": {{ .Title | jsonify }},
+    "url": {{ .Permalink | jsonify }},
+    "inLanguage": {{ .Language.LanguageCode | jsonify }}
+    {{- with .Params.designer -}}
+    ,"author": [
+        {{- range $i, $d := . }}{{ if $i }},{{ end }}
+        { "@type": "Person", "name": {{ $d | jsonify }} }
+        {{- end }}
+    ]
+    {{- end -}}
+    {{- with .Params.publisher -}}
+    ,"publisher": {
+        "@type": "Organization",
+        "name": {{ . | jsonify }}
+    }
+    {{- end -}}
+    {{- with .Params.year_published -}}
+    ,"datePublished": {{ printf "%v" . | jsonify }}
+    {{- end -}}
+    {{- if and .Params.min_players .Params.max_players -}}
+    ,"numberOfPlayers": {
+        "@type": "QuantitativeValue",
+        "minValue": {{ .Params.min_players | jsonify }},
+        "maxValue": {{ .Params.max_players | jsonify }}
+    }
+    {{- end -}}
+    {{- if and .Params.playtime_min .Params.playtime_max -}}
+    ,"additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "Playing Time",
+            "value": {{ printf "%v-%v minutes" .Params.playtime_min .Params.playtime_max | jsonify }}
+        }
+    ]
+    {{- end -}}
+    {{- if $image -}}
+    ,"image": {{ absURL $libImagePermalink | jsonify }}
+    {{- end -}}
+    {{- with .Params.my_rating -}}
+    ,"review": {
+        "@type": "Review",
+        "author": { "@type": "Person", "name": "Marta" },
+        "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": {{ . | jsonify }},
+            "bestRating": 10,
+            "worstRating": 1
+        }
+    }
+    {{- end }}
+}
+</script>
 {{- end -}}

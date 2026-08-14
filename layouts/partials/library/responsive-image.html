@@ -1,0 +1,44 @@
+{{- /*
+  Renders a resized <picture> (source format + WebP) for a Library image,
+  mirroring the site's `figure` shortcode so real photos (camera-resolution
+  originals) aren't shipped to the browser at full size.
+
+  Falls back to a plain, unprocessed <img> for SVGs or when no local Hugo
+  image resource is available (e.g. a remote URL), same as `figure` does.
+
+  MaxWidth controls the ON-PAGE display size (the <img> width/height attributes),
+  NOT the pixel resolution of the file served. The actual file is rendered at
+  displayDensity times that width (1.5x) for retina sharpness, same approach as
+  the figure shortcode.
+
+  Params:
+    Image    - the dict returned by partial "helper/image" (Resource, Permalink, Width, Height)
+    MaxWidth - int, the largest width (in px) this image should ever display at
+    Alt      - string, alt text (may be empty)
+    Class    - string, optional CSS class for the <img>
+    Loading  - string, optional, defaults to "lazy"
+*/ -}}
+{{- $image := .Image -}}
+{{- $maxWidth := .MaxWidth -}}
+{{- $alt := .Alt -}}
+{{- $class := .Class -}}
+{{- $loading := .Loading | default "lazy" -}}
+
+{{- if and $image $image.Resource $image.Height -}}
+  {{- $displayWidth := $maxWidth -}}
+  {{- if lt $image.Width $displayWidth }}{{ $displayWidth = $image.Width }}{{ end -}}
+  {{- $displayHeight := div (mul $displayWidth $image.Height) $image.Width -}}
+
+  {{- $displayDensity := 1.5 -}}
+  {{- $sourceWidth := int (mul $displayWidth $displayDensity) -}}
+  {{- if gt $sourceWidth $image.Width }}{{ $sourceWidth = $image.Width }}{{ end -}}
+
+  {{- $resized := $image.Resource.Resize (printf "%dx" $sourceWidth) -}}
+  {{- $webp := $image.Resource.Resize (printf "%dx webp q82" $sourceWidth) -}}
+  <picture>
+    <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+    <img{{ with $class }} class="{{ . }}"{{ end }} src="{{ $resized.RelPermalink }}" width="{{ $displayWidth }}" height="{{ $displayHeight }}" alt="{{ $alt }}" loading="{{ $loading }}">
+  </picture>
+{{- else if $image -}}
+  <img{{ with $class }} class="{{ . }}"{{ end }} src="{{ $image.Permalink }}" {{ with $image.Width }}width="{{ . }}"{{ end }} {{ with $image.Height }}height="{{ . }}"{{ end }} alt="{{ $alt }}" loading="{{ $loading }}">
+{{- end -}}

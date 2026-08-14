@@ -4,9 +4,13 @@
   so no existing post content needs to change.
 
   What it does differently:
-  - JPEG/PNG images are resized (capped at a sane max width) and a WebP copy (quality 82) is
-    generated alongside the original format, served via <picture> so the browser picks whichever
-    it supports.
+  - JPEG/PNG images are resized and a WebP copy (quality 82) is generated alongside the original
+    format, served via <picture> so the browser picks whichever it supports.
+  - "width" controls the ON-PAGE display size (the <img> width/height attributes), NOT the pixel
+    resolution of the file that gets served. The actual file is rendered at $displayDensity times
+    that width (default 1.5x) so it stays sharp on high-DPI/retina screens and has a little headroom
+    instead of being served pixel-for-pixel at the display box size. This keeps "width" meaning what
+    it always meant in existing posts (how big the photo looks on the page) while fixing blur.
   - GIFs and SVGs pass through untouched (animation / vector scaling would break otherwise).
   - Remote images (http/https src) or anything Hugo can't resolve as a local resource also pass
     through untouched, so the shortcode never breaks a build on an unexpected src.
@@ -43,18 +47,23 @@
   {{- if $link }}<a href="{{ $link }}"{{ with $target }} target="{{ . }}"{{ end }}{{ with $rel }} rel="{{ . }}"{{ end }}>{{ end -}}
 
   {{- if $image -}}
-    {{- $targetWidth := $maxWidth -}}
-    {{- with $width }}{{ $targetWidth = int . }}{{ end -}}
-    {{- if lt $image.Width $targetWidth }}{{ $targetWidth = $image.Width }}{{ end -}}
+    {{- $displayWidth := $maxWidth -}}
+    {{- with $width }}{{ $displayWidth = int . }}{{ end -}}
+    {{- if lt $image.Width $displayWidth }}{{ $displayWidth = $image.Width }}{{ end -}}
+    {{- $displayHeight := div (mul $displayWidth $image.Height) $image.Width -}}
 
-    {{- $resized := $image.Resize (printf "%dx" $targetWidth) -}}
-    {{- $webp := $image.Resize (printf "%dx webp q82" $targetWidth) -}}
+    {{- $displayDensity := 1.5 -}}
+    {{- $sourceWidth := int (mul $displayWidth $displayDensity) -}}
+    {{- if gt $sourceWidth $image.Width }}{{ $sourceWidth = $image.Width }}{{ end -}}
+
+    {{- $resized := $image.Resize (printf "%dx" $sourceWidth) -}}
+    {{- $webp := $image.Resize (printf "%dx webp q82" $sourceWidth) -}}
 
     <picture>
       <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
       <img src="{{ $resized.RelPermalink }}"
            {{ with $alt }}alt="{{ . }}"{{ else }}alt=""{{ end }}
-           width="{{ $resized.Width }}" height="{{ $resized.Height }}"
+           width="{{ $displayWidth }}" height="{{ $displayHeight }}"
            loading="lazy"
            {{ with $title }}title="{{ . }}"{{ end }}>
     </picture>

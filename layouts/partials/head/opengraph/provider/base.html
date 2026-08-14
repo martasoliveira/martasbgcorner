@@ -39,5 +39,11 @@
 
 {{ $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources) }}
 {{- if $image -}}
-    <meta property='og:image' content='{{ absURL $image.Permalink }}' />
+    {{- $ogPermalink := $image.Permalink -}}
+    {{- if and $image.Resource $image.Height -}}
+        {{- $ogWidth := 1200 -}}
+        {{- if lt $image.Width $ogWidth }}{{ $ogWidth = $image.Width }}{{ end -}}
+        {{- $ogPermalink = ($image.Resource.Resize (printf "%dx" $ogWidth)).RelPermalink -}}
+    {{- end -}}
+    <meta property='og:image' content='{{ absURL $ogPermalink }}' />
 {{- end -}}

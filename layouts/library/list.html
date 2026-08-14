@@ -1,0 +1,302 @@
+{{ define "main" }}
+
+{{ $titles := where site.RegularPages "Section" "library" }}
+{{ $titles = $titles.ByTitle }}
+
+{{ $designers := slice }}
+{{ $illustrators := slice }}
+{{ $publishers := slice }}
+{{ range $titles }}
+  {{ range .Params.designer }}{{ $designers = $designers | append . }}{{ end }}
+  {{ range .Params.illustrator }}{{ $illustrators = $illustrators | append . }}{{ end }}
+  {{ with .Params.publisher }}{{ $publishers = $publishers | append . }}{{ end }}
+{{ end }}
+{{ $designers = $designers | uniq | sort }}
+{{ $illustrators = $illustrators | uniq | sort }}
+{{ $publishers = $publishers | uniq | sort }}
+
+<div class="library-list-page">
+
+  <h1>{{ T "library_title" }}</h1>
+  <p class="subtitle">{{ T "library_subtitle" }}</p>
+
+  <div class="search-row">
+    <input type="search" id="library-search" placeholder="{{ T "library_search" }}" aria-label="{{ T "library_search" }}">
+  </div>
+
+  <button class="filters-toggle" id="filtersToggle" type="button" aria-expanded="false" aria-controls="filtersPanel">
+    <span>{{ T "library_filters" }}</span>
+    <span class="count-badge" id="activeFilterCount">0</span>
+    <span class="chevron">&#9662;</span>
+  </button>
+
+  <div class="filters-panel" id="filtersPanel" hidden>
+    <div class="filter-field">
+      <label for="f-designer">{{ T "library_filter_designer" }}</label>
+      <div class="combo-select">
+        <input type="text" id="f-designer" class="combo-input" placeholder="{{ T "library_filter_any" }}" autocomplete="off" role="combobox" aria-expanded="false">
+        <span class="combo-chevron">&#9662;</span>
+        <ul class="combo-options" hidden>
+          <li class="combo-option" data-value="">{{ T "library_filter_any" }}</li>
+          {{ range $designers }}<li class="combo-option" data-value="{{ . }}">{{ . }}</li>{{ end }}
+        </ul>
+      </div>
+    </div>
+    <div class="filter-field">
+      <label for="f-illustrator">{{ T "library_filter_illustrator" }}</label>
+      <div class="combo-select">
+        <input type="text" id="f-illustrator" class="combo-input" placeholder="{{ T "library_filter_any" }}" autocomplete="off" role="combobox" aria-expanded="false">
+        <span class="combo-chevron">&#9662;</span>
+        <ul class="combo-options" hidden>
+          <li class="combo-option" data-value="">{{ T "library_filter_any" }}</li>
+          {{ range $illustrators }}<li class="combo-option" data-value="{{ . }}">{{ . }}</li>{{ end }}
+        </ul>
+      </div>
+    </div>
+    <div class="filter-field">
+      <label for="f-publisher">{{ T "library_filter_publisher" }}</label>
+      <div class="combo-select">
+        <input type="text" id="f-publisher" class="combo-input" placeholder="{{ T "library_filter_any" }}" autocomplete="off" role="combobox" aria-expanded="false">
+        <span class="combo-chevron">&#9662;</span>
+        <ul class="combo-options" hidden>
+          <li class="combo-option" data-value="">{{ T "library_filter_any" }}</li>
+          {{ range $publishers }}<li class="combo-option" data-value="{{ . }}">{{ . }}</li>{{ end }}
+        </ul>
+      </div>
+    </div>
+    <div class="filter-break"></div>
+    <div class="filter-field range-field">
+      <label>{{ T "library_filter_players" }}</label>
+      <div class="range-inputs">
+        <input type="number" id="f-players-min" placeholder="1" min="1">
+        <span>&ndash;</span>
+        <input type="number" id="f-players-max" placeholder="6" min="1">
+      </div>
+    </div>
+    <div class="filter-field range-field playtime-field">
+      <label>{{ T "library_filter_playtime" }}</label>
+      <div class="range-inputs">
+        <input type="number" id="f-playtime-min" placeholder="15" min="0">
+        <span>&ndash;</span>
+        <input type="number" id="f-playtime-max" placeholder="120" min="0">
+      </div>
+    </div>
+    <button class="clear-filters" id="clearFilters" type="button">{{ T "library_clear_filters" }}</button>
+  </div>
+
+  <p class="result-count"><span id="visibleCount">{{ len $titles }}</span> / <span id="totalCount">{{ len $titles }}</span> {{ T "library_showing" }}</p>
+
+  <div class="game-list" id="gameList">
+    {{ range $titles }}
+      {{ $cover := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources) }}
+      <a class="game-row"
+         href="{{ .RelPermalink }}"
+         data-name="{{ .Title | lower }}"
+         data-designer="{{ delimit .Params.designer "|" | lower }}"
+         data-illustrator="{{ delimit .Params.illustrator "|" | lower }}"
+         data-publisher="{{ .Params.publisher | default "" | lower }}"
+         data-players-min="{{ .Params.min_players | default 0 }}"
+         data-players-max="{{ .Params.max_players | default 0 }}"
+         data-playtime-min="{{ .Params.playtime_min | default 0 }}"
+         data-playtime-max="{{ .Params.playtime_max | default 0 }}">
+        {{ with $cover }}{{ partial "library/responsive-image" (dict "Image" . "MaxWidth" 400 "Alt" "") }}{{ end }}
+        <div class="info">
+          <p class="name">{{ .Title }}</p>
+          <p class="meta">
+            {{ with .Params.designer }}<span>{{ delimit . ", " }}</span>{{ end }}
+            {{ with .Params.publisher }}<span>{{ . }}</span>{{ end }}
+            {{ with .Params.year_published }}<span>{{ . }}</span>{{ end }}
+          </p>
+          <div class="stats">
+            {{ if and .Params.min_players .Params.max_players }}
+              <span>&#128101; {{ if eq .Params.min_players .Params.max_players }}{{ .Params.min_players }}{{ else }}{{ .Params.min_players }}&ndash;{{ .Params.max_players }}{{ end }}</span>
+            {{ end }}
+            {{ if and .Params.playtime_min .Params.playtime_max }}
+              <span>&#9201; {{ if eq .Params.playtime_min .Params.playtime_max }}{{ .Params.playtime_min }}{{ else }}{{ .Params.playtime_min }}&ndash;{{ .Params.playtime_max }}{{ end }} min</span>
+            {{ end }}
+            {{ if .Params.my_rating }}
+              <span class="rating">&#11088; {{ .Params.my_rating }}/10</span>
+            {{ else }}
+              <span class="no-rating">{{ T "library_not_reviewed" }}</span>
+            {{ end }}
+          </div>
+        </div>
+      </a>
+    {{ end }}
+  </div>
+
+  <p class="no-results" id="noResults">{{ T "library_no_results" }}</p>
+
+</div>
+
+<script>
+(function () {
+  var searchInput = document.getElementById('library-search');
+  var toggleBtn = document.getElementById('filtersToggle');
+  var panel = document.getElementById('filtersPanel');
+  var clearBtn = document.getElementById('clearFilters');
+  var fDesigner = document.getElementById('f-designer');
+  var fIllustrator = document.getElementById('f-illustrator');
+  var fPublisher = document.getElementById('f-publisher');
+  var fPlayersMin = document.getElementById('f-players-min');
+  var fPlayersMax = document.getElementById('f-players-max');
+  var fPlaytimeMin = document.getElementById('f-playtime-min');
+  var fPlaytimeMax = document.getElementById('f-playtime-max');
+  var rows = Array.prototype.slice.call(document.querySelectorAll('.game-row'));
+  var visibleCountEl = document.getElementById('visibleCount');
+  var noResultsEl = document.getElementById('noResults');
+  var activeFilterCountEl = document.getElementById('activeFilterCount');
+
+  function overlaps(rowMin, rowMax, filterMin, filterMax) {
+    if (!filterMin && !filterMax) return true;
+    if (!rowMin && !rowMax) return true;
+    var fMin = filterMin || 0;
+    var fMax = filterMax || Infinity;
+    return rowMax >= fMin && rowMin <= fMax;
+  }
+
+  function activeFilterCount() {
+    var n = 0;
+    if (fDesigner.value) n++;
+    if (fIllustrator.value) n++;
+    if (fPublisher.value) n++;
+    if (fPlayersMin.value || fPlayersMax.value) n++;
+    if (fPlaytimeMin.value || fPlaytimeMax.value) n++;
+    return n;
+  }
+
+  function applyFilters() {
+    var q = (searchInput.value || '').trim().toLowerCase();
+    var designer = fDesigner.value.toLowerCase();
+    var illustrator = fIllustrator.value.toLowerCase();
+    var publisher = fPublisher.value.toLowerCase();
+    var playersMin = parseInt(fPlayersMin.value, 10) || 0;
+    var playersMax = parseInt(fPlayersMax.value, 10) || 0;
+    var playtimeMin = parseInt(fPlaytimeMin.value, 10) || 0;
+    var playtimeMax = parseInt(fPlaytimeMax.value, 10) || 0;
+
+    var visible = 0;
+    rows.forEach(function (row) {
+      var matches = true;
+      if (q && row.dataset.name.indexOf(q) === -1) matches = false;
+      if (matches && designer && row.dataset.designer.split('|').indexOf(designer) === -1) matches = false;
+      if (matches && illustrator && row.dataset.illustrator.split('|').indexOf(illustrator) === -1) matches = false;
+      if (matches && publisher && row.dataset.publisher !== publisher) matches = false;
+      if (matches && !overlaps(parseInt(row.dataset.playersMin, 10), parseInt(row.dataset.playersMax, 10), playersMin, playersMax)) matches = false;
+      if (matches && !overlaps(parseInt(row.dataset.playtimeMin, 10), parseInt(row.dataset.playtimeMax, 10), playtimeMin, playtimeMax)) matches = false;
+
+      row.classList.toggle('is-hidden', !matches);
+      if (matches) visible++;
+    });
+
+    visibleCountEl.textContent = visible;
+    noResultsEl.classList.toggle('visible', visible === 0);
+    var count = activeFilterCount();
+    activeFilterCountEl.textContent = count;
+    activeFilterCountEl.classList.toggle('active', count > 0);
+  }
+
+  searchInput.addEventListener('input', applyFilters);
+  [fPlayersMin, fPlayersMax, fPlaytimeMin, fPlaytimeMax].forEach(function (el) { el.addEventListener('input', applyFilters); });
+
+  function setupCombo(wrap) {
+    var input = wrap.querySelector('.combo-input');
+    var list = wrap.querySelector('.combo-options');
+    var options = Array.prototype.slice.call(list.querySelectorAll('.combo-option'));
+
+    function openList() {
+      list.hidden = false;
+      input.setAttribute('aria-expanded', 'true');
+    }
+    function closeList() {
+      list.hidden = true;
+      input.setAttribute('aria-expanded', 'false');
+    }
+    function filterOptions() {
+      var q = input.value.trim().toLowerCase();
+      options.forEach(function (opt) {
+        opt.hidden = q !== '' && opt.dataset.value !== '' && opt.textContent.toLowerCase().indexOf(q) === -1;
+      });
+    }
+
+    input.addEventListener('focus', function () { filterOptions(); openList(); });
+    input.addEventListener('click', function () { filterOptions(); openList(); });
+    input.addEventListener('input', function () {
+      filterOptions();
+      openList();
+      if (input.value.trim() === '') applyFilters();
+    });
+    input.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') { closeList(); input.blur(); }
+      if (e.key === 'Enter') {
+        var visible = options.filter(function (o) { return !o.hidden; });
+        if (visible.length === 1) {
+          input.value = visible[0].dataset.value;
+          closeList();
+          applyFilters();
+        }
+        e.preventDefault();
+      }
+    });
+
+    options.forEach(function (opt) {
+      opt.addEventListener('mousedown', function (e) {
+        e.preventDefault();
+        input.value = opt.dataset.value;
+        closeList();
+        applyFilters();
+      });
+    });
+
+    document.addEventListener('click', function (e) {
+      if (!wrap.contains(e.target)) closeList();
+    });
+  }
+
+  Array.prototype.slice.call(document.querySelectorAll('.combo-select')).forEach(setupCombo);
+
+  toggleBtn.addEventListener('click', function () {
+    var expanded = toggleBtn.getAttribute('aria-expanded') === 'true';
+    toggleBtn.setAttribute('aria-expanded', String(!expanded));
+    panel.hidden = expanded;
+  });
+
+  clearBtn.addEventListener('click', function () {
+    searchInput.value = '';
+    fDesigner.value = '';
+    fIllustrator.value = '';
+    fPublisher.value = '';
+    fPlayersMin.value = '';
+    fPlayersMax.value = '';
+    fPlaytimeMin.value = '';
+    fPlaytimeMax.value = '';
+    applyFilters();
+  });
+
+  // Pre-apply a filter passed in via the URL (e.g. a designer link from a
+  // Title page: /library/?designer=Paul+Dennen) and open the panel so the
+  // active filter is visible.
+  var params = new URLSearchParams(window.location.search);
+  var preApplied = false;
+  ['designer', 'illustrator', 'publisher'].forEach(function (key) {
+    var value = params.get(key);
+    if (!value) return;
+    var input = key === 'designer' ? fDesigner : (key === 'illustrator' ? fIllustrator : fPublisher);
+    input.value = value;
+    preApplied = true;
+  });
+  if (preApplied) {
+    toggleBtn.setAttribute('aria-expanded', 'true');
+    panel.hidden = false;
+  }
+
+  applyFilters();
+})();
+</script>
+
+{{ partialCached "footer/footer" . }}
+{{ end }}
+
+{{ define "right-sidebar" }}
+  {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}
