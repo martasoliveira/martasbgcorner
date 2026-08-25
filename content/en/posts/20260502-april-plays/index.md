@@ -7,7 +7,7 @@ author = "martas.bg.corner"
 image = 'banner.png'
 categories = ['Board Games', 'Monthly Play']
 tags = ['Solo Gaming', 'Multiplayer', 'Deck Building', 'Tableau Building', 'Hand Management', 'Worker Placement', 'Open Drafting']
-games = ['Onirim', 'Red Rising', "It's a Wonderful World", 'Last Will', 'Escape: The Curse of the Temple', 'Era of Kingdoms', 'Outlive', 'Side Quest: 7th Sea', 'Fromage', 'Paper Tales', 'Dice Throne Adventure', 'Ancient Knowledge', 'Viticulture']
+games = ['Onirim', 'Red Rising', "It's a Wonderful World", 'Last Will', 'Escape: The Curse of the Temple', 'Era of Kingdoms', 'Outlive', 'Side Quest: 7th Sea', 'Fromage', 'Paper Tales', 'Dice Throne Adventures', 'Ancient Knowledge', 'Viticulture']
 +++
 
 Hello everyone!

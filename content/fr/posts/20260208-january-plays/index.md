@@ -7,7 +7,7 @@ author = "martas.bg.corner"
 image = 'games-stats-january.jpg'
 categories = ['Jeux de Société', 'Parties du Mois']
 tags = ['Jeu en Solo']
-games = ['Voyageurs du Tigre du Sud', "8 qui Croque", 'Par Odin', 'Welcome to the Moon', 'La Baie des Marchands']
+games = ['Voyageurs du Tigre du Sud', "8 qui Croc'", 'Par Odin', 'Welcome to the Moon', 'La Baie des Marchands']
 +++
 Bonjour à tous !
 

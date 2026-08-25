@@ -7,7 +7,7 @@ author = "martas.bg.corner"
 image = 'banner.png'
 categories = ['Jeux de Société', 'Parties du Mois']
 tags = ['Jeu en Solo', 'Multijoueur']
-games = ["Minos: Dawn of the Bronze Age", "7 Wonders Architects", "It's a Wonderful World", "Harry Potter: Hogwarts Battle", "Septima", "Nautilion", "L'Expédition Perdue", "ROVE", "SOS Titanic", "Demeter", "Trek12: Himalaya", "Harmonies"]
+games = ["Minos: Dawn of the Bronze Age", "7 Wonders Architects", "It's a Wonderful World", "Harry Potter : Bataille À Poudlard", "Septima", "Nautilion", "L'Expédition Perdue", "ROVE", "SOS Titanic", "Demeter", "Trek12: Himalaya", "Harmonies"]
 +++
 
 Bonjour à tous !

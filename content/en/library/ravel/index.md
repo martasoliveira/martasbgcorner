@@ -1,5 +1,5 @@
 +++
-title = "R.A.V.E.L."
+title = "RAVEL"
 date = 2026-08-12
 draft = false
 image = "ravel-box.jpg"
@@ -14,7 +14,7 @@ image = "ravel-box.jpg"
   designer = ["Daniel McKinley"]
   illustrator = ["Christine Alcouffe"]
   publisher = "inPatience"
-  mechanics = ["Dice Rolling", "Solo / Solitaire Game"]
+  mechanics = ["Dice Rolling", "Solo Game"]
   my_rating = 8
   my_thoughts = "A perfect pocket puzzle game: quick to set up, quick to play, and endlessly replayable thanks to its variable difficulty. Great for anyone who enjoys solo puzzles that require careful planning and resource management."
   review_link = "/posts/20251218-ravel/"

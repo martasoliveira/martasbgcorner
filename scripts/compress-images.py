@@ -8,9 +8,9 @@ they were uploaded at forever (git keeps every version in history). This
 script fixes the source files themselves, so the repo doesn't keep bloating.
 
 Usage:
-    python3 compress-images.py                  # processes ./content by default
-    python3 compress-images.py content/en/posts/20260810-my-new-post
-    python3 compress-images.py path/to/one-photo.jpg
+    py compress-images.py                  # processes ./content by default
+    py compress-images.py content/en/posts/20260810-my-new-post --max-dim 2000 --quality 85 --dry-run
+    py compress-images.py path/to/one-photo.jpg
 
 What it does to each JPEG/PNG found:
     - Applies EXIF rotation permanently, then strips EXIF (GPS/camera metadata

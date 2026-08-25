@@ -1,5 +1,5 @@
 +++
-title = "Harry Potter - Bataille à Poudlard"
+title = "Harry Potter : Bataille à Poudlard"
 date = 2026-08-14
 draft = false
 image = "harry-potter-hogwarts-battle-box.jpg"
@@ -14,7 +14,7 @@ image = "harry-potter-hogwarts-battle-box.jpg"
   designer = ["Forrest-Pruzan Creative", "Kami Mandell", "Andrew Wolf"]
   illustrator = ["Joe Van Wetering"]
   publisher = "The Op Games"
-  mechanics = ["Cooperative Game", "Deck, Bag, and Pool Building", "Scenario / Mission / Campaign Game", "Variable Player Powers"]
+  mechanics = ["Cooperative Game", "Deck Building", "Campaign Game", "Variable Player Powers"]
   my_rating = 7
   my_thoughts = "Un deck-building complet et satisfaisant, porté par un thème que j'adore vraiment. Même après plusieurs mois sans y jouer, deux minutes suffisent pour se remettre dans le bain. L'absence de défausse pour épurer le deck, l'absence de progression d'une année à l'autre, et la chance parfois brutale de la pioche des Ennemis l'empêchent d'être parfait, mais j'apprécie chaque partie."
   review_link = "/posts/20260814-harry-potter/"
