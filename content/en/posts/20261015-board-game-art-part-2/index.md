@@ -181,4 +181,4 @@ That's it for the cards! The last part is about the games that take over the who
 
 In the meantime, tell me: has a card ever stopped you mid-game, just so you could look at it?
 
-Come share your comments on **[Mastodon](https://mastodon.social/@martasbgcorner/TOOT_ID)**, **[Facebook](https://www.facebook.com/profile.php?id=61579559053699)**, and **[BoardGameGeek](https://boardgamegeek.com/blog/17259/martas-bg-corner)**.
+Come share your comments on **[Mastodon](https://mastodon.social/@martasbgcorner/)**, **[Facebook](https://www.facebook.com/profile.php?id=61579559053699)**, and **[BoardGameGeek](https://boardgamegeek.com/blog/17259/martas-bg-corner)**.

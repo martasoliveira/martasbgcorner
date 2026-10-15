@@ -181,4 +181,4 @@ Voilà pour les cartes ! La dernière partie sera consacrée aux jeux qui envah
 
 En attendant, dites-moi : y a-t-il déjà eu une carte qui vous a arrêté en pleine partie, juste pour que vous puissiez la regarder ?
 
-Venez partager vos commentaires sur **[Mastodon](https://mastodon.social/@martasbgcorner/TOOT_ID)**, **[Facebook](https://www.facebook.com/profile.php?id=61579559053699)** et **[BoardGameGeek](https://boardgamegeek.com/blog/17259/martas-bg-corner)**.
+Venez partager vos commentaires sur **[Mastodon](https://mastodon.social/@martasbgcorner/)**, **[Facebook](https://www.facebook.com/profile.php?id=61579559053699)** et **[BoardGameGeek](https://boardgamegeek.com/blog/17259/martas-bg-corner)**.
