@@ -181,8 +181,8 @@ Wondrous Creatures est un jeu de placement d'ouvriers dans lequel on joue des ca
 
 ## Rendez-vous dans la partie 2
 
-Voilà pour cette première partie ! Dans la prochaine, on verra des jeux dont les cartes sont si belles que je les encadrerais volontiers, et quelques-uns où les cartes construisent carrément un monde entier sur la table.
+Voilà pour cette première partie ! La [partie 2](https://www.martasbgcorner.com/fr/posts/20261015-board-game-art-part-2/) est consacrée aux cartes : celles qui sont si belles que je les encadrerais volontiers, et celles qui construisent un monde entier sur la table.
 
-En attendant, dites-moi : y a-t-il déjà eu une boîte tellement belle qu'elle vous a fait acheter le jeu ?
+Et dites-moi : y a-t-il déjà eu une boîte tellement belle qu'elle vous a fait acheter le jeu ?
 
 Venez partager vos commentaires sur **[Mastodon](https://mastodon.social/@martasbgcorner/117345348952307185)**, **[Facebook](https://www.facebook.com/profile.php?id=61579559053699)** et **[BoardGameGeek](https://boardgamegeek.com/blog/17259/martas-bg-corner)**.

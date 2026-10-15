@@ -182,8 +182,8 @@ Wondrous Creatures is a worker placement game where you play cards to bring crea
 
 ## See You in Part 2
 
-That's it for this first part! In the next one, we'll look at games whose cards are so beautiful I'd happily frame them, and a few where the cards even build a whole world on the table.
+That's it for this first part! [Part 2](https://www.martasbgcorner.com/en/posts/20261015-board-game-art-part-2/) is all about cards: the ones so beautiful I'd happily frame them, and the ones that build a whole world on the table.
 
-In the meantime, tell me: was there ever a box so beautiful that it convinced you to buy a game?
+And tell me: was there ever a box so beautiful that it convinced you to buy a game?
 
 Come share your comments on **[Mastodon](https://mastodon.social/@martasbgcorner/117345348952307185)**, **[Facebook](https://www.facebook.com/profile.php?id=61579559053699)**, and **[BoardGameGeek](https://boardgamegeek.com/blog/17259/martas-bg-corner)**.

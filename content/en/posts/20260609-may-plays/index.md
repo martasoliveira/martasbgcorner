@@ -7,7 +7,7 @@ author = "martas.bg.corner"
 image = 'may-banner.png'
 categories = ['Board Games', 'Monthly Play']
 tags = ['Solo Gaming', 'Multiplayer', 'Hand Management', 'Tableau Building', 'Open Drafting', 'Small Games']
-games = ["It's a Wonderful World", 'Ancient Knowledge', 'Fromage', 'Fromaggio', 'Time Bomb', 'Broom Service', 'Onirim', 'Codenames', 'Age of Civilization', 'Suburbia', 'Ohio Bob']
+games = ["It's a Wonderful World", 'Ancient Knowledge', 'Fromage', 'Formaggio', 'Time Bomb', 'Broom Service', 'Onirim', 'Codenames', 'Age of Civilization', 'Suburbia', 'Ohio Bob']
 +++
 
 Hello everyone!
@@ -68,13 +68,13 @@ My rating: **8/10** — same as in the review. A game that rewards patience and 
   caption="Ancient Knowledge: managing the flow of time"
 >}}
 
-## Fromage and Fromaggio
+## Fromage and Formaggio
 
-These two are standalone games that can also be combined as expansions of each other. I've now played Fromage at three players and solo, and Fromaggio solo. I haven't mixed them yet, but I'm curious to try.
+These two are standalone games that can also be combined as expansions of each other. I've now played Fromage at three players and solo, and Formaggio solo. I haven't mixed them yet, but I'm curious to try.
 
 My verdict? I really like this game. As someone pointed out during my three-player session, the first play can feel a little overwhelming. There's a lot to track: plate colours, cheese colours, the different scoring conditions for each location, plus cows, buildings, and fruits. But after that first play, everything clicks into place and you start to see the strategies.
 
-If you ask me which one I prefer, honestly, I can't say. Both are really good. But they're also quite similar, so there's nothing dramatically new if you own both. My recommendation: start with Fromage. After several plays, if you're still hooked and want a bit more variety, then pick up Fromaggio. No need to rush into both at once. The components are fantastic, by the way, in both the retail and premium versions.
+If you ask me which one I prefer, honestly, I can't say. Both are really good. But they're also quite similar, so there's nothing dramatically new if you own both. My recommendation: start with Fromage. After several plays, if you're still hooked and want a bit more variety, then pick up Formaggio. No need to rush into both at once. The components are fantastic, by the way, in both the retail and premium versions.
 
 My rating: **8/10 for both**. Funny, addictive, and very well made.
 

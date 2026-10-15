@@ -7,7 +7,7 @@ author = "martas.bg.corner"
 image = 'may-banner.png'
 categories = ['Jeux de Société', 'Parties du Mois']
 tags = ['Jeu en Solo', 'Multiplayer', 'Hand Management', 'Tableau Building', 'Open Drafting', 'Petits Jeux']
-games = ["It's a Wonderful World", 'Ancient Knowledge', 'Fromage', 'Fromaggio', 'Time Bomb', 'Broom Service', 'Onirim', 'Codenames', 'Age of Civilization', 'Suburbia', "Ohio Bob et l'Amulette Perdue"]
+games = ["It's a Wonderful World", 'Ancient Knowledge', 'Fromage', 'Formaggio', 'Time Bomb', 'Broom Service', 'Onirim', 'Codenames', 'Age of Civilization', 'Suburbia', "Ohio Bob et l'Amulette Perdue"]
 +++
 
 Bonjour à tous !
@@ -67,13 +67,13 @@ Ma note : **8/10**, comme dans la critique. Un jeu qui récompense la patience e
   caption="Ancient Knowledge : gérer le passage du temps"
 >}}
 
-## Fromage et Fromaggio
+## Fromage et Formaggio
 
-Ces deux jeux sont indépendants mais peuvent aussi s'utiliser comme extensions l'un de l'autre. J'ai maintenant joué à Fromage à trois joueurs et en solo, et à Fromaggio en solo. Je ne les ai pas encore combinés, mais je suis curieuse d'essayer.
+Ces deux jeux sont indépendants mais peuvent aussi s'utiliser comme extensions l'un de l'autre. J'ai maintenant joué à Fromage à trois joueurs et en solo, et à Formaggio en solo. Je ne les ai pas encore combinés, mais je suis curieuse d'essayer.
 
 Mon avis ? J'aime vraiment ce jeu. Comme quelqu'un me l'a fait remarquer lors de notre partie à trois, la prise en main peut être un peu intimidante. Il y a beaucoup à suivre : les couleurs des assiettes, les couleurs des fromages, les différentes conditions de score pour chaque emplacement, sans parler des vaches, des bâtiments et des fruits. Mais après cette première partie, tout se met en place et les stratégies commencent à apparaître.
 
-Si vous me demandez lequel je préfère, honnêtement, je ne saurais pas dire. Les deux sont très bons. Mais ils se ressemblent beaucoup, donc il n'y a rien de vraiment nouveau si vous possédez les deux. Mon conseil : commencez par Fromage. Après plusieurs parties, si vous êtes toujours accro et souhaitez un peu plus de variété, passez à Fromaggio. Inutile de se précipiter sur les deux. Les composants sont fantastiques, aussi bien dans la version standard que premium.
+Si vous me demandez lequel je préfère, honnêtement, je ne saurais pas dire. Les deux sont très bons. Mais ils se ressemblent beaucoup, donc il n'y a rien de vraiment nouveau si vous possédez les deux. Mon conseil : commencez par Fromage. Après plusieurs parties, si vous êtes toujours accro et souhaitez un peu plus de variété, passez à Formaggio. Inutile de se précipiter sur les deux. Les composants sont fantastiques, aussi bien dans la version standard que premium.
 
 Ma note : **8/10 pour les deux**. Amusant, addictif, et très bien fait.
 
@@ -88,7 +88,7 @@ Ma note : **8/10 pour les deux**. Amusant, addictif, et très bien fait.
   src="formaggio.jpg"
   alt="Plateau et composants de Fromaggio"
   width="400"
-  caption="Fromaggio : même saveur, un peu plus de variété"
+  caption="Formaggio : même saveur, un peu plus de variété"
 >}}
 
 ## Time Bomb
