@@ -20,7 +20,14 @@ toc = false
 
 I'm a Portuguese girl who has loved board games for as long as I can remember. My favourites are Euro games and deckbuilders, and I play a lot of them solo. Here on **Marta's BG Corner** I share honest reviews, recaps of my plays and a peek into my collection, in English and French.
 
-🎪 I'm at SPIEL Essen 2026!
+{{< figure 
+    src="welcome-marta.jpg" 
+    alt="Welcome! I'm Marta." 
+    width="300"
+    caption="Welcome!" 
+>}}
+
+**I'm at SPIEL Essen 2026!**
 
 This is my **first SPIEL ever**, and I'm there from **22 to 24 October**, wandering the halls with a huge smile and a bag that gets heavier by the hour.
 
