@@ -200,4 +200,4 @@ And a small confession: if you noticed that some games in this post are shown wi
 
 Have you ever been to SPIEL Essen? And if you're here this year, which game has caught your eye so far?
 
-Come share your comments on **[Mastodon](https://mastodon.social/@martasbgcorner/TOOT_ID)**, **[Facebook](https://www.facebook.com/profile.php?id=61579559053699)**, and **[BoardGameGeek](https://boardgamegeek.com/blog/17259/martas-bg-corner)**.
+Come share your comments on **[Mastodon](https://mastodon.social/@martasbgcorner/)**, **[Facebook](https://www.facebook.com/profile.php?id=61579559053699)**, and **[BoardGameGeek](https://boardgamegeek.com/blog/17259/martas-bg-corner)**.

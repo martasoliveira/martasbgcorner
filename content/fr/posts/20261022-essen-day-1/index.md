@@ -201,4 +201,4 @@ Et une petite confession : si vous avez remarqué que certains jeux de cet artic
 
 Vous êtes déjà allés au SPIEL Essen ? Et si vous y êtes cette année, quel jeu vous a déjà tapé dans l'œil ?
 
-Venez partager vos commentaires sur **[Mastodon](https://mastodon.social/@martasbgcorner/TOOT_ID)**, **[Facebook](https://www.facebook.com/profile.php?id=61579559053699)** et **[BoardGameGeek](https://boardgamegeek.com/blog/17259/martas-bg-corner)**.
+Venez partager vos commentaires sur **[Mastodon](https://mastodon.social/@martasbgcorner/)**, **[Facebook](https://www.facebook.com/profile.php?id=61579559053699)** et **[BoardGameGeek](https://boardgamegeek.com/blog/17259/martas-bg-corner)**.
