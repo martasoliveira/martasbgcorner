@@ -1,7 +1,7 @@
 +++
 date = '2026-11-11'
 draft = false
-title = "Chopstick Tightrope – Review"
+title = "Chopstick Tightrope: Steady Hands Not Included"
 description = "A fun dexterity party game from SPIEL Essen 2026: balancing meeples on an elastic rope with chopsticks. My thoughts after 3 plays at 2 players."
 author = "martas.bg.corner"
 image = 'chopstick-tightrope-during-play.jpg'

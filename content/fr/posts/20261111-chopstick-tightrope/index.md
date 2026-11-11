@@ -1,7 +1,7 @@
 +++
 date = '2026-11-11'
 draft = false
-title = "Chopstick Tightrope – Critique"
+title = "Chopstick Tightrope : mains tremblantes s’abstenir"
 description = "Un jeu d'ambiance et d'adresse découvert à SPIEL Essen 2026 : des meeples en équilibre sur un élastique, posés avec des baguettes. Mon avis après 3 parties."
 author = "martas.bg.corner"
 image = 'chopstick-tightrope-during-play.jpg'
