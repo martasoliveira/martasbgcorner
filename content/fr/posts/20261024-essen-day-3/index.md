@@ -93,7 +93,7 @@ Puis est venu **Mayor of Chicago**, un jeu solo. Sofiane me l'a expliqué et il 
 
 ### Une dédicace d'Owen Davey
 
-*Fame & Fable · Auteur et illustrations : Owen Davey · Éditeur : Board Game Circus · [Fiche BGG](https://boardgamegeek.com/boardgame/421254/fame-and-fable)*
+*Fame & Fable · Auteur et illustrations : Owen Davey · Éditeur : Owen Davey Games · [Fiche BGG](https://boardgamegeek.com/boardgame/421254/fame-and-fable)*
 
 Après le déjeuner, j'ai passé l'après-midi à aller de stand en stand, à la découverte de nouveaux jeux.
 

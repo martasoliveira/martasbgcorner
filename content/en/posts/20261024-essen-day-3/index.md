@@ -93,7 +93,7 @@ Then came **Mayor of Chicago**, a solo game. Sofiane explained it and stayed to 
 
 ### A signature from Owen Davey
 
-*Fame & Fable: designed and illustrated by Owen Davey · Published by Board Game Circus · [BGG page](https://boardgamegeek.com/boardgame/421254/fame-and-fable)*
+*Fame & Fable: designed and illustrated by Owen Davey · Published by Owen Davey Games · [BGG page](https://boardgamegeek.com/boardgame/421254/fame-and-fable)*
 
 After lunch, I spent the afternoon moving from booth to booth, discovering new games.
 
