@@ -5,7 +5,7 @@ title = "Parties de Juillet 2026"
 description = "Mes parties de juillet 2026 : 20 parties en solo pour 12 jeux, portées par It's a Wonderful World, avec mes débuts sur Earth et Race for the Galaxy."
 author = "martas.bg.corner"
 image = 'july-plays-banner.jpg'
-categories = ['Jeux De Société', 'Parties Du Mois']
+categories = ['Jeux de Société', 'Parties du Mois']
 tags = ['Jeu en Solo']
 games = ['Earth', 'Race for the Galaxy', 'Black Rose Wars : Renaissance', 'Cyberion', 'Tiny Epic Crimes', 'Au Griffon Fonffon', '50 Clues : Morte ou Vive', "It's a Wonderful World", 'Harry Potter : Bataille à Poudlard', 'Era of Kingdoms', "8 qui Croc'", 'ROVE']
 +++

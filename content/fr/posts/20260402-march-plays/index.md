@@ -6,8 +6,8 @@ description = "Mes parties de mars 2026 : 15 parties pour 10 jeux, avec Dice Thr
 author = "martas.bg.corner"
 image = 'banner.png'
 categories = ['Jeux de Société', 'Parties du Mois']
-tags = ['Jeu en Solo', 'Multiplayer', 'Deck Building', 'Push Your Luck', 'Hand Management']
-games = ['Dice Throne Adventures', 'Alhambra', 'Dawn of the Zeds', 'Viticulture', 'Aquatica', 'Legacy of Yu', 'Imperial Miners', 'Coffee Roaster', 'Sylvion', 'Castellion']
+tags = ['Jeu en Solo', 'Multijoueur', 'Deck Building', 'Push Your Luck', 'Hand Management']
+games = ['Dice Throne Adventures', 'Alhambra', 'Dawn of the Zeds', 'Viticulture', 'Atlantes', 'Legacy of Yu', 'Imperial Miners', 'Coffee Roaster', 'Sylvion', 'Castellion']
 +++
 
 Bonjour à tous !

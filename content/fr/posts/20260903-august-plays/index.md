@@ -7,7 +7,7 @@ author = "martas.bg.corner"
 image = 'august-plays-banner.jpg'
 categories = ['Jeux de Société', 'Parties du Mois']
 tags = ['Jeu en Solo']
-games = ['Luthier', 'Once Upon a Line', 'Coming of Age', 'Fit to Print', "Libertalia : Winds of Galecrest", "Micro Hero : Hercule", 'Verdant', 'Terraforming Mars', 'Au Griffon Fonffon', 'Earth', "Clank ! Dans l'espace !", 'Race for the Galaxy', 'Final Girl', '7 Wonders Architects']
+games = ['Luthier', 'Once Upon a Line', 'Coming of Age', 'Fit to Print', "Libertalia : Winds of Galecrest", "Micro Hero : Hercule", 'Verdant', 'Terraforming Mars', 'Au Griffon Fonffon', 'Earth', "Clank ! Dans l'espace !", 'Race for the Galaxy', 'Final Girl', '7 Wonders: Architects']
 +++
 
 Bonjour à tous !

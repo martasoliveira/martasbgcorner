@@ -6,7 +6,7 @@ description = "Mes parties de mai 2026 : 24 parties pour 11 jeux, portées par A
 author = "martas.bg.corner"
 image = 'may-banner.png'
 categories = ['Jeux de Société', 'Parties du Mois']
-tags = ['Jeu en Solo', 'Multiplayer', 'Hand Management', 'Tableau Building', 'Open Drafting', 'Petits Jeux']
+tags = ['Jeu en Solo', 'Multijoueur', 'Hand Management', 'Tableau Building', 'Open Drafting', 'Petits Jeux']
 games = ["It's a Wonderful World", 'Ancient Knowledge', 'Fromage', 'Formaggio', 'Time Bomb', 'Broom Service', 'Onirim', 'Codenames', 'Age of Civilization', 'Suburbia', "Ohio Bob et l'Amulette Perdue"]
 +++
 

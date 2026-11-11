@@ -5,8 +5,8 @@ title = "Parties d'Avril 2026"
 description = "Mes parties d'avril 2026 : un record de 32 parties pour 17 jeux, avec Onirim en tête avec 6 parties."
 author = "martas.bg.corner"
 image = 'banner.png'
-categories = ['Jeux De Société', 'Parties Du Mois']
-tags = ['Jeu en Solo', 'Multiplayer', 'Deck Building', 'Tableau Building', 'Hand Management', "Placement D'ouvriers", 'Open Drafting']
+categories = ['Jeux de Société', 'Parties du Mois']
+tags = ['Jeu en Solo', 'Multijoueur', 'Deck Building', 'Tableau Building', 'Hand Management', "Placement d'ouvriers", 'Open Drafting']
 games = ['Onirim', 'Red Rising', "It's a Wonderful World", 'Last Will', 'Escape: The Curse of the Temple', 'Era of Kingdoms', 'Outlive', 'Side Quest: 7th Sea', 'Fromage', 'Paper Tales', 'Dice Throne Adventures', 'Ancient Knowledge', 'Viticulture']
 +++
 
