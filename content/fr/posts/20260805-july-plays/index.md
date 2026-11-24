@@ -7,7 +7,7 @@ author = "martas.bg.corner"
 image = 'july-plays-banner.jpg'
 categories = ['Jeux de Société', 'Parties du Mois']
 tags = ['Jeu en Solo']
-games = ['Earth', 'Race for the Galaxy', 'Black Rose Wars : Renaissance', 'Cyberion', 'Tiny Epic Crimes', 'Au Griffon Fonffon', '50 Clues : Morte ou Vive', "It's a Wonderful World", 'Harry Potter : Bataille à Poudlard', 'Era of Kingdoms', "8 qui Croc'", 'ROVE']
+games = ['Earth', 'Race for the Galaxy', 'Black Rose Wars : Renaissance', 'Cyberion', 'Tiny Epic Crimes', 'Au Griffon Fonffon', '50 Clues : Morte ou Vive', "It's a Wonderful World", 'Harry Potter : Bataille à Poudlard', 'Era of Kingdoms', "8 Qui Croc'", 'ROVE']
 +++
 
 Bonjour à tous !
