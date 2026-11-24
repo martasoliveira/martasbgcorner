@@ -6,7 +6,7 @@ description = "Mes parties de novembre 2025 : 16 parties pour 13 jeux, entre dé
 image = 'november-banner.png'
 author = "martas.bg.corner"
 categories = ['Jeux de Société', 'Parties du Mois']
-games = ['Perseverance: Castaway Chronicles', 'Heat Pedal to the Metal', 'Dans les Pas de Darwin', 'Finspan', 'Wingspan']
+games = ['Perseverance: Castaway Chronicles', 'Heat: Pedal to the Metal', 'Dans les Pas de Darwin', 'Finspan', 'Wingspan']
 tags = ['Jeu en Solo', 'VianaCon', 'Dice Placement', 'Push Your Luck']
 +++
 

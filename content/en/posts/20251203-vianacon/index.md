@@ -7,7 +7,7 @@ image = 'peddy-paper-viana.jpg'
 author = "martas.bg.corner"
 categories = ['Conventions']
 tags = ['VianaCon']
-games = ['Heat Pedal to the Metal', 'Finspan', 'In the Footsteps of Darwin', 'Fuse', 'Last Minute','Trash Travelers']
+games = ['Heat: Pedal to the Metal', 'Finspan', 'In the Footsteps of Darwin', 'Fuse', 'Last Minute','Trash Travelers']
 +++
 
 **VianaCon** is an annual board game convention held in Viana do Castelo, Portugal, strategically scheduled right after Essen Spiel. This year it took place on November 7–9. The event is organized by the association Artmatriz and is completely free to attend.

@@ -7,7 +7,7 @@ author = "martas.bg.corner"
 image = 'happy-t-shirt.jpg'
 categories = ['Conventions']
 tags = ['SPIEL Essen', 'Jeu en Solo']
-games = ['99x1', 'Dream Hoppers', 'Dwar7s Fall', 'Dwar7s Winter', 'Dwar7s Spring', 'Flame & Forge', 'Fame & Fable', 'Gaudí', 'Oniro', 'Light in the Dark', 'Gloomhaven: Boutons & Bestioles', 'Jewel Box', 'The Fog: Escape from Paradise']
+games = ['99x1', 'Dream Hoppers', 'Dwar7s Fall', 'Dwar7s Winter', 'Dwar7s Spring', 'Flame & Forge', 'Fame & Fable', 'Gaudí', 'Oniro', 'Light in the Dark', 'Gloomhaven : Boutons & Bestioles', 'Jewel Box', 'The Fog: Escape from Paradise']
 +++
 
 Bonjour à tous !
