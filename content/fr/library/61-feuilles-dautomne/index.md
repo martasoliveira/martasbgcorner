@@ -15,6 +15,7 @@ image = "61-feuilles-dautomne-box.jpg"
   illustrator = ["Hervine Galliou"]
   publisher = "Editions Philibert"
   mechanics = ["Dice Rolling", "Roll & Write", "Race", "Solo Game"]
+  my_rating = 7
 +++
 
 Un petit roll and write pour un à dix joueurs, édité en tirage limité au profit d'Accessijeux, une association française qui rend les jeux de société accessibles aux personnes déficientes visuelles. À chaque tour, on lance trois dés et chacun choisit comment les utiliser sur une feuille d'activités automnales, dans une course pour atteindre le premier 61 points.

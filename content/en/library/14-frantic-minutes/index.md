@@ -16,6 +16,7 @@ image = "14-frantic-minutes-box.jpg"
   publisher = "Bad Boom Games"
   edition_owned = "French edition (Bad Boom Games)"
   mechanics = ["Cooperative Game", "Move Through Deck", "Real-Time"]
+  my_rating = 7.5
 +++
 
 A real-time cooperative puzzle game for one to four players. The team works as engineers trapped in an eccentric inventor's laboratory and has fourteen minutes to escape before his doomsday machine goes off. Players flip, turn and place circuit pieces to complete the connections of each room, moving through the deck of rooms together against the clock.

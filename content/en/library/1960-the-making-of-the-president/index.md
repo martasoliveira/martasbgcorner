@@ -15,6 +15,7 @@ image = "1960-the-making-of-the-president-box.jpg"
   illustrator = ["Josh Cappel", "Donal Hegarty", "Christian Leonhard", "Rodger B. MacGowan", "Jason Matthews"]
   publisher = "Z-Man Games"
   mechanics = ["Card Driven", "Area Majority", "Hand Management", "Simulation"]
+  my_rating = 8.5
 +++
 
 A two-player card-driven strategy game about the 1960 United States presidential election, with one player as John F. Kennedy and the other as Richard Nixon. Players use cards either for their events or to campaign across the states, build momentum on the issues of the day and win the media, with moments such as the televised debates shaping the race for electoral votes.

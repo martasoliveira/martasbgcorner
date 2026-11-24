@@ -14,7 +14,7 @@ image = "13-jours-et-13-minutes-box.jpg"
   designer = ["Asger Aleksandrov Granerud", "Daniel Skjold Pedersen"]
   illustrator = ["Jacob Walker"]
   publisher = "Matagot"
-  mechanics = ["Area Majority / Influence", "Campaign / Battle Card Driven", "Hand Management"]
+  mechanics = ["Hand Management", "Area Majority"]
 +++
 
 A box bringing together two card-driven games for two players about the Cuban Missile Crisis: 13 Days, a tense strategy game, and 13 Minutes, its very short follow-up. One player leads the United States and the other the Soviet Union, using cards to gain influence on key fronts and in world opinion while trying not to push the crisis into nuclear war.

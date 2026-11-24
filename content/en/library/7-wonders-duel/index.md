@@ -15,6 +15,7 @@ image = "7-wonders-duel-box.jpg"
   illustrator = ["Miguel Coimbra"]
   publisher = "Repos Production"
   mechanics = ["End Game Bonuses", "Income", "Tableau Building", "Modular Board", "Multi-Use Cards", "Open Drafting", "Set Collection"]
+  my_rating = 9
 
   [[params.expansions]]
     name = "7 Wonders Duel: Pantheon"
