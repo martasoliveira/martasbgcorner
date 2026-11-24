@@ -6,7 +6,7 @@ description = "A recap of my November 2025 plays, 16 games across 13 titles, inc
 author = "martas.bg.corner"
 image = 'november-banner.png'
 categories = ['Board Games', 'Monthly Play']
-games = ['Perseverance: Castaway Chronicles', 'Heat Pedal to the Metal', 'In the Footsteps of Darwin', 'Finspan', 'Wingspan']
+games = ['Perseverance: Castaway Chronicles', 'Heat: Pedal to the Metal', 'In the Footsteps of Darwin', 'Finspan', 'Wingspan']
 tags = ['Solo Gaming', 'VianaCon', 'Dice Placement', 'Push Your Luck']
 +++
 
