@@ -7,7 +7,7 @@ author = "martas.bg.corner"
 image = 'september-plays-banner.jpg'
 categories = ['Jeux de Société', 'Parties du Mois']
 tags = ['Jeu en Solo']
-games = ["Darwin's Journey", 'Unconscious Mind', 'Fromage', 'Black Rose Wars: Rebirth', 'Once Upon a Line', 'Nautilion']
+games = ["Darwin's Journey", 'Unconscious Mind', 'Fromage', 'Black Rose Wars : Renaissance', 'Once Upon a Line', 'Nautilion']
 +++
 
 Bonjour à tous !

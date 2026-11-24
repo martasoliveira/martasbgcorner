@@ -7,7 +7,7 @@ author = "martas.bg.corner"
 image = 'my-boardgames.jpg'
 categories = ['Jeux de Société', 'Présentation']
 tags = ['Jeu en Solo', 'Deck Building', 'Euro Game', 'Hand Management']
-games = ['City of Spies: Estoril 1942', 'Pandemic Legacy: Saison 1', 'Museum', 'Anachrony', 'Dark Tales', "It's a Wonderful World", 'Nautilion', 'Jaipur', 'Century: Spice Road']
+games = ['City of Spies: Estoril 1942', 'Pandemic Legacy : Saison 1', 'Museum', 'Anachrony', 'Dark Tales', "It's a Wonderful World", 'Nautilion', 'Jaipur', 'Century: Spice Road']
 +++
 Bonjour à tous !
 

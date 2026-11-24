@@ -7,7 +7,7 @@ author = "martas.bg.corner"
 image = 'october-plays-banner.jpg'
 categories = ['Jeux de Société', 'Parties du Mois']
 tags = ['Jeu en Solo', 'SPIEL Essen']
-games = ['Moustache', 'Karnivorous', 'Chopstick Tightrope', 'Light in the Dark', 'Gloomhaven: Boutons & Bestioles', 'Mayor of Chicago', 'Mazing', '7th Seal', 'The Fog: Escape from Paradise', 'Dune: Imperium', 'Planta Nubo', 'Castellion', 'Codex Naturalis']
+games = ['Moustache', 'Karnivorous', 'Chopstick Tightrope', 'Light in the Dark', 'Gloomhaven : Boutons & Bestioles', 'Mayor of Chicago', 'Mazing', '7th Seal', 'The Fog: Escape from Paradise', 'Dune: Imperium', 'Planta Nubo', 'Castellion', 'Codex Naturalis']
 +++
 
 Bonjour à tous !
