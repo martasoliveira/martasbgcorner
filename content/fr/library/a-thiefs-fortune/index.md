@@ -1,5 +1,5 @@
 +++
-title = "A Thief's Fortune"
+title = "Destin de Voleur"
 date = 2026-11-25
 draft = false
 image = "a-thiefs-fortune-box.jpg"
@@ -14,6 +14,7 @@ image = "a-thiefs-fortune-box.jpg"
   designer = ["Konstantinos Kokkinis", "Sotirios Tsantilas"]
   illustrator = ["Kinetic"]
   publisher = "Artipia Games"
+  edition_owned = "Édition Française"
   mechanics = ["Open Drafting"]
 +++
 

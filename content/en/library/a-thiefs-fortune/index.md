@@ -14,6 +14,7 @@ image = "a-thiefs-fortune-box.jpg"
   designer = ["Konstantinos Kokkinis", "Sotirios Tsantilas"]
   illustrator = ["Kinetic"]
   publisher = "Artipia Games"
+  edition_owned = "French Edition"
   mechanics = ["Open Drafting"]
 +++
 
