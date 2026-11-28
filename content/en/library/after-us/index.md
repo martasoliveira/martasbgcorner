@@ -15,7 +15,7 @@ image = "after-us-box.jpg"
   illustrator = ["Vincent Dutrait"]
   publisher = "Catch Up Games"
   edition_owned = "French edition (Catch Up Games)"
-  mechanics = ["Deck, Bag, and Pool Building", "Tableau Building", "Race", "Simultaneous Action Selection"]
+  mechanics = ["Deck Building", "Tableau Building", "Race", "Simultaneous Action Selection"]
   my_rating = 7
 +++
 
