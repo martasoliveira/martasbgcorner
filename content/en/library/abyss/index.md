@@ -14,6 +14,7 @@ image = "abyss-box.jpg"
   designer = ["Bruno Cathala", "Charles Chevallier"]
   illustrator = ["Xavier Collette"]
   publisher = "Bombyx"
+  edition_owned = "Spanish Edition"
   mechanics = ["Auction", "Hand Management", "Memory", "Open Drafting", "Push Your Luck", "Set Collection"]
 
   [[params.expansions]]

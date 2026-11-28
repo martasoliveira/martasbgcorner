@@ -16,6 +16,7 @@ image = "age-of-civilization-box.jpg"
   publisher = "Ice Makes"
   edition_owned = "French edition (Ice Makes)"
   mechanics = ["Action Points", "Solo Game", "Tech Tree", "Variable Player Powers", "Worker Placement"]
+  my_rating = 6
 +++
 
 A compact civilisation game played over six rounds, in which each player can lead up to three historical civilisations. Workers are sent to research technologies, build wonders, trade and develop culture or military strength, and choosing when to switch to a new civilisation is at the heart of the game.

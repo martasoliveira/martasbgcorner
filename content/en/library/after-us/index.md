@@ -15,7 +15,8 @@ image = "after-us-box.jpg"
   illustrator = ["Vincent Dutrait"]
   publisher = "Catch Up Games"
   edition_owned = "French edition (Catch Up Games)"
-  mechanics = ["Deck Building", "Tableau Building", "Race", "Simultaneous Action Selection"]
+  mechanics = ["Deck, Bag, and Pool Building", "Tableau Building", "Race", "Simultaneous Action Selection"]
+  my_rating = 7
 +++
 
 A deck-building game set long after humanity has disappeared, in which each player leads a tribe of apes on its way to collective intelligence. Each turn, players combine the cards they play to gather resources and recruit new, stronger apes, and the first to reach 80 points wins.
